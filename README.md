@@ -39,7 +39,7 @@
 | 🇨🇭 Switzerland | 132 | SIX | FinanceDatabase validated |
 | 🇪🇸 Spain | 106 | BME | FinanceDatabase validated |
 
-> Data as of July 2026. Validated using FinanceDatabase cross-reference. Full list: [`data/validated_universe_flat.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/validated_universe_flat.csv)
+> Data as of July 2026. Validated using FinanceDatabase cross-reference. Full list: [`data/validated_universe_flat.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/validated_universe_flat.csv)
 
 ---
 
@@ -69,7 +69,7 @@ Live data sourced from the **Eurex T7 GraphQL API** (Deutsche Börse, as of 2026
 | Siemens AG | 65 | B+ | OPTIONABLE_FUTURE | ✓ |
 | Infineon Technologies | 65 | B+ | OPTIONABLE_FUTURE | ✓ |
 
-Raw Eurex data files: [`data/eurex_products.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_products.csv) · [`data/german_pegu_scored.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/german_pegu_scored.csv) · [`data/eurex_pegu_all_europe.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_pegu_all_europe.csv)
+Raw Eurex data files: [`data/eurex_products.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_products.csv) · [`data/german_pegu_scored.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/german_pegu_scored.csv) · [`data/eurex_pegu_all_europe.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_pegu_all_europe.csv)
 
 ---
 
@@ -86,7 +86,7 @@ PEGU = **P**rice momentum (Darvas) + **E**cosystem / financial health (Piotroski
 | C | 228 | Partial signals |
 | D / F | 4,548 | Weak or no signals |
 
-> [`data/india_pegu_scored.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/india_pegu_scored.csv)
+> [`data/india_pegu_scored.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/india_pegu_scored.csv)
 
 ## Germany (Eurex) — 1,497 stocks scored
 
@@ -98,7 +98,7 @@ PEGU = **P**rice momentum (Darvas) + **E**cosystem / financial health (Piotroski
 | B | 11 | 2/4 types, moderate coverage |
 | C+ / C | 1,449 | Limited derivatives (futures or dividend only) |
 
-> [`data/german_pegu_scored.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/german_pegu_scored.csv)
+> [`data/german_pegu_scored.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/german_pegu_scored.csv)
 
 ---
 
@@ -106,13 +106,13 @@ PEGU = **P**rice momentum (Darvas) + **E**cosystem / financial health (Piotroski
 
 | File | Description |
 |---|---|
-| [`data/validated_universe_flat.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/validated_universe_flat.csv) | 60,971 validated global tickers |
-| [`data/india_pegu_scored.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/india_pegu_scored.csv) | India PEGU scores (NSE+BSE) |
-| [`data/german_pegu_scored.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/german_pegu_scored.csv) | German market PEGU scores (Eurex) |
-| [`data/eurex_pegu_all_europe.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_pegu_all_europe.csv) | Pan-European PEGU scores (1,925 stocks) |
-| [`data/eurex_products.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_products.csv) | 3,022 Eurex products (live, Jul 2026) |
-| [`data/eurex_trading_hours.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_trading_hours.csv) | Trading session times (2,019 products) |
-| [`data/eurex_holidays.csv`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_holidays.csv) | Exchange holiday calendar (2026–2028) |
-| [`german_market/eurex_graphql.py`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/german_market/eurex_graphql.py) | Eurex GraphQL API client (v2.0.0) |
-| [`german_market/german_pegu_score.py`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/german_market/german_pegu_score.py) | German PEGU scoring engine |
-| [`validate_universe_fd.py`](https://github.com/herrrickshaw/BMS_analysis_battery/blob/claude/nse-bse-pegu-scoring-k7vu9/validate_universe_fd.py) | Universe validation via FinanceDatabase |
+| [`data/validated_universe_flat.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/validated_universe_flat.csv) | 60,971 validated global tickers |
+| [`data/india_pegu_scored.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/india_pegu_scored.csv) | India PEGU scores (NSE+BSE) |
+| [`data/german_pegu_scored.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/german_pegu_scored.csv) | German market PEGU scores (Eurex) |
+| [`data/eurex_pegu_all_europe.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_pegu_all_europe.csv) | Pan-European PEGU scores (1,925 stocks) |
+| [`data/eurex_products.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_products.csv) | 3,022 Eurex products (live, Jul 2026) |
+| [`data/eurex_trading_hours.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_trading_hours.csv) | Trading session times (2,019 products) |
+| [`data/eurex_holidays.csv`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/data/eurex_holidays.csv) | Exchange holiday calendar (2026–2028) |
+| [`german_market/eurex_graphql.py`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/german_market/eurex_graphql.py) | Eurex GraphQL API client (v2.0.0) |
+| [`german_market/german_pegu_score.py`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/german_market/german_pegu_score.py) | German PEGU scoring engine |
+| [`validate_universe_fd.py`](https://github.com/herrrickshaw/global-market-research-platform/blob/claude/nse-bse-pegu-scoring-k7vu9/validate_universe_fd.py) | Universe validation via FinanceDatabase |
