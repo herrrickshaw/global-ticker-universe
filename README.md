@@ -9,6 +9,8 @@
 
 # Global Ticker Universe
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/herrrickshaw/global-ticker-universe/blob/main/notebooks/colab_test.ipynb)
+
 **60,971 validated tickers across 25 markets** — cross-referenced against FinanceDatabase, deduplicated and filtered for active listings.
 
 | Market | Tickers | Exchange | Source |
