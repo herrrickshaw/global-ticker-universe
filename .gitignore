@@ -10,3 +10,5 @@ __pycache__/
 data/*_chk.csv
 reports/*.png
 logs/
+graphify-out/
+.pytest_cache/
