@@ -48,6 +48,25 @@
 
 ---
 
+# Additional exchange-list sources (2026-10-17)
+
+`fetch_exchange_lists.py` pulls official, key-free exchange listing files and writes
+`data/tpex_tickers_full.json` and `data/sgx_tickers_full.json`; `universe_builder.py` merges them
+into `TW` and `SG` (loaders `_load_tpex`, `_load_sgx_official`). Exchange is taken from which
+exchange's list a code came from (`.TWO` = on the TPEX list, `.SI` = on the SGX list), never inferred from ticker shape.
+
+| Source | New tickers vs. existing universe | Licence |
+|---|---|---|
+| TPEX (Taipei Exchange, OTC) `openapi/v1/mopsfin_t187ap03_O`, 4-digit company codes, `.TWO` | 893 (TW 1,065 -> 1,958) | Taiwan Government Open Data License (data.gov.tw/license), attribution required |
+| SGX securities list (stocks, REITs, business trusts, ETFs only; warrants/certificates/ADRs excluded), `.SI` | 683 (SG 171 -> 854) | No published reuse licence for this public endpoint; codes/names only, check SGX terms before redistributing |
+
+Total in `global_universe.json`: 75,815 (+1,576). The TPEX endpoint intermittently truncates its response; the fetcher retries until the JSON parses.
+`data/validated_universe_flat.csv` (the FinanceDatabase-validated 60,971) is unchanged; these additions are not yet cross-validated with yfinance.
+`python3 fetch_exchange_lists.py --dry-run` reports counts without writing. Note: re-running `universe_builder.py` in this checkout drops markets whose source files (US, JP, KR, Europe) are not committed, so the committed `global_universe.*` were updated by a targeted merge of TW/SG only.
+China remains the pipeline-scope gap; SSE/SZSE/HKEX official lists were not re-fetched here.
+
+---
+
 # German Market — Eurex Derivatives Universe
 
 Live data sourced from the **Eurex T7 GraphQL API** (Deutsche Börse, as of 2026-07-03).

@@ -1,0 +1,5049 @@
+[
+ {
+  "yf_ticker": "LVR.SI",
+  "name": "17LIVE GROUP",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AZG.SI",
+  "name": "8Telecom",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1Y1.SI",
+  "name": "9R",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Q50.SI",
+  "name": "A CGS FG Next50 SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "SBO.SI",
+  "name": "A Lion Short Bond S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "SBV.SI",
+  "name": "A Lion Short Bond US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "JJJ.SI",
+  "name": "A Lion-Nomura Japan S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "JUS.SI",
+  "name": "A Lion-Nomura Japan US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "BQC.SI",
+  "name": "A-Smart",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BTJ.SI",
+  "name": "A-Sonic Aero",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A35.SI",
+  "name": "ABF SG BOND ETF",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "533.SI",
+  "name": "ABR",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "541.SI",
+  "name": "Abundance Intl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "570.SI",
+  "name": "Abundante",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "QZG.SI",
+  "name": "Accrelist Ltd",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5FW.SI",
+  "name": "Acesian Partners",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AYV.SI",
+  "name": "Acma",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "XZL.SI",
+  "name": "Acro HTrust USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "43F.SI",
+  "name": "AcroMeta",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A31.SI",
+  "name": "Addvalue Tech",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BLZ.SI",
+  "name": "Advanced",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "WJ9.SI",
+  "name": "AdvancedSystems",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "43Q.SI",
+  "name": "Advancer Global",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5EF.SI",
+  "name": "Adventus",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "XVG.SI",
+  "name": "Aedge Group",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AWX.SI",
+  "name": "AEM SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "XWA.SI",
+  "name": "AEM USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "O5RU.SI",
+  "name": "AIMS APAC Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "584.SI",
+  "name": "AJJ Medtech",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "40F.SI",
+  "name": "Alita Resources",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ALK.SI",
+  "name": "All-Link A&S",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "MIJ.SI",
+  "name": "Alliance HC",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "M1GU.SI",
+  "name": "Alpha Integrated REIT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "VVL.SI",
+  "name": "AlphaDX",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "40V.SI",
+  "name": "Alset",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AMQ.SI",
+  "name": "Ambiq Micro",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S9B.SI",
+  "name": "Amcorp Global",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "49B.SI",
+  "name": "AMOS Group",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A93.SI",
+  "name": "Amova Asia exJC S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "A94.SI",
+  "name": "Amova Asia exJC US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "93U.SI",
+  "name": "Amova Asia exJC USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "B95.SI",
+  "name": "Amova AsiaCredit SGD-H",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "B96.SI",
+  "name": "Amova AsiaCredit USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "MBH.SI",
+  "name": "Amova SGD IGBond ETF",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "GAB.SI",
+  "name": "Amova STI ETF S$A",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "G3B.SI",
+  "name": "Amova STI ETF S$D",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "ZHY.SI",
+  "name": "Amova-ICBCSG CNB CNY",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "ZHS.SI",
+  "name": "Amova-ICBCSG CNB S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "ZHD.SI",
+  "name": "Amova-ICBCSG CNB US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "CFA.SI",
+  "name": "Amova-STC Asia REIT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "COI.SI",
+  "name": "Amova-STC A_REIT US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "EVS.SI",
+  "name": "Amova-STC CN EV S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "EVD.SI",
+  "name": "Amova-STC CN EV US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "CXN.SI",
+  "name": "AmovaEFund ChiNext CNY",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "CXT.SI",
+  "name": "AmovaEFund ChiNext S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "CXO.SI",
+  "name": "AmovaEFund ChiNext US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "AOF.SI",
+  "name": "Amplefield Ltd",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "HKB.SI",
+  "name": "AMTD IDEA OV",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H1N.SI",
+  "name": "Amundi EM Mkt Sw US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "G1N.SI",
+  "name": "Amundi MSIndia Sw US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "Y35.SI",
+  "name": "AnAn Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BTX.SI",
+  "name": "Anchun Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A52.SI",
+  "name": "AnnAik",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "JFQ.SI",
+  "name": "AnnicaHoldings",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1D4.SI",
+  "name": "Aoxin Q & M",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5AU.SI",
+  "name": "AP Oil",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5RA.SI",
+  "name": "AP Strategic",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CLN.SI",
+  "name": "APAC Realty",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AWG.SI",
+  "name": "Ascent Bridge",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A55.SI",
+  "name": "Asia Enterprises",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5RE.SI",
+  "name": "Asia Vets",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "505.SI",
+  "name": "AsiaMedic",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "585.SI",
+  "name": "Asian Micro",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S7OU.SI",
+  "name": "Asian Pay Tv Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "5WV.SI",
+  "name": "AsiaPhos",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5CR.SI",
+  "name": "Asiatic",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A04.SI",
+  "name": "ASL Marine",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1F3.SI",
+  "name": "Aspen",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A30.SI",
+  "name": "Aspial Corp",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5UF.SI",
+  "name": "Aspial Lifestyle",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "RCU.SI",
+  "name": "Assurance HC",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9SY.SI",
+  "name": "Astaka Hldgs",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "575.SI",
+  "name": "ASTI",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5UL.SI",
+  "name": "Atlantic Nav",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "53W.SI",
+  "name": "Attika Group",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1AZ.SI",
+  "name": "Audience",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5GJ.SI",
+  "name": "AusGroup",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "WNH.SI",
+  "name": "Autagco Ltd",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "X5N.SI",
+  "name": "Avarga Ltd",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AVP.SI",
+  "name": "AvePoint",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1R6.SI",
+  "name": "Avi-Tech Hldg",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BBW.SI",
+  "name": "Azeus",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "8AZ.SI",
+  "name": "Aztech Gbl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9QX.SI",
+  "name": "B Wilshire Ltd",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CJN.SI",
+  "name": "B&M Hldg",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "YYB.SI",
+  "name": "BACUI TECH",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BTP.SI",
+  "name": "Baker Technology",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "B58.SI",
+  "name": "Banyan Tree",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "KJ5.SI",
+  "name": "BBR",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BEZ.SI",
+  "name": "Beng Kuang",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BQN.SI",
+  "name": "BH Global",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BMGU.SI",
+  "name": "BHG Retail Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "41H.SI",
+  "name": "BlackGoldNatural",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5VI.SI",
+  "name": "Boldtek",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "B28.SI",
+  "name": "Bonvests",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "F9D.SI",
+  "name": "Boustead",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BEC.SI",
+  "name": "BRC Asia",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9I7.SI",
+  "name": "Bromat",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AWC.SI",
+  "name": "Brook Crompton",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "B61.SI",
+  "name": "Bukit Sembawang",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P8Z.SI",
+  "name": "Bumitama Agri",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BTE.SI",
+  "name": "Bund Center",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BAC.SI",
+  "name": "Camsing Hc",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "594.SI",
+  "name": "CapAllianz",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1D5.SI",
+  "name": "Capital World",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9CI.SI",
+  "name": "CapitaLandInvest",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A17U.SI",
+  "name": "CapLand Ascendas REIT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "HMN.SI",
+  "name": "CapLand Ascott T",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "AU8U.SI",
+  "name": "CapLand China T",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "CY6U.SI",
+  "name": "CapLand India T",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "C38U.SI",
+  "name": "CapLand IntCom T",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "AWV.SI",
+  "name": "Captii",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C04.SI",
+  "name": "Casa",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "J85.SI",
+  "name": "CDL HTrust",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "BXE.SI",
+  "name": "CDW",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "8C8U.SI",
+  "name": "Cent Accom REIT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "OU8.SI",
+  "name": "Centurion",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "VNM.SI",
+  "name": "CF VN 30 SC ETF SG$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "VND.SI",
+  "name": "CF VN 30 SC ETF US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "5EB.SI",
+  "name": "CFM",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "GRO.SI",
+  "name": "CGS FG CSI1000 S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "GRU.SI",
+  "name": "CGS FG CSI1000 US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "OBU.SI",
+  "name": "CGS-ICBC-CFETS BRI RMB",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "OBR.SI",
+  "name": "CGS-ICBC-CFETS BRI SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "C13.SI",
+  "name": "CH Offshore",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5NV.SI",
+  "name": "Chasen",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C05.SI",
+  "name": "Chemical Ind",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "G92.SI",
+  "name": "China Aviation",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "UIX.SI",
+  "name": "China EnvRes",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "U9E.SI",
+  "name": "China Everbright",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "B0Z.SI",
+  "name": "China Fishery",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BEH.SI",
+  "name": "China Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BHD.SI",
+  "name": "China Mining",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BCD.SI",
+  "name": "China Yuanbang",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "GU5.SI",
+  "name": "ChinaKundaTech",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "QES.SI",
+  "name": "ChinaSunsine",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "42E.SI",
+  "name": "Choo Chiang",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C33.SI",
+  "name": "Chuan Hup",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C09.SI",
+  "name": "CityDev",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P9D.SI",
+  "name": "Civmec",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1H3.SI",
+  "name": "Clearbridge",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "8A8.SI",
+  "name": "CMS",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5TP.SI",
+  "name": "CNMC Goldmine",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "W8W.SI",
+  "name": "Coliwoo Hldgs",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "STC.SI",
+  "name": "Comba",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "N0Z.SI",
+  "name": "Combine Will",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C52.SI",
+  "name": "ComfortDelGro",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "SEG.SI",
+  "name": "CONCORD NE",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BMT.SI",
+  "name": "Coolan Group",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P8A.SI",
+  "name": "Cordlife",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C41.SI",
+  "name": "Cortina",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "F83.SI",
+  "name": "COSCO SHP SG",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CIN.SI",
+  "name": "Courage Inv",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C76.SI",
+  "name": "Creative",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "TCU.SI",
+  "name": "CreditBureauAsia",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C06.SI",
+  "name": "CSC",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "544.SI",
+  "name": "CSE Global",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "LCS.SI",
+  "name": "CSOP APAC SELECT S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "LCU.SI",
+  "name": "CSOP APAC SELECT US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "SUN.SI",
+  "name": "CSOP CS A500 ETF S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "SHD.SI",
+  "name": "CSOP DIV ETF S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "SRT.SI",
+  "name": "CSOP iEdge SREIT ETF S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "SRU.SI",
+  "name": "CSOP iEdge SREIT ETF US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "SQQ.SI",
+  "name": "CSOP SEA TECH ETF S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "SQU.SI",
+  "name": "CSOP SEA TECH ETF US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "SCY.SI",
+  "name": "CSOP Star&Chinext50 S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "DHLU.SI",
+  "name": "Daiwa Hse Log Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "BLR.SI",
+  "name": "Darco Water Tech",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CEDU.SI",
+  "name": "Dasin Retail Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "BKW.SI",
+  "name": "Datapulse Tech",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "D05.SI",
+  "name": "DBS",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BTF.SI",
+  "name": "Debao Property",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "D03.SI",
+  "name": "Del Monte Pac",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P34.SI",
+  "name": "Delfi",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9DC.SI",
+  "name": "Deluge",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "UZF.SI",
+  "name": "Dezign Format",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "D01.SI",
+  "name": "DFIRG USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "DCRU.SI",
+  "name": "DigiCore Reit USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "BAI.SI",
+  "name": "Digilife Tech",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "532.SI",
+  "name": "DISA",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5SO.SI",
+  "name": "Duty Free Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BWCU.SI",
+  "name": "EC World Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "5CT.SI",
+  "name": "EcoWise",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5HG.SI",
+  "name": "Edition",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "8YY.SI",
+  "name": "EFH Ltd",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "EGX.SI",
+  "name": "EGP ENERGY CORP",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "42Z.SI",
+  "name": "Eindec",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "MXNU.SI",
+  "name": "EliteUKREIT GBP",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "V8VU.SI",
+  "name": "EliteUKREIT GBP A",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "MENU.SI",
+  "name": "EliteUKREIT SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "BIX.SI",
+  "name": "Ellipsiz",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "EMI.SI",
+  "name": "Emperador Inc.",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "R14.SI",
+  "name": "Eneco Energy",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S44.SI",
+  "name": "EnGro",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BQD.SI",
+  "name": "Envictus",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "L23.SI",
+  "name": "Enviro-Hub",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5RC.SI",
+  "name": "ES",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9A4U.SI",
+  "name": "ESR REIT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "1C0.SI",
+  "name": "ETC Singapore",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5G1.SI",
+  "name": "EuroSports Gbl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ZKX.SI",
+  "name": "Ever Glory",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1H2.SI",
+  "name": "EVO",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5DN.SI",
+  "name": "Ezra",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "F99.SI",
+  "name": "F & N",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5TJ.SI",
+  "name": "Far East",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Q5T.SI",
+  "name": "Far East HTrust",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "O10.SI",
+  "name": "Far East Orchard",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BDU.SI",
+  "name": "Federal Int",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5F4.SI",
+  "name": "Figtree",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AW9U.SI",
+  "name": "First Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "EB5.SI",
+  "name": "First Resources",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ADN.SI",
+  "name": "First Sponsor",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ZNIR.SI",
+  "name": "First Sponsor Gp R",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "SJJR.SI",
+  "name": "First Sponsor Gp R1",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "F10.SI",
+  "name": "FJ Benjamin",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "F03.SI",
+  "name": "Food Empire",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "KYB.SI",
+  "name": "FoodInnovators",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "OAJ.SI",
+  "name": "FortressMinerals",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "FHH.SI",
+  "name": "FoundationHealth",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "J69U.SI",
+  "name": "Frasers Cpt Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "BUOU.SI",
+  "name": "Frasers L&C Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "TQ5.SI",
+  "name": "Frasers Property",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "E28.SI",
+  "name": "Frencken",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "D8DU.SI",
+  "name": "FSL Trust",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "F13.SI",
+  "name": "Fu Yu",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "508.SI",
+  "name": "Fuji Offset",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AWK.SI",
+  "name": "Fuxing China",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "QS9.SI",
+  "name": "G Invacom",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5IG.SI",
+  "name": "Gallant Venture",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "41T.SI",
+  "name": "GCCP",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5VP.SI",
+  "name": "GDS Global",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "G13.SI",
+  "name": "Genting Sing",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "RE4.SI",
+  "name": "Geo Energy Res",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "XJB.SI",
+  "name": "GHY Culture",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "595.SI",
+  "name": "GKE",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "GSD.SI",
+  "name": "GLD SG$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "O87.SI",
+  "name": "GLD US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "B73.SI",
+  "name": "Global Inv",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AYN.SI",
+  "name": "Global Testing",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "E5H.SI",
+  "name": "Golden Agri-Res",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5PC.SI",
+  "name": "Goodland",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "GEH.SI",
+  "name": "Goodwill",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "G20.SI",
+  "name": "GP Industries",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "G50.SI",
+  "name": "Grand Banks",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S3N.SI",
+  "name": "GRC",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "G07.SI",
+  "name": "Great Eastern",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Y06.SI",
+  "name": "Green Build",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BLU.SI",
+  "name": "GRP",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BDX.SI",
+  "name": "GSH",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "41F.SI",
+  "name": "GSS Energy",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "F17.SI",
+  "name": "GuocoLand",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5AI.SI",
+  "name": "H2G Green",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5VS.SI",
+  "name": "Hafary",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5VJ.SI",
+  "name": "Halcyon Agri",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H02.SI",
+  "name": "Haw Par",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1B1.SI",
+  "name": "HC Surgical",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "40B.SI",
+  "name": "HealthBank",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5OR.SI",
+  "name": "Heatec Jietong",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5DP.SI",
+  "name": "Heeton",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "HLS.SI",
+  "name": "Helens",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5PD.SI",
+  "name": "Hengyang Petro",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "8A1.SI",
+  "name": "Heptamax",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BTG.SI",
+  "name": "HG Metal",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5GZ.SI",
+  "name": "HGH",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5JK.SI",
+  "name": "Hiap Hoe",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1L2.SI",
+  "name": "Hiap Seng Ind",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5PO.SI",
+  "name": "Hiap Tong",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AVX.SI",
+  "name": "HL Global Ent",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H13.SI",
+  "name": "Ho Bee Land",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "J2T.SI",
+  "name": "Hock Lian Seng",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H20.SI",
+  "name": "Hoe Leong",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H30.SI",
+  "name": "Hong Fok",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CTO.SI",
+  "name": "Hong Lai Huat",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H22.SI",
+  "name": "Hong Leong Asia",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S41.SI",
+  "name": "Hong Leong Fin",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H78.SI",
+  "name": "HongkongLand USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BBP.SI",
+  "name": "Hor Kew",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5EV.SI",
+  "name": "Hosen",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H18.SI",
+  "name": "Hotel Grand",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H12.SI",
+  "name": "Hotel Royal",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BLS.SI",
+  "name": "Hotung Inv",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P7VU.SI",
+  "name": "HPH Trust SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "NS8U.SI",
+  "name": "HPH Trust USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "H15.SI",
+  "name": "HPL",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CHZ.SI",
+  "name": "HRnetGroup",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "504.SI",
+  "name": "HS Optimus",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "41B.SI",
+  "name": "Huationg Global",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "600.SI",
+  "name": "Hyflux",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1J5.SI",
+  "name": "Hyphens Pharma",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CYC.SI",
+  "name": "ICBC CSOP CGB ETF S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "CYX.SI",
+  "name": "ICBC CSOP CGB ETF US$A",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "CYB.SI",
+  "name": "ICBC CSOP CGB ETF US$D",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "AIY.SI",
+  "name": "IFAST",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "XBG.SI",
+  "name": "IFF XT AI S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "KOR.SI",
+  "name": "IFF XT KR S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "JPY.SI",
+  "name": "IFF XT NK 225 S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "TWD.SI",
+  "name": "IFF XT TW S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "I49.SI",
+  "name": "IFS Capital",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Q0F.SI",
+  "name": "IHH",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "RDR.SI",
+  "name": "Incredible",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5JS.SI",
+  "name": "Indofood Agri",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ZBA.SI",
+  "name": "Infinity Dev",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ITS.SI",
+  "name": "Info-Tech",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "M14.SI",
+  "name": "InnoTek",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5GI.SI",
+  "name": "Interra Resource",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "KUO.SI",
+  "name": "Intl Cement",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "I06.SI",
+  "name": "Intraco",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AZA.SI",
+  "name": "IPC Corp",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "42N.SI",
+  "name": "IPS Securex",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "8U7U.SI",
+  "name": "IREIT Global EUR",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "UD1U.SI",
+  "name": "IREIT Global SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "QL2.SI",
+  "name": "IS ASIA BND S$D",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "N6M.SI",
+  "name": "IS ASIA BND US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "QL3.SI",
+  "name": "IS ASIA HYG S$D",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "O9P.SI",
+  "name": "IS ASIA HYG US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "QK9.SI",
+  "name": "IS INDIA CLIMATE S$D",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "I98.SI",
+  "name": "IS INDIA CLIMATE US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "I07.SI",
+  "name": "ISDN",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "40T.SI",
+  "name": "ISEC",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ICM.SI",
+  "name": "ISHARES AXJCLIMATE S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "ICU.SI",
+  "name": "ISHARES AXJCLIMATE US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "5WF.SI",
+  "name": "ISOTeam",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "NXR.SI",
+  "name": "iWOW Tech",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "42C.SI",
+  "name": "IX Biopharma",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "J03.SI",
+  "name": "Jadason",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5OI.SI",
+  "name": "Japan Foods",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5PF.SI",
+  "name": "Jason Marine",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1J7.SI",
+  "name": "Jawala",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BEW.SI",
+  "name": "JB Foods",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1J4.SI",
+  "name": "JEP",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C8R.SI",
+  "name": "Jiutian Chemical",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "J36.SI",
+  "name": "JMH USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C07.SI",
+  "name": "JMSEA",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "E9L.SI",
+  "name": "Joyas Intl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "NHD.SI",
+  "name": "Jubilee",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "42R.SI",
+  "name": "Jumbo",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "JCO.SI",
+  "name": "JustCo",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "K29.SI",
+  "name": "Karin Tech",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1A0.SI",
+  "name": "Katrina",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BNE.SI",
+  "name": "Kencana Agri",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5TT.SI",
+  "name": "Keong Hong",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A7RU.SI",
+  "name": "Kep Infra Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "BN4.SI",
+  "name": "Keppel",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AJBU.SI",
+  "name": "Keppel DC Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "K71U.SI",
+  "name": "Keppel Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "YSV.SI",
+  "name": "Khen Energy",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "K03.SI",
+  "name": "Khong Guan",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5G2.SI",
+  "name": "Kim Heng",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1D0.SI",
+  "name": "Kimly",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "KIN.SI",
+  "name": "KIN",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "554.SI",
+  "name": "King Wan",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5MZ.SI",
+  "name": "KingsmenCreative",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BJZ.SI",
+  "name": "Koda",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "K75.SI",
+  "name": "Koh Bros",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5HV.SI",
+  "name": "Koh Eco",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5I1.SI",
+  "name": "KOP",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CMOU.SI",
+  "name": "KOREReitUSD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "5VC.SI",
+  "name": "Kori",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5OC.SI",
+  "name": "Koyo Intl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ER0.SI",
+  "name": "KSH",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "XCF.SI",
+  "name": "KTMG",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "D5IU.SI",
+  "name": "Landmark REIT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "E6R.SI",
+  "name": "Le Tree Holdings",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "LS9.SI",
+  "name": "Leader Env",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "JYEU.SI",
+  "name": "Lendlease Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "LGH.SI",
+  "name": "Leong Guan Hldgs",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Q0X.SI",
+  "name": "Ley Choon",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "41O.SI",
+  "name": "LHN",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BEI.SI",
+  "name": "LHT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BFT.SI",
+  "name": "Lincotrade",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BAZ.SI",
+  "name": "Lion Asiapac",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "GLS.SI",
+  "name": "Lion SG Phy Gold S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "GLU.SI",
+  "name": "Lion SG Phy Gold US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "ICH.SI",
+  "name": "Lion-CM CSI Div CNY",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "INC.SI",
+  "name": "Lion-CM CSI Div S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "EAA.SI",
+  "name": "Lion-CM EM Asia S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "EAU.SI",
+  "name": "Lion-CM EM Asia US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "HST.SI",
+  "name": "Lion-OCBC Sec HSTECH S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "HSS.SI",
+  "name": "Lion-OCBC Sec HSTECH US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "YLD.SI",
+  "name": "Lion-OSPL APAC Fin S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "YLU.SI",
+  "name": "Lion-OSPL APAC Fin US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "YYR.SI",
+  "name": "Lion-OSPL China L CNY",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "YYY.SI",
+  "name": "Lion-OSPL China L S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "ESG.SI",
+  "name": "Lion-OSPL Low Carbon S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "ESU.SI",
+  "name": "Lion-OSPL Low Carbon US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "CLR.SI",
+  "name": "LION-PHILLIP S-REIT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "PRH.SI",
+  "name": "Livingstone",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "LMS.SI",
+  "name": "LMS Compliance",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "O6Z.SI",
+  "name": "Lonza",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5IE.SI",
+  "name": "Lorenzo Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ENV.SI",
+  "name": "LS 2 Holdings",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "L19.SI",
+  "name": "Lum Chang",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "LCC.SI",
+  "name": "Lum Chang Creat",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5UA.SI",
+  "name": "Luminor",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BKK.SI",
+  "name": "Luxking",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1H8.SI",
+  "name": "LY Corp",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BTOU.SI",
+  "name": "ManulifeReit USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "ME8U.SI",
+  "name": "Mapletree Ind Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "M44U.SI",
+  "name": "Mapletree Log Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "N2IU.SI",
+  "name": "Mapletree PanAsia Com Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "5LY.SI",
+  "name": "MarcoPolo Marine",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "M12.SI",
+  "name": "Maruwa Yen1k",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5OX.SI",
+  "name": "Mary Chia",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Y3D.SI",
+  "name": "MDR Limited",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Z4D.SI",
+  "name": "MediLifestyle",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "OTX.SI",
+  "name": "Medinex",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "546.SI",
+  "name": "Medtecs Intl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5DS.SI",
+  "name": "MegaChem",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "SJY.SI",
+  "name": "MeGroup",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "TWL.SI",
+  "name": "Memiontec Hldgs",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5NF.SI",
+  "name": "Mencast",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5RF.SI",
+  "name": "Mercurius",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "DU4.SI",
+  "name": "Mermaid Maritime",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5DX.SI",
+  "name": "Meta Health",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9MT.SI",
+  "name": "METAOPTICS LTD",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "V3M.SI",
+  "name": "Metech Intl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "L02.SI",
+  "name": "Metis Energy",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "M01.SI",
+  "name": "Metro",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "WYO.SI",
+  "name": "Metrocon",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "MV4.SI",
+  "name": "Mewah Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "M11.SI",
+  "name": "MFG Integration",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "MIM.SI",
+  "name": "Mi Material",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5DD.SI",
+  "name": "Micro-Mechanics",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CNE.SI",
+  "name": "MindChamps",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "M03.SI",
+  "name": "Miyoshi",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1B0.SI",
+  "name": "MM2 Asia",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5WJ.SI",
+  "name": "MoneyMax Fin",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1V3.SI",
+  "name": "Mooreast",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "NPW.SI",
+  "name": "MSC",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "51O.SI",
+  "name": "MSMIntl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "M05.SI",
+  "name": "MTQ",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AWZ.SI",
+  "name": "Multi-Chem",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "MF6.SI",
+  "name": "Mun Siong Engg",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "F86.SI",
+  "name": "MYP",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "G0I.SI",
+  "name": "Nam Lee Metal",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1MZ.SI",
+  "name": "NamCheong",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "MZH.SI",
+  "name": "Nanofilm",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "M15.SI",
+  "name": "Nanyang NewDev",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5IF.SI",
+  "name": "Natural Cool",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "N01.SI",
+  "name": "NeraTel",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5QY.SI",
+  "name": "Net Pac Hldgs",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CJLU.SI",
+  "name": "NetLink NBN Tr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "N08.SI",
+  "name": "New Toyo",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5FX.SI",
+  "name": "New Wave",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "NIO.SI",
+  "name": "NIO Inc. USD OV",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "N32.SI",
+  "name": "Nippecraft",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "543.SI",
+  "name": "Noel Gifts Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "N33.SI",
+  "name": "Nomura Yen1k",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "SEJ.SI",
+  "name": "NoonTalk Media",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "MR7.SI",
+  "name": "Nordic",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "N02.SI",
+  "name": "NSL",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "NTDU.SI",
+  "name": "NTT DC REIT USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "AZT.SI",
+  "name": "NutryFarm",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "O39.SI",
+  "name": "OCBC Bank",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1B6.SI",
+  "name": "Ocean Sky Intl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "V2Y.SI",
+  "name": "OceanScape Intl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "579.SI",
+  "name": "Oceanus",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "43A.SI",
+  "name": "OCTOPUS",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "HQU.SI",
+  "name": "Oiltek",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "KUX.SI",
+  "name": "OIO",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5CF.SI",
+  "name": "OKP",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "VC2.SI",
+  "name": "Olam Group",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5ML.SI",
+  "name": "Old Chang Kee",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5SY.SI",
+  "name": "OneApex",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "O08.SI",
+  "name": "Ossia Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "OTS.SI",
+  "name": "OTS Holdings",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "LJ3.SI",
+  "name": "OUE",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5WA.SI",
+  "name": "OUE Healthcare",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "TS0U.SI",
+  "name": "OUEREIT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "AJ2.SI",
+  "name": "Ouhua Energy",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "RQ1.SI",
+  "name": "Overseas Edu",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5UX.SI",
+  "name": "Oxley",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "TVV.SI",
+  "name": "OxPay Financial",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P11.SI",
+  "name": "Pacific Andes",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P15.SI",
+  "name": "Pacific Century",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "RXS.SI",
+  "name": "PacificRadiance",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P36.SI",
+  "name": "Pan Hong",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P52.SI",
+  "name": "PanUnited",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "O9E.SI",
+  "name": "Parkson Retail",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C2PU.SI",
+  "name": "ParkwayLife Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "UUK.SI",
+  "name": "Pasture Holdings",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "596.SI",
+  "name": "Pavillon",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "PCT.SI",
+  "name": "PC Partner",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BTM.SI",
+  "name": "Penguin Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BFK.SI",
+  "name": "Pharmesis Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BYJ.SI",
+  "name": "PHIL AP DIV REIT S$D",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "BYI.SI",
+  "name": "PHIL AP DIV REIT US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "OVQ.SI",
+  "name": "PHIL SING INC",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "OVS.SI",
+  "name": "PHIL SING INC USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "MCN.SI",
+  "name": "PHIL-CU MS CHINA A50 S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "MCS.SI",
+  "name": "PHIL-CU MS CHINA A50 US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "MMS.SI",
+  "name": "PHILLIP MM S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "MMT.SI",
+  "name": "PHILLIP MM US$D",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "BDA.SI",
+  "name": "PNE Industries",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5BI.SI",
+  "name": "Polaris",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9VW.SI",
+  "name": "Polaris E&M",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5AE.SI",
+  "name": "Pollux Prop",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BCY.SI",
+  "name": "Powermatic Data",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "OXMU.SI",
+  "name": "Prime US ReitUSD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "583.SI",
+  "name": "Progen",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "OYY.SI",
+  "name": "PropNex",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5HH.SI",
+  "name": "ProsperaGlobal",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "PPC.SI",
+  "name": "ProsperCap",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "K6S.SI",
+  "name": "Prudential USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "DM0.SI",
+  "name": "PSC Corporation",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "QC7.SI",
+  "name": "Q&M Dental",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Q01.SI",
+  "name": "QAF",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BCV.SI",
+  "name": "Qian Hu",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "V8Y.SI",
+  "name": "Quantum Health",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "NR7.SI",
+  "name": "Raffles Edu",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "LUY.SI",
+  "name": "Raffles Infrastructure",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BSL.SI",
+  "name": "Raffles Medical",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "NEX.SI",
+  "name": "Reclaims Global",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "UV1.SI",
+  "name": "Regal Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "I11.SI",
+  "name": "Renaissance United",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "V7R.SI",
+  "name": "ResourcesGbl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5WH.SI",
+  "name": "Rex Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T13.SI",
+  "name": "RH PetroGas",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1U8.SI",
+  "name": "RichCapital",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AP4.SI",
+  "name": "Riverstone",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5DO.SI",
+  "name": "Sakae",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "FQ7.SI",
+  "name": "Salt Investments",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9G2.SI",
+  "name": "SAM Holdings",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S56.SI",
+  "name": "SamuderaShipping",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Y8E.SI",
+  "name": "Samurai 2K",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1E3.SI",
+  "name": "Sanli Env",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "580.SI",
+  "name": "Santak",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BRD.SI",
+  "name": "Sapphire",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "U77.SI",
+  "name": "Sarine Tech",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CRPU.SI",
+  "name": "Sasseur Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "S58.SI",
+  "name": "SATS",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S61.SI",
+  "name": "SBS Transit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5TI.SI",
+  "name": "SDAI",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5E2.SI",
+  "name": "Seatrium Ltd",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "43B.SI",
+  "name": "Secura",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "U96.SI",
+  "name": "Sembcorp Ind",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "XHV.SI",
+  "name": "Serial Achieva",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S69.SI",
+  "name": "Serial System",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5EW.SI",
+  "name": "Sevens Atelier",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S68.SI",
+  "name": "SGX",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "SES.SI",
+  "name": "Shanaya",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AWM.SI",
+  "name": "Shanghai Turbo",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S07.SI",
+  "name": "Shangri-La HKD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "SGR.SI",
+  "name": "Sheffield Green",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A78.SI",
+  "name": "Shen Yao",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "OV8.SI",
+  "name": "Sheng Siong",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P74.SI",
+  "name": "ShengrongHldg",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BKV.SI",
+  "name": "Shenshan",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1F0.SI",
+  "name": "Shopper360",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "566.SI",
+  "name": "SHS",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C6L.SI",
+  "name": "SIA",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S59.SI",
+  "name": "SIA Engineering",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BHK.SI",
+  "name": "SIIC Environment",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "URR.SI",
+  "name": "Sim Leisure",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BKA.SI",
+  "name": "Sin Heng Mach",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S35.SI",
+  "name": "Sing Inv & Fin",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "FRQ.SI",
+  "name": "Sing Paincare",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5WG.SI",
+  "name": "SingaporeKitchen",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "U06.SI",
+  "name": "SingaporeLandGrp",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5IC.SI",
+  "name": "SingHoldings",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S08.SI",
+  "name": "SingPost",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S19.SI",
+  "name": "SingShipping",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Z74.SI",
+  "name": "Singtel",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Z77.SI",
+  "name": "Singtel 10",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T4B.SI",
+  "name": "Sino Grandness",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "LYY.SI",
+  "name": "SinoCloud Grp",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "C9Q.SI",
+  "name": "Sinostar Pec",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5LE.SI",
+  "name": "Sitra",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "XZB.SI",
+  "name": "Skylink",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ZQM.SI",
+  "name": "SoilbuildConstr",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "SHE.SI",
+  "name": "Soon Hock",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5MD.SI",
+  "name": "Soon Lian",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5KI.SI",
+  "name": "Soup Holdings",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A33.SI",
+  "name": "Southern Arch",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BQP.SI",
+  "name": "Southern Pkg",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "QNS.SI",
+  "name": "SouthernAlliance",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S23.SI",
+  "name": "Spura Finance",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "NC2.SI",
+  "name": "Sri Trang Agro",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "STG.SI",
+  "name": "Sri Trang Gloves",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "D07.SI",
+  "name": "SS SPDR DJIA USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "KSB.SI",
+  "name": "SS SPDR JPMSaudiAgBd USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "S27.SI",
+  "name": "SS SPDR S&P500 USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "ES3.SI",
+  "name": "SS SPDR STI ETF",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "S63.SI",
+  "name": "ST Engineering",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "DRX.SI",
+  "name": "ST Group Food",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "H07.SI",
+  "name": "Stamford Land",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S29.SI",
+  "name": "Stamford Tyres",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "P40U.SI",
+  "name": "StarhillGbl Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "CC3.SI",
+  "name": "StarHub",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "SET.SI",
+  "name": "Stoneweg EUTrust EUR",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "SEB.SI",
+  "name": "Stoneweg EUTrust SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "businesstrusts"
+ },
+ {
+  "yf_ticker": "S85.SI",
+  "name": "Straco",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S20.SI",
+  "name": "Straits Trading",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AAJ.SI",
+  "name": "SunMoonFood",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5GD.SI",
+  "name": "Sunpower",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S71.SI",
+  "name": "Sunright",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "581.SI",
+  "name": "Sunrise Shares",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BKZ.SI",
+  "name": "Suntar Eco-City",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T82U.SI",
+  "name": "Suntec Reit",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "BHU.SI",
+  "name": "SUTL Enterprise",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "PA3.SI",
+  "name": "TA",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "500.SI",
+  "name": "Tai Sin Electric",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "42L.SI",
+  "name": "Taka Jewellery",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "TAP.SI",
+  "name": "TAP",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T12.SI",
+  "name": "Tat Seng Pkg",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "VI2.SI",
+  "name": "TC Auto",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T15.SI",
+  "name": "TCIL HK$",
+  "exchange": "SGX",
+  "board": "GLOBAL_QUOTE",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5OQ.SI",
+  "name": "Teho Intl",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T41.SI",
+  "name": "TeleChoice Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Y92.SI",
+  "name": "ThaiBev",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AWI.SI",
+  "name": "Thakral",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "E27.SI",
+  "name": "The Place Hldg",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AGS.SI",
+  "name": "TheHourGlass",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "A50.SI",
+  "name": "Thomson Medical",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T55.SI",
+  "name": "TIH",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BFI.SI",
+  "name": "Tiong Seng",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BQM.SI",
+  "name": "Tiong Woon",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T14.SI",
+  "name": "TJ DaRenTang USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "TKU.SI",
+  "name": "Toku Ltd",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BVA.SI",
+  "name": "Top Glove",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "S2D.SI",
+  "name": "Tosei",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "42F.SI",
+  "name": "Totm Tech",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BCZ.SI",
+  "name": "Travelite",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5AB.SI",
+  "name": "Trek 2000 Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "42T.SI",
+  "name": "Trendlines",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CYW.SI",
+  "name": "TrickleStar",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5G9.SI",
+  "name": "Tritech",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "RC5.SI",
+  "name": "Triyards",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "KUH.SI",
+  "name": "TSH",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "TSH.SI",
+  "name": "TSH Resources",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T24.SI",
+  "name": "Tuan Sing",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "540.SI",
+  "name": "Tung Lok Rest",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BFU.SI",
+  "name": "Tye Soon",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "8K7.SI",
+  "name": "UGHealthcare",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "UIBU.SI",
+  "name": "UIBREIT",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "UGS.SI",
+  "name": "ULTRAGREEN AI SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ULG.SI",
+  "name": "ULTRAGREEN AI USD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "558.SI",
+  "name": "UMS",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "CHJ.SI",
+  "name": "Uni-Asia Grp",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1F2.SI",
+  "name": "Union Gas",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ZB9.SI",
+  "name": "UnionSteel",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "AZR.SI",
+  "name": "United Food",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BGO.SI",
+  "name": "Universal Res",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1D1.SI",
+  "name": "UnUsUaL",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "EH5.SI",
+  "name": "UOA",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "U11.SI",
+  "name": "UOB",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "GRN.SI",
+  "name": "UOB AP GRN REIT S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "GRE.SI",
+  "name": "UOB AP GRN REIT US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "U10.SI",
+  "name": "UOB Kay Hian",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "JK8.SI",
+  "name": "UOBAM FTSE CN A50 S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "VK8.SI",
+  "name": "UOBAM FTSE CN A50 US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "UPD.SI",
+  "name": "UOBAM PA FT ASEAN DV S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "UPU.SI",
+  "name": "UOBAM PA FT ASEAN DV US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "CXS.SI",
+  "name": "UOBAM PINGAN CHINEXT S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "CXU.SI",
+  "name": "UOBAM PINGAN CHINEXT US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "U13.SI",
+  "name": "UOI",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "U14.SI",
+  "name": "UOL",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "GRQ.SI",
+  "name": "UpHealth Group",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BRS.SI",
+  "name": "USP Group",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "ODBU.SI",
+  "name": "UtdHampshReitUSD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "reits"
+ },
+ {
+  "yf_ticker": "WPC.SI",
+  "name": "Vallianz",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T6I.SI",
+  "name": "ValueMax",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BN2.SI",
+  "name": "Valuetronics",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "43E.SI",
+  "name": "VCPlus",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "V03.SI",
+  "name": "Venture",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "40N.SI",
+  "name": "Versalink",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BIP.SI",
+  "name": "Vibrant Group",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BJD.SI",
+  "name": "VibroPower",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "WJP.SI",
+  "name": "VICOM Ltd",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "569.SI",
+  "name": "Vicplas Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "VIN.SI",
+  "name": "Vins Holdings",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "OMK.SI",
+  "name": "Vividthree",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "E3B.SI",
+  "name": "Wee Hur",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BDR.SI",
+  "name": "Willas-Array",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "F34.SI",
+  "name": "Wilmar Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5F7.SI",
+  "name": "Wilton Resources",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "W05.SI",
+  "name": "Wing Tai",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "WKS.SI",
+  "name": "WinkingStudios",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "1A1.SI",
+  "name": "Wong Fong Ind",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "B49.SI",
+  "name": "World Precision",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "9PQ.SI",
+  "name": "XMH Hldgs",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "XSG.SI",
+  "name": "XT MS SING S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "O9A.SI",
+  "name": "XT MS SING US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "XWR.SI",
+  "name": "XT MS World SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "TID.SI",
+  "name": "XT MSCHINA S$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "LG9.SI",
+  "name": "XT MSCHINA US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "KJ7.SI",
+  "name": "XT MSINDO US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "XND.SI",
+  "name": "XT NASDAQ 100 SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "EUS.SI",
+  "name": "XT S&P 500 EW SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "XUS.SI",
+  "name": "XT S&P 500 SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "KV4.SI",
+  "name": "XT SingGovBond SG$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "HD9.SI",
+  "name": "XT Vietnam US$",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "etfs"
+ },
+ {
+  "yf_ticker": "1F1.SI",
+  "name": "Y Ventures",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BJV.SI",
+  "name": "Yamada Green Res",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Z25.SI",
+  "name": "Yanlord Land",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Y03.SI",
+  "name": "Yeo Hiap Seng",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BPF.SI",
+  "name": "YHI Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5DM.SI",
+  "name": "Ying Li Intl",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "YK9.SI",
+  "name": "YKGI",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "Z59.SI",
+  "name": "Yoma Strategic",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BKX.SI",
+  "name": "Yongmao",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "T43.SI",
+  "name": "Yunnan Energy",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "YF8.SI",
+  "name": "YZJ Fin Hldg",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "8YZ.SI",
+  "name": "YZJ Maritime",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "SO7.SI",
+  "name": "YZJ Shipbldg CNY",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BS6.SI",
+  "name": "YZJ Shipbldg SGD",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "BWM.SI",
+  "name": "Zheneng Jinjiang",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5SR.SI",
+  "name": "Zhongmin Baihui",
+  "exchange": "SGX",
+  "board": "MAINBOARD",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "5EG.SI",
+  "name": "Zhongxin Fruit",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "40W.SI",
+  "name": "ZICO Hldgs",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ },
+ {
+  "yf_ticker": "42W.SI",
+  "name": "Zixin",
+  "exchange": "SGX",
+  "board": "CATALIST",
+  "type": "stocks"
+ }
+]

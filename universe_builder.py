@@ -27,6 +27,8 @@ Builds data/global_universe.json from the best available sources:
   - AR  : data/ar_tickers_full.json         (442 Buenos Aires)
   - RU  : data/ru_tickers_full.json         (242 MOEX)
   - EU  : data/europe_tickers_full.json     (966+ remaining: GR, FI, BE, IE, PL, PT)
+  - TW+ : data/tpex_tickers_full.json       (893 TPEX/OTC, .TWO)  -- fetch_exchange_lists.py
+  - SG+ : data/sgx_tickers_full.json        (721 SGX stocks/REITs/BTs/ETFs) -- fetch_exchange_lists.py
   - Others: static verified index constituents (CH, NL, ES, AE)
 
 Run:
@@ -173,6 +175,24 @@ def _load_sg() -> list[str]:
             data = json.load(f)
         return _dedup([t["yf_ticker"] for t in data])
     return [f"{t}.SI" for t in SG_TICKERS]
+
+
+def _load_sgx_official() -> list[str]:
+    """SGX official securities list (written by fetch_exchange_lists.py), if present."""
+    path = DATA / "sgx_tickers_full.json"
+    if path.exists():
+        with open(path, encoding="utf-8") as f:
+            return _dedup([t["yf_ticker"] for t in json.load(f)])
+    return []
+
+
+def _load_tpex() -> list[str]:
+    """Taipei Exchange (OTC) listed companies, .TWO (written by fetch_exchange_lists.py)."""
+    path = DATA / "tpex_tickers_full.json"
+    if path.exists():
+        with open(path, encoding="utf-8") as f:
+            return _dedup([t["yf_ticker"] for t in json.load(f)])
+    return []
 
 
 # ── China (SSE + SZSE) ─────────────────────────────────────────────────────────
@@ -778,11 +798,11 @@ def build_universe() -> dict:
     print(f"  AU  : {len(au):>6,}")
 
     # SG — from full SGX scan (171 securities)
-    sg = _load_sg()
+    sg = _dedup(_load_sg() + _load_sgx_official())
     universe["SG"] = {
         "name": "Singapore", "exchange": "SGX",
         "yf_symbols": sg, "count": len(sg),
-        "source": "sg_tickers_full.json (SGX full scan, June 2026)",
+        "source": "sg_tickers_full.json (static/scan) + sgx_tickers_full.json (SGX official securities list)",
     }
     print(f"  SG  : {len(sg):>6,}")
 
@@ -807,11 +827,11 @@ def build_universe() -> dict:
     print(f"  HK  : {len(hk):>6,}")
 
     # TW — TWSE full list
-    tw = _load_tw()
+    tw = _dedup(_load_tw() + _load_tpex())
     universe["TW"] = {
-        "name": "Taiwan", "exchange": "TWSE",
+        "name": "Taiwan", "exchange": "TWSE/TPEX",
         "yf_symbols": tw, "count": len(tw),
-        "source": "tw_tickers_full.json (TWSE official list)",
+        "source": "tw_tickers_full.json (TWSE official list) + tpex_tickers_full.json (TPEX, .TWO)",
     }
     print(f"  TW  : {len(tw):>6,}")
 

@@ -1,0 +1,5360 @@
+[
+ {
+  "yf_ticker": "1240.TWO",
+  "name": "茂生農經",
+  "exchange": "TPEX",
+  "listed": "20180808"
+ },
+ {
+  "yf_ticker": "1259.TWO",
+  "name": "安心",
+  "exchange": "TPEX",
+  "listed": "20111215"
+ },
+ {
+  "yf_ticker": "1264.TWO",
+  "name": "德麥",
+  "exchange": "TPEX",
+  "listed": "20150409"
+ },
+ {
+  "yf_ticker": "1268.TWO",
+  "name": "漢來美食",
+  "exchange": "TPEX",
+  "listed": "20170927"
+ },
+ {
+  "yf_ticker": "1294.TWO",
+  "name": "漢田生技",
+  "exchange": "TPEX",
+  "listed": "20240926"
+ },
+ {
+  "yf_ticker": "1295.TWO",
+  "name": "生合",
+  "exchange": "TPEX",
+  "listed": "20250527"
+ },
+ {
+  "yf_ticker": "1336.TWO",
+  "name": "台翰",
+  "exchange": "TPEX",
+  "listed": "20071102"
+ },
+ {
+  "yf_ticker": "1565.TWO",
+  "name": "精華",
+  "exchange": "TPEX",
+  "listed": "20040330"
+ },
+ {
+  "yf_ticker": "1569.TWO",
+  "name": "濱川",
+  "exchange": "TPEX",
+  "listed": "20050729"
+ },
+ {
+  "yf_ticker": "1570.TWO",
+  "name": "力肯",
+  "exchange": "TPEX",
+  "listed": "20050630"
+ },
+ {
+  "yf_ticker": "1580.TWO",
+  "name": "新麥",
+  "exchange": "TPEX",
+  "listed": "20071210"
+ },
+ {
+  "yf_ticker": "1584.TWO",
+  "name": "精剛",
+  "exchange": "TPEX",
+  "listed": "20071128"
+ },
+ {
+  "yf_ticker": "1586.TWO",
+  "name": "和勤",
+  "exchange": "TPEX",
+  "listed": "20120109"
+ },
+ {
+  "yf_ticker": "1591.TWO",
+  "name": "駿吉-KY",
+  "exchange": "TPEX",
+  "listed": "20120323"
+ },
+ {
+  "yf_ticker": "1593.TWO",
+  "name": "祺驊",
+  "exchange": "TPEX",
+  "listed": "20120613"
+ },
+ {
+  "yf_ticker": "1595.TWO",
+  "name": "川寶",
+  "exchange": "TPEX",
+  "listed": "20111004"
+ },
+ {
+  "yf_ticker": "1599.TWO",
+  "name": "宏佳騰",
+  "exchange": "TPEX",
+  "listed": "20121225"
+ },
+ {
+  "yf_ticker": "1742.TWO",
+  "name": "台蠟",
+  "exchange": "TPEX",
+  "listed": "20040514"
+ },
+ {
+  "yf_ticker": "1777.TWO",
+  "name": "生泰",
+  "exchange": "TPEX",
+  "listed": "20051019"
+ },
+ {
+  "yf_ticker": "1780.TWO",
+  "name": "立弘",
+  "exchange": "TPEX",
+  "listed": "20260617"
+ },
+ {
+  "yf_ticker": "1781.TWO",
+  "name": "合世",
+  "exchange": "TPEX",
+  "listed": "20041224"
+ },
+ {
+  "yf_ticker": "1784.TWO",
+  "name": "訊聯",
+  "exchange": "TPEX",
+  "listed": "20070726"
+ },
+ {
+  "yf_ticker": "1785.TWO",
+  "name": "光洋科",
+  "exchange": "TPEX",
+  "listed": "20050131"
+ },
+ {
+  "yf_ticker": "1788.TWO",
+  "name": "杏昌",
+  "exchange": "TPEX",
+  "listed": "20090720"
+ },
+ {
+  "yf_ticker": "1796.TWO",
+  "name": "金穎生技",
+  "exchange": "TPEX",
+  "listed": "20180122"
+ },
+ {
+  "yf_ticker": "1799.TWO",
+  "name": "易威",
+  "exchange": "TPEX",
+  "listed": "20081110"
+ },
+ {
+  "yf_ticker": "1813.TWO",
+  "name": "寶利徠",
+  "exchange": "TPEX",
+  "listed": "20090804"
+ },
+ {
+  "yf_ticker": "1815.TWO",
+  "name": "富喬",
+  "exchange": "TPEX",
+  "listed": "20060123"
+ },
+ {
+  "yf_ticker": "2035.TWO",
+  "name": "唐榮公司",
+  "exchange": "TPEX",
+  "listed": "20060707"
+ },
+ {
+  "yf_ticker": "2061.TWO",
+  "name": "風青",
+  "exchange": "TPEX",
+  "listed": "20101209"
+ },
+ {
+  "yf_ticker": "2063.TWO",
+  "name": "世鎧精密",
+  "exchange": "TPEX",
+  "listed": "20100907"
+ },
+ {
+  "yf_ticker": "2064.TWO",
+  "name": "晉椿",
+  "exchange": "TPEX",
+  "listed": "20141226"
+ },
+ {
+  "yf_ticker": "2065.TWO",
+  "name": "世豐",
+  "exchange": "TPEX",
+  "listed": "20170421"
+ },
+ {
+  "yf_ticker": "2066.TWO",
+  "name": "世德",
+  "exchange": "TPEX",
+  "listed": "20130924"
+ },
+ {
+  "yf_ticker": "2067.TWO",
+  "name": "嘉鋼",
+  "exchange": "TPEX",
+  "listed": "20140526"
+ },
+ {
+  "yf_ticker": "2070.TWO",
+  "name": "精湛",
+  "exchange": "TPEX",
+  "listed": "20181217"
+ },
+ {
+  "yf_ticker": "2073.TWO",
+  "name": "雄順",
+  "exchange": "TPEX",
+  "listed": "20230621"
+ },
+ {
+  "yf_ticker": "2221.TWO",
+  "name": "大甲",
+  "exchange": "TPEX",
+  "listed": "20070801"
+ },
+ {
+  "yf_ticker": "2230.TWO",
+  "name": "泰茂",
+  "exchange": "TPEX",
+  "listed": "20130418"
+ },
+ {
+  "yf_ticker": "2235.TWO",
+  "name": "謚源",
+  "exchange": "TPEX",
+  "listed": "20141215"
+ },
+ {
+  "yf_ticker": "2596.TWO",
+  "name": "綠意",
+  "exchange": "TPEX",
+  "listed": "20090601"
+ },
+ {
+  "yf_ticker": "2640.TWO",
+  "name": "大車隊",
+  "exchange": "TPEX",
+  "listed": "20121107"
+ },
+ {
+  "yf_ticker": "2641.TWO",
+  "name": "正德",
+  "exchange": "TPEX",
+  "listed": "20141009"
+ },
+ {
+  "yf_ticker": "2643.TWO",
+  "name": "捷迅",
+  "exchange": "TPEX",
+  "listed": "20160304"
+ },
+ {
+  "yf_ticker": "2718.TWO",
+  "name": "全心投控",
+  "exchange": "TPEX",
+  "listed": "20110329"
+ },
+ {
+  "yf_ticker": "2719.TWO",
+  "name": "燦星旅",
+  "exchange": "TPEX",
+  "listed": "20120224"
+ },
+ {
+  "yf_ticker": "2724.TWO",
+  "name": "藝舍-KY",
+  "exchange": "TPEX",
+  "listed": "20120529"
+ },
+ {
+  "yf_ticker": "2726.TWO",
+  "name": "雅茗-KY",
+  "exchange": "TPEX",
+  "listed": "20141224"
+ },
+ {
+  "yf_ticker": "2729.TWO",
+  "name": "瓦城",
+  "exchange": "TPEX",
+  "listed": "20120917"
+ },
+ {
+  "yf_ticker": "2732.TWO",
+  "name": "六角",
+  "exchange": "TPEX",
+  "listed": "20150120"
+ },
+ {
+  "yf_ticker": "2734.TWO",
+  "name": "易飛網",
+  "exchange": "TPEX",
+  "listed": "20131226"
+ },
+ {
+  "yf_ticker": "2736.TWO",
+  "name": "富野",
+  "exchange": "TPEX",
+  "listed": "20160106"
+ },
+ {
+  "yf_ticker": "2740.TWO",
+  "name": "華軒",
+  "exchange": "TPEX",
+  "listed": "20151224"
+ },
+ {
+  "yf_ticker": "2743.TWO",
+  "name": "山富",
+  "exchange": "TPEX",
+  "listed": "20200309"
+ },
+ {
+  "yf_ticker": "2745.TWO",
+  "name": "五福",
+  "exchange": "TPEX",
+  "listed": "20180416"
+ },
+ {
+  "yf_ticker": "2751.TWO",
+  "name": "王座",
+  "exchange": "TPEX",
+  "listed": "20240910"
+ },
+ {
+  "yf_ticker": "2752.TWO",
+  "name": "豆府",
+  "exchange": "TPEX",
+  "listed": "20190925"
+ },
+ {
+  "yf_ticker": "2754.TWO",
+  "name": "亞洲藏壽司",
+  "exchange": "TPEX",
+  "listed": "20200917"
+ },
+ {
+  "yf_ticker": "2755.TWO",
+  "name": "揚秦",
+  "exchange": "TPEX",
+  "listed": "20201216"
+ },
+ {
+  "yf_ticker": "2756.TWO",
+  "name": "聯發國際",
+  "exchange": "TPEX",
+  "listed": "20220114"
+ },
+ {
+  "yf_ticker": "2916.TWO",
+  "name": "滿心",
+  "exchange": "TPEX",
+  "listed": "20050310"
+ },
+ {
+  "yf_ticker": "2924.TWO",
+  "name": "宏太-KY",
+  "exchange": "TPEX",
+  "listed": "20111202"
+ },
+ {
+  "yf_ticker": "2926.TWO",
+  "name": "誠品生活",
+  "exchange": "TPEX",
+  "listed": "20130130"
+ },
+ {
+  "yf_ticker": "2937.TWO",
+  "name": "集雅社",
+  "exchange": "TPEX",
+  "listed": "20170608"
+ },
+ {
+  "yf_ticker": "2938.TWO",
+  "name": "床的世界",
+  "exchange": "TPEX",
+  "listed": "20260916"
+ },
+ {
+  "yf_ticker": "2941.TWO",
+  "name": "米斯特",
+  "exchange": "TPEX",
+  "listed": "20240320"
+ },
+ {
+  "yf_ticker": "2947.TWO",
+  "name": "振宇五金",
+  "exchange": "TPEX",
+  "listed": "20211006"
+ },
+ {
+  "yf_ticker": "2948.TWO",
+  "name": "寶陞",
+  "exchange": "TPEX",
+  "listed": "20231212"
+ },
+ {
+  "yf_ticker": "2949.TWO",
+  "name": "欣新網",
+  "exchange": "TPEX",
+  "listed": "20231215"
+ },
+ {
+  "yf_ticker": "3064.TWO",
+  "name": "泰偉",
+  "exchange": "TPEX",
+  "listed": "20040609"
+ },
+ {
+  "yf_ticker": "3066.TWO",
+  "name": "李洲",
+  "exchange": "TPEX",
+  "listed": "20041202"
+ },
+ {
+  "yf_ticker": "3067.TWO",
+  "name": "全域",
+  "exchange": "TPEX",
+  "listed": "20031021"
+ },
+ {
+  "yf_ticker": "3071.TWO",
+  "name": "協禧",
+  "exchange": "TPEX",
+  "listed": "20041230"
+ },
+ {
+  "yf_ticker": "3073.TWO",
+  "name": "天方能源",
+  "exchange": "TPEX",
+  "listed": "20071008"
+ },
+ {
+  "yf_ticker": "3078.TWO",
+  "name": "僑威",
+  "exchange": "TPEX",
+  "listed": "20050131"
+ },
+ {
+  "yf_ticker": "3081.TWO",
+  "name": "聯亞",
+  "exchange": "TPEX",
+  "listed": "20150722"
+ },
+ {
+  "yf_ticker": "3083.TWO",
+  "name": "網龍",
+  "exchange": "TPEX",
+  "listed": "20031202"
+ },
+ {
+  "yf_ticker": "3085.TWO",
+  "name": "新零售",
+  "exchange": "TPEX",
+  "listed": "20040301"
+ },
+ {
+  "yf_ticker": "3086.TWO",
+  "name": "華義*",
+  "exchange": "TPEX",
+  "listed": "20040329"
+ },
+ {
+  "yf_ticker": "3088.TWO",
+  "name": "艾訊",
+  "exchange": "TPEX",
+  "listed": "20050428"
+ },
+ {
+  "yf_ticker": "3093.TWO",
+  "name": "港建*",
+  "exchange": "TPEX",
+  "listed": "20050617"
+ },
+ {
+  "yf_ticker": "3095.TWO",
+  "name": "及成",
+  "exchange": "TPEX",
+  "listed": "20050526"
+ },
+ {
+  "yf_ticker": "3105.TWO",
+  "name": "穩懋",
+  "exchange": "TPEX",
+  "listed": "20111213"
+ },
+ {
+  "yf_ticker": "3114.TWO",
+  "name": "好德",
+  "exchange": "TPEX",
+  "listed": "20040325"
+ },
+ {
+  "yf_ticker": "3115.TWO",
+  "name": "富榮綱",
+  "exchange": "TPEX",
+  "listed": "20050408"
+ },
+ {
+  "yf_ticker": "3118.TWO",
+  "name": "進階",
+  "exchange": "TPEX",
+  "listed": "20080521"
+ },
+ {
+  "yf_ticker": "3122.TWO",
+  "name": "笙泉",
+  "exchange": "TPEX",
+  "listed": "20150126"
+ },
+ {
+  "yf_ticker": "3128.TWO",
+  "name": "昇銳",
+  "exchange": "TPEX",
+  "listed": "20060904"
+ },
+ {
+  "yf_ticker": "3131.TWO",
+  "name": "弘塑",
+  "exchange": "TPEX",
+  "listed": "20110117"
+ },
+ {
+  "yf_ticker": "3141.TWO",
+  "name": "晶宏",
+  "exchange": "TPEX",
+  "listed": "20140314"
+ },
+ {
+  "yf_ticker": "3147.TWO",
+  "name": "大綜",
+  "exchange": "TPEX",
+  "listed": "20180529"
+ },
+ {
+  "yf_ticker": "3152.TWO",
+  "name": "璟德",
+  "exchange": "TPEX",
+  "listed": "20080324"
+ },
+ {
+  "yf_ticker": "3158.TWO",
+  "name": "嘉實",
+  "exchange": "TPEX",
+  "listed": "20251117"
+ },
+ {
+  "yf_ticker": "3162.TWO",
+  "name": "精確",
+  "exchange": "TPEX",
+  "listed": "20051003"
+ },
+ {
+  "yf_ticker": "3163.TWO",
+  "name": "波若威",
+  "exchange": "TPEX",
+  "listed": "20121203"
+ },
+ {
+  "yf_ticker": "3169.TWO",
+  "name": "亞信",
+  "exchange": "TPEX",
+  "listed": "20091124"
+ },
+ {
+  "yf_ticker": "3171.TWO",
+  "name": "炎洲流通",
+  "exchange": "TPEX",
+  "listed": "20040917"
+ },
+ {
+  "yf_ticker": "3176.TWO",
+  "name": "基亞",
+  "exchange": "TPEX",
+  "listed": "20111123"
+ },
+ {
+  "yf_ticker": "3178.TWO",
+  "name": "公準",
+  "exchange": "TPEX",
+  "listed": "20181119"
+ },
+ {
+  "yf_ticker": "3188.TWO",
+  "name": "鑫龍騰",
+  "exchange": "TPEX",
+  "listed": "20040317"
+ },
+ {
+  "yf_ticker": "3191.TWO",
+  "name": "雲嘉南",
+  "exchange": "TPEX",
+  "listed": "20050412"
+ },
+ {
+  "yf_ticker": "3205.TWO",
+  "name": "佰研",
+  "exchange": "TPEX",
+  "listed": "20050912"
+ },
+ {
+  "yf_ticker": "3206.TWO",
+  "name": "志豐",
+  "exchange": "TPEX",
+  "listed": "20070208"
+ },
+ {
+  "yf_ticker": "3207.TWO",
+  "name": "耀勝",
+  "exchange": "TPEX",
+  "listed": "20041104"
+ },
+ {
+  "yf_ticker": "3211.TWO",
+  "name": "順達",
+  "exchange": "TPEX",
+  "listed": "20041108"
+ },
+ {
+  "yf_ticker": "3213.TWO",
+  "name": "茂訊",
+  "exchange": "TPEX",
+  "listed": "20041001"
+ },
+ {
+  "yf_ticker": "3217.TWO",
+  "name": "優群",
+  "exchange": "TPEX",
+  "listed": "20040430"
+ },
+ {
+  "yf_ticker": "3218.TWO",
+  "name": "大學光",
+  "exchange": "TPEX",
+  "listed": "20041129"
+ },
+ {
+  "yf_ticker": "3219.TWO",
+  "name": "倚強科",
+  "exchange": "TPEX",
+  "listed": "20040319"
+ },
+ {
+  "yf_ticker": "3221.TWO",
+  "name": "台嘉碩",
+  "exchange": "TPEX",
+  "listed": "20060222"
+ },
+ {
+  "yf_ticker": "3224.TWO",
+  "name": "三顧",
+  "exchange": "TPEX",
+  "listed": "20040603"
+ },
+ {
+  "yf_ticker": "3226.TWO",
+  "name": "龍鋒",
+  "exchange": "TPEX",
+  "listed": "20040616"
+ },
+ {
+  "yf_ticker": "3227.TWO",
+  "name": "原相",
+  "exchange": "TPEX",
+  "listed": "20060504"
+ },
+ {
+  "yf_ticker": "3228.TWO",
+  "name": "金麗科",
+  "exchange": "TPEX",
+  "listed": "20050302"
+ },
+ {
+  "yf_ticker": "3230.TWO",
+  "name": "錦明",
+  "exchange": "TPEX",
+  "listed": "20060925"
+ },
+ {
+  "yf_ticker": "3232.TWO",
+  "name": "昱捷",
+  "exchange": "TPEX",
+  "listed": "20041101"
+ },
+ {
+  "yf_ticker": "3234.TWO",
+  "name": "光環",
+  "exchange": "TPEX",
+  "listed": "20110324"
+ },
+ {
+  "yf_ticker": "3236.TWO",
+  "name": "千如",
+  "exchange": "TPEX",
+  "listed": "20041202"
+ },
+ {
+  "yf_ticker": "3252.TWO",
+  "name": "海灣",
+  "exchange": "TPEX",
+  "listed": "20040923"
+ },
+ {
+  "yf_ticker": "3259.TWO",
+  "name": "鑫創",
+  "exchange": "TPEX",
+  "listed": "20071224"
+ },
+ {
+  "yf_ticker": "3260.TWO",
+  "name": "威剛",
+  "exchange": "TPEX",
+  "listed": "20041008"
+ },
+ {
+  "yf_ticker": "3264.TWO",
+  "name": "欣銓",
+  "exchange": "TPEX",
+  "listed": "20050105"
+ },
+ {
+  "yf_ticker": "3265.TWO",
+  "name": "台星科",
+  "exchange": "TPEX",
+  "listed": "20050802"
+ },
+ {
+  "yf_ticker": "3268.TWO",
+  "name": "海德威",
+  "exchange": "TPEX",
+  "listed": "20050127"
+ },
+ {
+  "yf_ticker": "3272.TWO",
+  "name": "東碩",
+  "exchange": "TPEX",
+  "listed": "20140826"
+ },
+ {
+  "yf_ticker": "3276.TWO",
+  "name": "宇環",
+  "exchange": "TPEX",
+  "listed": "20050112"
+ },
+ {
+  "yf_ticker": "3284.TWO",
+  "name": "太普高",
+  "exchange": "TPEX",
+  "listed": "20050322"
+ },
+ {
+  "yf_ticker": "3285.TWO",
+  "name": "微端",
+  "exchange": "TPEX",
+  "listed": "20120723"
+ },
+ {
+  "yf_ticker": "3287.TWO",
+  "name": "廣寰科",
+  "exchange": "TPEX",
+  "listed": "20080128"
+ },
+ {
+  "yf_ticker": "3288.TWO",
+  "name": "點晶",
+  "exchange": "TPEX",
+  "listed": "20050415"
+ },
+ {
+  "yf_ticker": "3289.TWO",
+  "name": "宜特",
+  "exchange": "TPEX",
+  "listed": "20041228"
+ },
+ {
+  "yf_ticker": "3290.TWO",
+  "name": "東浦",
+  "exchange": "TPEX",
+  "listed": "20050519"
+ },
+ {
+  "yf_ticker": "3293.TWO",
+  "name": "鈊象",
+  "exchange": "TPEX",
+  "listed": "20060712"
+ },
+ {
+  "yf_ticker": "3294.TWO",
+  "name": "英濟",
+  "exchange": "TPEX",
+  "listed": "20070427"
+ },
+ {
+  "yf_ticker": "3297.TWO",
+  "name": "杭特",
+  "exchange": "TPEX",
+  "listed": "20050607"
+ },
+ {
+  "yf_ticker": "3303.TWO",
+  "name": "岱稜",
+  "exchange": "TPEX",
+  "listed": "20070528"
+ },
+ {
+  "yf_ticker": "3306.TWO",
+  "name": "鼎天",
+  "exchange": "TPEX",
+  "listed": "20050705"
+ },
+ {
+  "yf_ticker": "3310.TWO",
+  "name": "佳穎",
+  "exchange": "TPEX",
+  "listed": "20080627"
+ },
+ {
+  "yf_ticker": "3313.TWO",
+  "name": "斐成",
+  "exchange": "TPEX",
+  "listed": "20060529"
+ },
+ {
+  "yf_ticker": "3317.TWO",
+  "name": "尼克森",
+  "exchange": "TPEX",
+  "listed": "20070809"
+ },
+ {
+  "yf_ticker": "3322.TWO",
+  "name": "建舜電",
+  "exchange": "TPEX",
+  "listed": "20090520"
+ },
+ {
+  "yf_ticker": "3323.TWO",
+  "name": "加百裕",
+  "exchange": "TPEX",
+  "listed": "20070625"
+ },
+ {
+  "yf_ticker": "3324.TWO",
+  "name": "雙鴻",
+  "exchange": "TPEX",
+  "listed": "20050513"
+ },
+ {
+  "yf_ticker": "3325.TWO",
+  "name": "旭品",
+  "exchange": "TPEX",
+  "listed": "20050815"
+ },
+ {
+  "yf_ticker": "3332.TWO",
+  "name": "幸康",
+  "exchange": "TPEX",
+  "listed": "20080124"
+ },
+ {
+  "yf_ticker": "3339.TWO",
+  "name": "泰谷",
+  "exchange": "TPEX",
+  "listed": "20060627"
+ },
+ {
+  "yf_ticker": "3349.TWO",
+  "name": "寶德",
+  "exchange": "TPEX",
+  "listed": "20220323"
+ },
+ {
+  "yf_ticker": "3354.TWO",
+  "name": "律勝",
+  "exchange": "TPEX",
+  "listed": "20051208"
+ },
+ {
+  "yf_ticker": "3357.TWO",
+  "name": "臺慶科",
+  "exchange": "TPEX",
+  "listed": "20210427"
+ },
+ {
+  "yf_ticker": "3360.TWO",
+  "name": "尚立",
+  "exchange": "TPEX",
+  "listed": "20060606"
+ },
+ {
+  "yf_ticker": "3362.TWO",
+  "name": "先進光",
+  "exchange": "TPEX",
+  "listed": "20050906"
+ },
+ {
+  "yf_ticker": "3363.TWO",
+  "name": "上詮",
+  "exchange": "TPEX",
+  "listed": "20110225"
+ },
+ {
+  "yf_ticker": "3372.TWO",
+  "name": "典範",
+  "exchange": "TPEX",
+  "listed": "20051216"
+ },
+ {
+  "yf_ticker": "3373.TWO",
+  "name": "熱映",
+  "exchange": "TPEX",
+  "listed": "20071213"
+ },
+ {
+  "yf_ticker": "3374.TWO",
+  "name": "精材",
+  "exchange": "TPEX",
+  "listed": "20150330"
+ },
+ {
+  "yf_ticker": "3379.TWO",
+  "name": "彬台",
+  "exchange": "TPEX",
+  "listed": "20111020"
+ },
+ {
+  "yf_ticker": "3388.TWO",
+  "name": "崇越電",
+  "exchange": "TPEX",
+  "listed": "20060222"
+ },
+ {
+  "yf_ticker": "3390.TWO",
+  "name": "旭軟",
+  "exchange": "TPEX",
+  "listed": "20060222"
+ },
+ {
+  "yf_ticker": "3402.TWO",
+  "name": "漢科",
+  "exchange": "TPEX",
+  "listed": "20070109"
+ },
+ {
+  "yf_ticker": "3430.TWO",
+  "name": "奇鈦科",
+  "exchange": "TPEX",
+  "listed": "20220908"
+ },
+ {
+  "yf_ticker": "3434.TWO",
+  "name": "哲固",
+  "exchange": "TPEX",
+  "listed": "20080128"
+ },
+ {
+  "yf_ticker": "3438.TWO",
+  "name": "類比科",
+  "exchange": "TPEX",
+  "listed": "20060719"
+ },
+ {
+  "yf_ticker": "3441.TWO",
+  "name": "聯一光電",
+  "exchange": "TPEX",
+  "listed": "20101004"
+ },
+ {
+  "yf_ticker": "3444.TWO",
+  "name": "利機",
+  "exchange": "TPEX",
+  "listed": "20080926"
+ },
+ {
+  "yf_ticker": "3455.TWO",
+  "name": "由田",
+  "exchange": "TPEX",
+  "listed": "20071227"
+ },
+ {
+  "yf_ticker": "3465.TWO",
+  "name": "進泰電子",
+  "exchange": "TPEX",
+  "listed": "20080128"
+ },
+ {
+  "yf_ticker": "3466.TWO",
+  "name": "德晉",
+  "exchange": "TPEX",
+  "listed": "20060517"
+ },
+ {
+  "yf_ticker": "3467.TWO",
+  "name": "台灣精材",
+  "exchange": "TPEX",
+  "listed": "20250325"
+ },
+ {
+  "yf_ticker": "3479.TWO",
+  "name": "安勤",
+  "exchange": "TPEX",
+  "listed": "20100608"
+ },
+ {
+  "yf_ticker": "3483.TWO",
+  "name": "力致",
+  "exchange": "TPEX",
+  "listed": "20061218"
+ },
+ {
+  "yf_ticker": "3484.TWO",
+  "name": "崧騰",
+  "exchange": "TPEX",
+  "listed": "20071109"
+ },
+ {
+  "yf_ticker": "3485.TWO",
+  "name": "敘豐",
+  "exchange": "TPEX",
+  "listed": "20260506"
+ },
+ {
+  "yf_ticker": "3489.TWO",
+  "name": "森寶",
+  "exchange": "TPEX",
+  "listed": "20070929"
+ },
+ {
+  "yf_ticker": "3490.TWO",
+  "name": "單井",
+  "exchange": "TPEX",
+  "listed": "20071015"
+ },
+ {
+  "yf_ticker": "3491.TWO",
+  "name": "昇達科",
+  "exchange": "TPEX",
+  "listed": "20080103"
+ },
+ {
+  "yf_ticker": "3492.TWO",
+  "name": "長盛",
+  "exchange": "TPEX",
+  "listed": "20150518"
+ },
+ {
+  "yf_ticker": "3498.TWO",
+  "name": "陽程",
+  "exchange": "TPEX",
+  "listed": "20070911"
+ },
+ {
+  "yf_ticker": "3499.TWO",
+  "name": "環天科",
+  "exchange": "TPEX",
+  "listed": "20061019"
+ },
+ {
+  "yf_ticker": "3508.TWO",
+  "name": "位速",
+  "exchange": "TPEX",
+  "listed": "20071017"
+ },
+ {
+  "yf_ticker": "3511.TWO",
+  "name": "矽瑪",
+  "exchange": "TPEX",
+  "listed": "20090216"
+ },
+ {
+  "yf_ticker": "3512.TWO",
+  "name": "皇龍",
+  "exchange": "TPEX",
+  "listed": "20070725"
+ },
+ {
+  "yf_ticker": "3516.TWO",
+  "name": "亞帝歐",
+  "exchange": "TPEX",
+  "listed": "20071129"
+ },
+ {
+  "yf_ticker": "3520.TWO",
+  "name": "華盈",
+  "exchange": "TPEX",
+  "listed": "20071012"
+ },
+ {
+  "yf_ticker": "3521.TWO",
+  "name": "台鋼建設",
+  "exchange": "TPEX",
+  "listed": "20070807"
+ },
+ {
+  "yf_ticker": "3522.TWO",
+  "name": "御嵿",
+  "exchange": "TPEX",
+  "listed": "20071015"
+ },
+ {
+  "yf_ticker": "3523.TWO",
+  "name": "迎輝",
+  "exchange": "TPEX",
+  "listed": "20071116"
+ },
+ {
+  "yf_ticker": "3526.TWO",
+  "name": "凡甲",
+  "exchange": "TPEX",
+  "listed": "20071102"
+ },
+ {
+  "yf_ticker": "3527.TWO",
+  "name": "聚積",
+  "exchange": "TPEX",
+  "listed": "20071029"
+ },
+ {
+  "yf_ticker": "3529.TWO",
+  "name": "力旺",
+  "exchange": "TPEX",
+  "listed": "20110124"
+ },
+ {
+  "yf_ticker": "3531.TWO",
+  "name": "先益",
+  "exchange": "TPEX",
+  "listed": "20080408"
+ },
+ {
+  "yf_ticker": "3537.TWO",
+  "name": "堡達",
+  "exchange": "TPEX",
+  "listed": "20100125"
+ },
+ {
+  "yf_ticker": "3540.TWO",
+  "name": "曜越",
+  "exchange": "TPEX",
+  "listed": "20071212"
+ },
+ {
+  "yf_ticker": "3541.TWO",
+  "name": "西柏",
+  "exchange": "TPEX",
+  "listed": "20091222"
+ },
+ {
+  "yf_ticker": "3546.TWO",
+  "name": "宇峻",
+  "exchange": "TPEX",
+  "listed": "20080418"
+ },
+ {
+  "yf_ticker": "3548.TWO",
+  "name": "兆利",
+  "exchange": "TPEX",
+  "listed": "20080327"
+ },
+ {
+  "yf_ticker": "3551.TWO",
+  "name": "世禾",
+  "exchange": "TPEX",
+  "listed": "20080415"
+ },
+ {
+  "yf_ticker": "3552.TWO",
+  "name": "同致",
+  "exchange": "TPEX",
+  "listed": "20090107"
+ },
+ {
+  "yf_ticker": "3555.TWO",
+  "name": "博士旺",
+  "exchange": "TPEX",
+  "listed": "20111108"
+ },
+ {
+  "yf_ticker": "3556.TWO",
+  "name": "禾瑞亞",
+  "exchange": "TPEX",
+  "listed": "20080415"
+ },
+ {
+  "yf_ticker": "3558.TWO",
+  "name": "神準",
+  "exchange": "TPEX",
+  "listed": "20131230"
+ },
+ {
+  "yf_ticker": "3564.TWO",
+  "name": "其陽",
+  "exchange": "TPEX",
+  "listed": "20131203"
+ },
+ {
+  "yf_ticker": "3567.TWO",
+  "name": "逸昌",
+  "exchange": "TPEX",
+  "listed": "20101122"
+ },
+ {
+  "yf_ticker": "3570.TWO",
+  "name": "大塚",
+  "exchange": "TPEX",
+  "listed": "20081023"
+ },
+ {
+  "yf_ticker": "3577.TWO",
+  "name": "泓格",
+  "exchange": "TPEX",
+  "listed": "20090106"
+ },
+ {
+  "yf_ticker": "3580.TWO",
+  "name": "友威科",
+  "exchange": "TPEX",
+  "listed": "20100709"
+ },
+ {
+  "yf_ticker": "3581.TWO",
+  "name": "博磊",
+  "exchange": "TPEX",
+  "listed": "20150120"
+ },
+ {
+  "yf_ticker": "3587.TWO",
+  "name": "閎康",
+  "exchange": "TPEX",
+  "listed": "20090818"
+ },
+ {
+  "yf_ticker": "3594.TWO",
+  "name": "磐儀",
+  "exchange": "TPEX",
+  "listed": "20130507"
+ },
+ {
+  "yf_ticker": "3597.TWO",
+  "name": "映興",
+  "exchange": "TPEX",
+  "listed": "20200309"
+ },
+ {
+  "yf_ticker": "3609.TWO",
+  "name": "三一東林",
+  "exchange": "TPEX",
+  "listed": "20110111"
+ },
+ {
+  "yf_ticker": "3611.TWO",
+  "name": "鼎翰",
+  "exchange": "TPEX",
+  "listed": "20081126"
+ },
+ {
+  "yf_ticker": "3615.TWO",
+  "name": "安可",
+  "exchange": "TPEX",
+  "listed": "20090415"
+ },
+ {
+  "yf_ticker": "3623.TWO",
+  "name": "富晶通",
+  "exchange": "TPEX",
+  "listed": "20100428"
+ },
+ {
+  "yf_ticker": "3624.TWO",
+  "name": "光頡",
+  "exchange": "TPEX",
+  "listed": "20110316"
+ },
+ {
+  "yf_ticker": "3625.TWO",
+  "name": "西勝",
+  "exchange": "TPEX",
+  "listed": "20091028"
+ },
+ {
+  "yf_ticker": "3628.TWO",
+  "name": "盈正",
+  "exchange": "TPEX",
+  "listed": "20100909"
+ },
+ {
+  "yf_ticker": "3629.TWO",
+  "name": "地心引力",
+  "exchange": "TPEX",
+  "listed": "20100527"
+ },
+ {
+  "yf_ticker": "3630.TWO",
+  "name": "新鉅科",
+  "exchange": "TPEX",
+  "listed": "20100426"
+ },
+ {
+  "yf_ticker": "3631.TWO",
+  "name": "晟楠",
+  "exchange": "TPEX",
+  "listed": "20101220"
+ },
+ {
+  "yf_ticker": "3632.TWO",
+  "name": "研勤",
+  "exchange": "TPEX",
+  "listed": "20110111"
+ },
+ {
+  "yf_ticker": "3646.TWO",
+  "name": "艾恩特",
+  "exchange": "TPEX",
+  "listed": "20120327"
+ },
+ {
+  "yf_ticker": "3663.TWO",
+  "name": "鑫科",
+  "exchange": "TPEX",
+  "listed": "20121120"
+ },
+ {
+  "yf_ticker": "3664.TWO",
+  "name": "安瑞-KY",
+  "exchange": "TPEX",
+  "listed": "20100624"
+ },
+ {
+  "yf_ticker": "3666.TWO",
+  "name": "光耀",
+  "exchange": "TPEX",
+  "listed": "20141204"
+ },
+ {
+  "yf_ticker": "3672.TWO",
+  "name": "康聯訊",
+  "exchange": "TPEX",
+  "listed": "20150420"
+ },
+ {
+  "yf_ticker": "3675.TWO",
+  "name": "德微",
+  "exchange": "TPEX",
+  "listed": "20120629"
+ },
+ {
+  "yf_ticker": "3680.TWO",
+  "name": "家登",
+  "exchange": "TPEX",
+  "listed": "20110831"
+ },
+ {
+  "yf_ticker": "3684.TWO",
+  "name": "榮昌",
+  "exchange": "TPEX",
+  "listed": "20140328"
+ },
+ {
+  "yf_ticker": "3685.TWO",
+  "name": "元創精密",
+  "exchange": "TPEX",
+  "listed": "20101208"
+ },
+ {
+  "yf_ticker": "3687.TWO",
+  "name": "歐買尬",
+  "exchange": "TPEX",
+  "listed": "20110111"
+ },
+ {
+  "yf_ticker": "3689.TWO",
+  "name": "湧德",
+  "exchange": "TPEX",
+  "listed": "20121018"
+ },
+ {
+  "yf_ticker": "3691.TWO",
+  "name": "碩禾",
+  "exchange": "TPEX",
+  "listed": "20101118"
+ },
+ {
+  "yf_ticker": "3693.TWO",
+  "name": "營邦",
+  "exchange": "TPEX",
+  "listed": "20131127"
+ },
+ {
+  "yf_ticker": "3707.TWO",
+  "name": "漢磊",
+  "exchange": "TPEX",
+  "listed": "20141001"
+ },
+ {
+  "yf_ticker": "3709.TWO",
+  "name": "鑫聯大投控",
+  "exchange": "TPEX",
+  "listed": "20170901"
+ },
+ {
+  "yf_ticker": "3710.TWO",
+  "name": "連展投控",
+  "exchange": "TPEX",
+  "listed": "20171229"
+ },
+ {
+  "yf_ticker": "3713.TWO",
+  "name": "新晶投控",
+  "exchange": "TPEX",
+  "listed": "20200227"
+ },
+ {
+  "yf_ticker": "3718.TWO",
+  "name": "中光電投控",
+  "exchange": "TPEX",
+  "listed": "20260903"
+ },
+ {
+  "yf_ticker": "4102.TWO",
+  "name": "永日",
+  "exchange": "TPEX",
+  "listed": "20010320"
+ },
+ {
+  "yf_ticker": "4105.TWO",
+  "name": "東洋",
+  "exchange": "TPEX",
+  "listed": "20010927"
+ },
+ {
+  "yf_ticker": "4107.TWO",
+  "name": "邦特",
+  "exchange": "TPEX",
+  "listed": "20020304"
+ },
+ {
+  "yf_ticker": "4109.TWO",
+  "name": "加捷生醫",
+  "exchange": "TPEX",
+  "listed": "20020808"
+ },
+ {
+  "yf_ticker": "4111.TWO",
+  "name": "濟生",
+  "exchange": "TPEX",
+  "listed": "19990306"
+ },
+ {
+  "yf_ticker": "4113.TWO",
+  "name": "聯上",
+  "exchange": "TPEX",
+  "listed": "20030722"
+ },
+ {
+  "yf_ticker": "4114.TWO",
+  "name": "健喬",
+  "exchange": "TPEX",
+  "listed": "20030512"
+ },
+ {
+  "yf_ticker": "4116.TWO",
+  "name": "明基醫",
+  "exchange": "TPEX",
+  "listed": "20151216"
+ },
+ {
+  "yf_ticker": "4120.TWO",
+  "name": "友華",
+  "exchange": "TPEX",
+  "listed": "20031105"
+ },
+ {
+  "yf_ticker": "4121.TWO",
+  "name": "優盛",
+  "exchange": "TPEX",
+  "listed": "20030725"
+ },
+ {
+  "yf_ticker": "4123.TWO",
+  "name": "晟德",
+  "exchange": "TPEX",
+  "listed": "20031007"
+ },
+ {
+  "yf_ticker": "4126.TWO",
+  "name": "太醫",
+  "exchange": "TPEX",
+  "listed": "20040209"
+ },
+ {
+  "yf_ticker": "4127.TWO",
+  "name": "天良",
+  "exchange": "TPEX",
+  "listed": "20050729"
+ },
+ {
+  "yf_ticker": "4128.TWO",
+  "name": "中天",
+  "exchange": "TPEX",
+  "listed": "20060609"
+ },
+ {
+  "yf_ticker": "4129.TWO",
+  "name": "聯合",
+  "exchange": "TPEX",
+  "listed": "20040929"
+ },
+ {
+  "yf_ticker": "4131.TWO",
+  "name": "浩泰",
+  "exchange": "TPEX",
+  "listed": "20040409"
+ },
+ {
+  "yf_ticker": "4138.TWO",
+  "name": "曜亞",
+  "exchange": "TPEX",
+  "listed": "20101229"
+ },
+ {
+  "yf_ticker": "4139.TWO",
+  "name": "馬光-KY",
+  "exchange": "TPEX",
+  "listed": "20110429"
+ },
+ {
+  "yf_ticker": "4147.TWO",
+  "name": "中裕",
+  "exchange": "TPEX",
+  "listed": "20151123"
+ },
+ {
+  "yf_ticker": "4153.TWO",
+  "name": "鈺緯",
+  "exchange": "TPEX",
+  "listed": "20130523"
+ },
+ {
+  "yf_ticker": "4154.TWO",
+  "name": "樂威科-KY",
+  "exchange": "TPEX",
+  "listed": "20111228"
+ },
+ {
+  "yf_ticker": "4157.TWO",
+  "name": "太景*-KY",
+  "exchange": "TPEX",
+  "listed": "20140117"
+ },
+ {
+  "yf_ticker": "4160.TWO",
+  "name": "訊聯基因",
+  "exchange": "TPEX",
+  "listed": "20120917"
+ },
+ {
+  "yf_ticker": "4161.TWO",
+  "name": "聿新科",
+  "exchange": "TPEX",
+  "listed": "20130626"
+ },
+ {
+  "yf_ticker": "4162.TWO",
+  "name": "智擎",
+  "exchange": "TPEX",
+  "listed": "20120918"
+ },
+ {
+  "yf_ticker": "4163.TWO",
+  "name": "鐿鈦",
+  "exchange": "TPEX",
+  "listed": "20121115"
+ },
+ {
+  "yf_ticker": "4166.TWO",
+  "name": "友霖",
+  "exchange": "TPEX",
+  "listed": "20250821"
+ },
+ {
+  "yf_ticker": "4167.TWO",
+  "name": "松瑞藥",
+  "exchange": "TPEX",
+  "listed": "20150908"
+ },
+ {
+  "yf_ticker": "4168.TWO",
+  "name": "醣聯",
+  "exchange": "TPEX",
+  "listed": "20121218"
+ },
+ {
+  "yf_ticker": "4171.TWO",
+  "name": "瑞基",
+  "exchange": "TPEX",
+  "listed": "20140814"
+ },
+ {
+  "yf_ticker": "4173.TWO",
+  "name": "久裕",
+  "exchange": "TPEX",
+  "listed": "20131031"
+ },
+ {
+  "yf_ticker": "4174.TWO",
+  "name": "浩鼎",
+  "exchange": "TPEX",
+  "listed": "20150323"
+ },
+ {
+  "yf_ticker": "4175.TWO",
+  "name": "杏一",
+  "exchange": "TPEX",
+  "listed": "20140423"
+ },
+ {
+  "yf_ticker": "4183.TWO",
+  "name": "福永生技",
+  "exchange": "TPEX",
+  "listed": "20170309"
+ },
+ {
+  "yf_ticker": "4188.TWO",
+  "name": "安克",
+  "exchange": "TPEX",
+  "listed": "20150324"
+ },
+ {
+  "yf_ticker": "4192.TWO",
+  "name": "杏國",
+  "exchange": "TPEX",
+  "listed": "20141028"
+ },
+ {
+  "yf_ticker": "4198.TWO",
+  "name": "欣大健康",
+  "exchange": "TPEX",
+  "listed": "20141223"
+ },
+ {
+  "yf_ticker": "4205.TWO",
+  "name": "中華食",
+  "exchange": "TPEX",
+  "listed": "19990131"
+ },
+ {
+  "yf_ticker": "4207.TWO",
+  "name": "環泰",
+  "exchange": "TPEX",
+  "listed": "20000121"
+ },
+ {
+  "yf_ticker": "4303.TWO",
+  "name": "信立",
+  "exchange": "TPEX",
+  "listed": "19990310"
+ },
+ {
+  "yf_ticker": "4304.TWO",
+  "name": "勝昱",
+  "exchange": "TPEX",
+  "listed": "20000127"
+ },
+ {
+  "yf_ticker": "4305.TWO",
+  "name": "世坤",
+  "exchange": "TPEX",
+  "listed": "20000928"
+ },
+ {
+  "yf_ticker": "4401.TWO",
+  "name": "東隆興",
+  "exchange": "TPEX",
+  "listed": "19960509"
+ },
+ {
+  "yf_ticker": "4402.TWO",
+  "name": "郡都開發",
+  "exchange": "TPEX",
+  "listed": "19970723"
+ },
+ {
+  "yf_ticker": "4406.TWO",
+  "name": "新昕纖",
+  "exchange": "TPEX",
+  "listed": "19990114"
+ },
+ {
+  "yf_ticker": "4413.TWO",
+  "name": "飛寶企業",
+  "exchange": "TPEX",
+  "listed": "19990729"
+ },
+ {
+  "yf_ticker": "4416.TWO",
+  "name": "三圓",
+  "exchange": "TPEX",
+  "listed": "20000506"
+ },
+ {
+  "yf_ticker": "4417.TWO",
+  "name": "金洲",
+  "exchange": "TPEX",
+  "listed": "20001107"
+ },
+ {
+  "yf_ticker": "4419.TWO",
+  "name": "皇家美食",
+  "exchange": "TPEX",
+  "listed": "20010626"
+ },
+ {
+  "yf_ticker": "4420.TWO",
+  "name": "光明",
+  "exchange": "TPEX",
+  "listed": "20020418"
+ },
+ {
+  "yf_ticker": "4430.TWO",
+  "name": "耀億",
+  "exchange": "TPEX",
+  "listed": "20110609"
+ },
+ {
+  "yf_ticker": "4432.TWO",
+  "name": "銘旺實",
+  "exchange": "TPEX",
+  "listed": "20121126"
+ },
+ {
+  "yf_ticker": "4433.TWO",
+  "name": "興采",
+  "exchange": "TPEX",
+  "listed": "20141103"
+ },
+ {
+  "yf_ticker": "4442.TWO",
+  "name": "竣邦-KY",
+  "exchange": "TPEX",
+  "listed": "20231129"
+ },
+ {
+  "yf_ticker": "4502.TWO",
+  "name": "健信",
+  "exchange": "TPEX",
+  "listed": "19951212"
+ },
+ {
+  "yf_ticker": "4503.TWO",
+  "name": "金雨",
+  "exchange": "TPEX",
+  "listed": "19961219"
+ },
+ {
+  "yf_ticker": "4506.TWO",
+  "name": "崇友",
+  "exchange": "TPEX",
+  "listed": "19971206"
+ },
+ {
+  "yf_ticker": "4510.TWO",
+  "name": "高鋒",
+  "exchange": "TPEX",
+  "listed": "19980224"
+ },
+ {
+  "yf_ticker": "4513.TWO",
+  "name": "福裕",
+  "exchange": "TPEX",
+  "listed": "19980325"
+ },
+ {
+  "yf_ticker": "4523.TWO",
+  "name": "永彰",
+  "exchange": "TPEX",
+  "listed": "19991122"
+ },
+ {
+  "yf_ticker": "4527.TWO",
+  "name": "方方土霖",
+  "exchange": "TPEX",
+  "listed": "20000928"
+ },
+ {
+  "yf_ticker": "4528.TWO",
+  "name": "江興鍛",
+  "exchange": "TPEX",
+  "listed": "20010212"
+ },
+ {
+  "yf_ticker": "4529.TWO",
+  "name": "淳紳",
+  "exchange": "TPEX",
+  "listed": "20010504"
+ },
+ {
+  "yf_ticker": "4530.TWO",
+  "name": "天意能創",
+  "exchange": "TPEX",
+  "listed": "20010430"
+ },
+ {
+  "yf_ticker": "4533.TWO",
+  "name": "協易機",
+  "exchange": "TPEX",
+  "listed": "20020426"
+ },
+ {
+  "yf_ticker": "4534.TWO",
+  "name": "慶騰",
+  "exchange": "TPEX",
+  "listed": "20030331"
+ },
+ {
+  "yf_ticker": "4535.TWO",
+  "name": "至興",
+  "exchange": "TPEX",
+  "listed": "20030416"
+ },
+ {
+  "yf_ticker": "4538.TWO",
+  "name": "大詠城",
+  "exchange": "TPEX",
+  "listed": "20190115"
+ },
+ {
+  "yf_ticker": "4541.TWO",
+  "name": "晟田",
+  "exchange": "TPEX",
+  "listed": "20140722"
+ },
+ {
+  "yf_ticker": "4542.TWO",
+  "name": "科嶠",
+  "exchange": "TPEX",
+  "listed": "20140825"
+ },
+ {
+  "yf_ticker": "4543.TWO",
+  "name": "萬在",
+  "exchange": "TPEX",
+  "listed": "20160315"
+ },
+ {
+  "yf_ticker": "4549.TWO",
+  "name": "桓達",
+  "exchange": "TPEX",
+  "listed": "20141127"
+ },
+ {
+  "yf_ticker": "4550.TWO",
+  "name": "長佳",
+  "exchange": "TPEX",
+  "listed": "20150318"
+ },
+ {
+  "yf_ticker": "4554.TWO",
+  "name": "橙的",
+  "exchange": "TPEX",
+  "listed": "20160805"
+ },
+ {
+  "yf_ticker": "4556.TWO",
+  "name": "旭然",
+  "exchange": "TPEX",
+  "listed": "20151222"
+ },
+ {
+  "yf_ticker": "4558.TWO",
+  "name": "寶緯",
+  "exchange": "TPEX",
+  "listed": "20220317"
+ },
+ {
+  "yf_ticker": "4561.TWO",
+  "name": "健椿",
+  "exchange": "TPEX",
+  "listed": "20180611"
+ },
+ {
+  "yf_ticker": "4563.TWO",
+  "name": "百德",
+  "exchange": "TPEX",
+  "listed": "20180712"
+ },
+ {
+  "yf_ticker": "4568.TWO",
+  "name": "科際精密",
+  "exchange": "TPEX",
+  "listed": "20181003"
+ },
+ {
+  "yf_ticker": "4577.TWO",
+  "name": "達航科技",
+  "exchange": "TPEX",
+  "listed": "20220614"
+ },
+ {
+  "yf_ticker": "4580.TWO",
+  "name": "捷流閥業",
+  "exchange": "TPEX",
+  "listed": "20200106"
+ },
+ {
+  "yf_ticker": "4584.TWO",
+  "name": "君帆",
+  "exchange": "TPEX",
+  "listed": "20221005"
+ },
+ {
+  "yf_ticker": "4609.TWO",
+  "name": "唐鋒",
+  "exchange": "TPEX",
+  "listed": "20000519"
+ },
+ {
+  "yf_ticker": "4702.TWO",
+  "name": "中美實",
+  "exchange": "TPEX",
+  "listed": "19950421"
+ },
+ {
+  "yf_ticker": "4706.TWO",
+  "name": "大恭",
+  "exchange": "TPEX",
+  "listed": "19980417"
+ },
+ {
+  "yf_ticker": "4707.TWO",
+  "name": "磐亞",
+  "exchange": "TPEX",
+  "listed": "19980520"
+ },
+ {
+  "yf_ticker": "4711.TWO",
+  "name": "永純",
+  "exchange": "TPEX",
+  "listed": "19990224"
+ },
+ {
+  "yf_ticker": "4714.TWO",
+  "name": "永捷",
+  "exchange": "TPEX",
+  "listed": "20000327"
+ },
+ {
+  "yf_ticker": "4716.TWO",
+  "name": "大立",
+  "exchange": "TPEX",
+  "listed": "20000327"
+ },
+ {
+  "yf_ticker": "4721.TWO",
+  "name": "美琪瑪",
+  "exchange": "TPEX",
+  "listed": "20010309"
+ },
+ {
+  "yf_ticker": "4726.TWO",
+  "name": "永昕",
+  "exchange": "TPEX",
+  "listed": "20131225"
+ },
+ {
+  "yf_ticker": "4728.TWO",
+  "name": "雙美",
+  "exchange": "TPEX",
+  "listed": "20120110"
+ },
+ {
+  "yf_ticker": "4729.TWO",
+  "name": "熒茂",
+  "exchange": "TPEX",
+  "listed": "20090224"
+ },
+ {
+  "yf_ticker": "4735.TWO",
+  "name": "豪展",
+  "exchange": "TPEX",
+  "listed": "20110816"
+ },
+ {
+  "yf_ticker": "4741.TWO",
+  "name": "泓瀚",
+  "exchange": "TPEX",
+  "listed": "20170926"
+ },
+ {
+  "yf_ticker": "4743.TWO",
+  "name": "合一",
+  "exchange": "TPEX",
+  "listed": "20110923"
+ },
+ {
+  "yf_ticker": "4744.TWO",
+  "name": "皇將",
+  "exchange": "TPEX",
+  "listed": "20180712"
+ },
+ {
+  "yf_ticker": "4745.TWO",
+  "name": "合富-KY",
+  "exchange": "TPEX",
+  "listed": "20130130"
+ },
+ {
+  "yf_ticker": "4747.TWO",
+  "name": "強生*",
+  "exchange": "TPEX",
+  "listed": "20131225"
+ },
+ {
+  "yf_ticker": "4749.TWO",
+  "name": "新應材",
+  "exchange": "TPEX",
+  "listed": "20250117"
+ },
+ {
+  "yf_ticker": "4754.TWO",
+  "name": "國碳科",
+  "exchange": "TPEX",
+  "listed": "20160928"
+ },
+ {
+  "yf_ticker": "4760.TWO",
+  "name": "勤凱科技",
+  "exchange": "TPEX",
+  "listed": "20190321"
+ },
+ {
+  "yf_ticker": "4767.TWO",
+  "name": "誠泰科技",
+  "exchange": "TPEX",
+  "listed": "20181029"
+ },
+ {
+  "yf_ticker": "4768.TWO",
+  "name": "晶呈科技",
+  "exchange": "TPEX",
+  "listed": "20220413"
+ },
+ {
+  "yf_ticker": "4772.TWO",
+  "name": "台特化",
+  "exchange": "TPEX",
+  "listed": "20240920"
+ },
+ {
+  "yf_ticker": "4804.TWO",
+  "name": "大略-KY",
+  "exchange": "TPEX",
+  "listed": "20151204"
+ },
+ {
+  "yf_ticker": "4806.TWO",
+  "name": "桂田文創",
+  "exchange": "TPEX",
+  "listed": "20160309"
+ },
+ {
+  "yf_ticker": "4903.TWO",
+  "name": "聯光通",
+  "exchange": "TPEX",
+  "listed": "20010514"
+ },
+ {
+  "yf_ticker": "4905.TWO",
+  "name": "台聯電",
+  "exchange": "TPEX",
+  "listed": "20011207"
+ },
+ {
+  "yf_ticker": "4907.TWO",
+  "name": "富宇",
+  "exchange": "TPEX",
+  "listed": "20020304"
+ },
+ {
+  "yf_ticker": "4908.TWO",
+  "name": "前鼎",
+  "exchange": "TPEX",
+  "listed": "20020227"
+ },
+ {
+  "yf_ticker": "4909.TWO",
+  "name": "新復興",
+  "exchange": "TPEX",
+  "listed": "20021128"
+ },
+ {
+  "yf_ticker": "4911.TWO",
+  "name": "德英",
+  "exchange": "TPEX",
+  "listed": "20110321"
+ },
+ {
+  "yf_ticker": "4923.TWO",
+  "name": "力士",
+  "exchange": "TPEX",
+  "listed": "20220314"
+ },
+ {
+  "yf_ticker": "4924.TWO",
+  "name": "欣厚-KY",
+  "exchange": "TPEX",
+  "listed": "20111018"
+ },
+ {
+  "yf_ticker": "4931.TWO",
+  "name": "新盛力",
+  "exchange": "TPEX",
+  "listed": "20190917"
+ },
+ {
+  "yf_ticker": "4933.TWO",
+  "name": "友輝",
+  "exchange": "TPEX",
+  "listed": "20110729"
+ },
+ {
+  "yf_ticker": "4939.TWO",
+  "name": "亞電",
+  "exchange": "TPEX",
+  "listed": "20110919"
+ },
+ {
+  "yf_ticker": "4946.TWO",
+  "name": "辣椒",
+  "exchange": "TPEX",
+  "listed": "20110610"
+ },
+ {
+  "yf_ticker": "4950.TWO",
+  "name": "金耘國際",
+  "exchange": "TPEX",
+  "listed": "20120427"
+ },
+ {
+  "yf_ticker": "4951.TWO",
+  "name": "精拓科",
+  "exchange": "TPEX",
+  "listed": "20221103"
+ },
+ {
+  "yf_ticker": "4953.TWO",
+  "name": "緯致",
+  "exchange": "TPEX",
+  "listed": "20140108"
+ },
+ {
+  "yf_ticker": "4966.TWO",
+  "name": "譜瑞-KY",
+  "exchange": "TPEX",
+  "listed": "20110913"
+ },
+ {
+  "yf_ticker": "4971.TWO",
+  "name": "IET-KY",
+  "exchange": "TPEX",
+  "listed": "20130724"
+ },
+ {
+  "yf_ticker": "4972.TWO",
+  "name": "湯石照明",
+  "exchange": "TPEX",
+  "listed": "20130617"
+ },
+ {
+  "yf_ticker": "4973.TWO",
+  "name": "廣穎電通",
+  "exchange": "TPEX",
+  "listed": "20120619"
+ },
+ {
+  "yf_ticker": "4974.TWO",
+  "name": "亞泰",
+  "exchange": "TPEX",
+  "listed": "20111129"
+ },
+ {
+  "yf_ticker": "4979.TWO",
+  "name": "華星光",
+  "exchange": "TPEX",
+  "listed": "20111212"
+ },
+ {
+  "yf_ticker": "4991.TWO",
+  "name": "環宇-KY",
+  "exchange": "TPEX",
+  "listed": "20140915"
+ },
+ {
+  "yf_ticker": "4995.TWO",
+  "name": "晶達",
+  "exchange": "TPEX",
+  "listed": "20120509"
+ },
+ {
+  "yf_ticker": "5009.TWO",
+  "name": "榮剛",
+  "exchange": "TPEX",
+  "listed": "19981017"
+ },
+ {
+  "yf_ticker": "5011.TWO",
+  "name": "久陽",
+  "exchange": "TPEX",
+  "listed": "19990506"
+ },
+ {
+  "yf_ticker": "5013.TWO",
+  "name": "強新",
+  "exchange": "TPEX",
+  "listed": "20000508"
+ },
+ {
+  "yf_ticker": "5014.TWO",
+  "name": "建錩",
+  "exchange": "TPEX",
+  "listed": "20010215"
+ },
+ {
+  "yf_ticker": "5015.TWO",
+  "name": "華祺",
+  "exchange": "TPEX",
+  "listed": "20001215"
+ },
+ {
+  "yf_ticker": "5016.TWO",
+  "name": "松和",
+  "exchange": "TPEX",
+  "listed": "20010305"
+ },
+ {
+  "yf_ticker": "5201.TWO",
+  "name": "凱衛",
+  "exchange": "TPEX",
+  "listed": "20001012"
+ },
+ {
+  "yf_ticker": "5202.TWO",
+  "name": "力新",
+  "exchange": "TPEX",
+  "listed": "20001018"
+ },
+ {
+  "yf_ticker": "5205.TWO",
+  "name": "中茂",
+  "exchange": "TPEX",
+  "listed": "20010514"
+ },
+ {
+  "yf_ticker": "5206.TWO",
+  "name": "坤悅",
+  "exchange": "TPEX",
+  "listed": "20011008"
+ },
+ {
+  "yf_ticker": "5209.TWO",
+  "name": "新鼎",
+  "exchange": "TPEX",
+  "listed": "20020225"
+ },
+ {
+  "yf_ticker": "5210.TWO",
+  "name": "寶碩",
+  "exchange": "TPEX",
+  "listed": "20020425"
+ },
+ {
+  "yf_ticker": "5211.TWO",
+  "name": "蒙恬",
+  "exchange": "TPEX",
+  "listed": "20021223"
+ },
+ {
+  "yf_ticker": "5212.TWO",
+  "name": "凌網",
+  "exchange": "TPEX",
+  "listed": "20030324"
+ },
+ {
+  "yf_ticker": "5213.TWO",
+  "name": "亞昕",
+  "exchange": "TPEX",
+  "listed": "20030424"
+ },
+ {
+  "yf_ticker": "5220.TWO",
+  "name": "萬達光電",
+  "exchange": "TPEX",
+  "listed": "20180426"
+ },
+ {
+  "yf_ticker": "5223.TWO",
+  "name": "安力-KY",
+  "exchange": "TPEX",
+  "listed": "20180702"
+ },
+ {
+  "yf_ticker": "5227.TWO",
+  "name": "立凱-KY",
+  "exchange": "TPEX",
+  "listed": "20131209"
+ },
+ {
+  "yf_ticker": "5228.TWO",
+  "name": "鈺鎧",
+  "exchange": "TPEX",
+  "listed": "20220520"
+ },
+ {
+  "yf_ticker": "5230.TWO",
+  "name": "雷笛克光學",
+  "exchange": "TPEX",
+  "listed": "20120605"
+ },
+ {
+  "yf_ticker": "5245.TWO",
+  "name": "智晶",
+  "exchange": "TPEX",
+  "listed": "20150525"
+ },
+ {
+  "yf_ticker": "5251.TWO",
+  "name": "天鉞電",
+  "exchange": "TPEX",
+  "listed": "20121126"
+ },
+ {
+  "yf_ticker": "5263.TWO",
+  "name": "智崴",
+  "exchange": "TPEX",
+  "listed": "20121218"
+ },
+ {
+  "yf_ticker": "5272.TWO",
+  "name": "笙科",
+  "exchange": "TPEX",
+  "listed": "20130530"
+ },
+ {
+  "yf_ticker": "5274.TWO",
+  "name": "信驊",
+  "exchange": "TPEX",
+  "listed": "20130430"
+ },
+ {
+  "yf_ticker": "5276.TWO",
+  "name": "達輝-KY",
+  "exchange": "TPEX",
+  "listed": "20140612"
+ },
+ {
+  "yf_ticker": "5278.TWO",
+  "name": "尚凡*",
+  "exchange": "TPEX",
+  "listed": "20130604"
+ },
+ {
+  "yf_ticker": "5287.TWO",
+  "name": "數字",
+  "exchange": "TPEX",
+  "listed": "20140120"
+ },
+ {
+  "yf_ticker": "5289.TWO",
+  "name": "宜鼎",
+  "exchange": "TPEX",
+  "listed": "20131127"
+ },
+ {
+  "yf_ticker": "5291.TWO",
+  "name": "邑昇",
+  "exchange": "TPEX",
+  "listed": "20141223"
+ },
+ {
+  "yf_ticker": "5299.TWO",
+  "name": "杰力",
+  "exchange": "TPEX",
+  "listed": "20180123"
+ },
+ {
+  "yf_ticker": "5301.TWO",
+  "name": "寶得利",
+  "exchange": "TPEX",
+  "listed": "19900625"
+ },
+ {
+  "yf_ticker": "5302.TWO",
+  "name": "太欣",
+  "exchange": "TPEX",
+  "listed": "19910117"
+ },
+ {
+  "yf_ticker": "5309.TWO",
+  "name": "系統電",
+  "exchange": "TPEX",
+  "listed": "19960318"
+ },
+ {
+  "yf_ticker": "5310.TWO",
+  "name": "天剛",
+  "exchange": "TPEX",
+  "listed": "19960409"
+ },
+ {
+  "yf_ticker": "5312.TWO",
+  "name": "寶島科",
+  "exchange": "TPEX",
+  "listed": "19960525"
+ },
+ {
+  "yf_ticker": "5314.TWO",
+  "name": "世紀*",
+  "exchange": "TPEX",
+  "listed": "19960916"
+ },
+ {
+  "yf_ticker": "5315.TWO",
+  "name": "光聯",
+  "exchange": "TPEX",
+  "listed": "19961102"
+ },
+ {
+  "yf_ticker": "5321.TWO",
+  "name": "美而快",
+  "exchange": "TPEX",
+  "listed": "19961230"
+ },
+ {
+  "yf_ticker": "5324.TWO",
+  "name": "士開",
+  "exchange": "TPEX",
+  "listed": "19970130"
+ },
+ {
+  "yf_ticker": "5328.TWO",
+  "name": "華容",
+  "exchange": "TPEX",
+  "listed": "19970828"
+ },
+ {
+  "yf_ticker": "5340.TWO",
+  "name": "建榮",
+  "exchange": "TPEX",
+  "listed": "19980120"
+ },
+ {
+  "yf_ticker": "5344.TWO",
+  "name": "立衛",
+  "exchange": "TPEX",
+  "listed": "19980323"
+ },
+ {
+  "yf_ticker": "5345.TWO",
+  "name": "馥鴻",
+  "exchange": "TPEX",
+  "listed": "19980323"
+ },
+ {
+  "yf_ticker": "5347.TWO",
+  "name": "世界",
+  "exchange": "TPEX",
+  "listed": "19980325"
+ },
+ {
+  "yf_ticker": "5348.TWO",
+  "name": "正能量智能",
+  "exchange": "TPEX",
+  "listed": "19980429"
+ },
+ {
+  "yf_ticker": "5351.TWO",
+  "name": "鈺創",
+  "exchange": "TPEX",
+  "listed": "19980515"
+ },
+ {
+  "yf_ticker": "5353.TWO",
+  "name": "台林",
+  "exchange": "TPEX",
+  "listed": "19980518"
+ },
+ {
+  "yf_ticker": "5355.TWO",
+  "name": "佳總",
+  "exchange": "TPEX",
+  "listed": "19980623"
+ },
+ {
+  "yf_ticker": "5356.TWO",
+  "name": "協益",
+  "exchange": "TPEX",
+  "listed": "19980720"
+ },
+ {
+  "yf_ticker": "5364.TWO",
+  "name": "力麗店",
+  "exchange": "TPEX",
+  "listed": "19981207"
+ },
+ {
+  "yf_ticker": "5381.TWO",
+  "name": "光譜",
+  "exchange": "TPEX",
+  "listed": "19990319"
+ },
+ {
+  "yf_ticker": "5386.TWO",
+  "name": "青雲",
+  "exchange": "TPEX",
+  "listed": "19990513"
+ },
+ {
+  "yf_ticker": "5392.TWO",
+  "name": "能率",
+  "exchange": "TPEX",
+  "listed": "19990614"
+ },
+ {
+  "yf_ticker": "5398.TWO",
+  "name": "慕康生醫",
+  "exchange": "TPEX",
+  "listed": "19991011"
+ },
+ {
+  "yf_ticker": "5403.TWO",
+  "name": "中菲",
+  "exchange": "TPEX",
+  "listed": "19991015"
+ },
+ {
+  "yf_ticker": "5410.TWO",
+  "name": "國眾",
+  "exchange": "TPEX",
+  "listed": "19991126"
+ },
+ {
+  "yf_ticker": "5425.TWO",
+  "name": "台半",
+  "exchange": "TPEX",
+  "listed": "20000221"
+ },
+ {
+  "yf_ticker": "5426.TWO",
+  "name": "振發",
+  "exchange": "TPEX",
+  "listed": "20000209"
+ },
+ {
+  "yf_ticker": "5432.TWO",
+  "name": "新門",
+  "exchange": "TPEX",
+  "listed": "20000321"
+ },
+ {
+  "yf_ticker": "5438.TWO",
+  "name": "東友",
+  "exchange": "TPEX",
+  "listed": "20000617"
+ },
+ {
+  "yf_ticker": "5439.TWO",
+  "name": "高技",
+  "exchange": "TPEX",
+  "listed": "20000626"
+ },
+ {
+  "yf_ticker": "5443.TWO",
+  "name": "均豪",
+  "exchange": "TPEX",
+  "listed": "19980209"
+ },
+ {
+  "yf_ticker": "5450.TWO",
+  "name": "南良",
+  "exchange": "TPEX",
+  "listed": "20000822"
+ },
+ {
+  "yf_ticker": "5452.TWO",
+  "name": "佶優",
+  "exchange": "TPEX",
+  "listed": "20001002"
+ },
+ {
+  "yf_ticker": "5455.TWO",
+  "name": "昇益",
+  "exchange": "TPEX",
+  "listed": "20001019"
+ },
+ {
+  "yf_ticker": "5457.TWO",
+  "name": "宣德",
+  "exchange": "TPEX",
+  "listed": "20000929"
+ },
+ {
+  "yf_ticker": "5460.TWO",
+  "name": "同協",
+  "exchange": "TPEX",
+  "listed": "20000928"
+ },
+ {
+  "yf_ticker": "5464.TWO",
+  "name": "霖宏",
+  "exchange": "TPEX",
+  "listed": "20001108"
+ },
+ {
+  "yf_ticker": "5465.TWO",
+  "name": "富驊",
+  "exchange": "TPEX",
+  "listed": "20001108"
+ },
+ {
+  "yf_ticker": "5468.TWO",
+  "name": "凱鈺",
+  "exchange": "TPEX",
+  "listed": "20010117"
+ },
+ {
+  "yf_ticker": "5474.TWO",
+  "name": "聰泰",
+  "exchange": "TPEX",
+  "listed": "20010320"
+ },
+ {
+  "yf_ticker": "5475.TWO",
+  "name": "德宏",
+  "exchange": "TPEX",
+  "listed": "20010116"
+ },
+ {
+  "yf_ticker": "5478.TWO",
+  "name": "智冠",
+  "exchange": "TPEX",
+  "listed": "20010329"
+ },
+ {
+  "yf_ticker": "5481.TWO",
+  "name": "新華",
+  "exchange": "TPEX",
+  "listed": "20010427"
+ },
+ {
+  "yf_ticker": "5483.TWO",
+  "name": "中美晶",
+  "exchange": "TPEX",
+  "listed": "20010302"
+ },
+ {
+  "yf_ticker": "5487.TWO",
+  "name": "通泰",
+  "exchange": "TPEX",
+  "listed": "20010220"
+ },
+ {
+  "yf_ticker": "5488.TWO",
+  "name": "松普",
+  "exchange": "TPEX",
+  "listed": "20010312"
+ },
+ {
+  "yf_ticker": "5489.TWO",
+  "name": "彩富",
+  "exchange": "TPEX",
+  "listed": "20010312"
+ },
+ {
+  "yf_ticker": "5490.TWO",
+  "name": "同亨",
+  "exchange": "TPEX",
+  "listed": "20010514"
+ },
+ {
+  "yf_ticker": "5493.TWO",
+  "name": "三聯",
+  "exchange": "TPEX",
+  "listed": "20010503"
+ },
+ {
+  "yf_ticker": "5498.TWO",
+  "name": "凱崴",
+  "exchange": "TPEX",
+  "listed": "20010329"
+ },
+ {
+  "yf_ticker": "5508.TWO",
+  "name": "永信建",
+  "exchange": "TPEX",
+  "listed": "19980513"
+ },
+ {
+  "yf_ticker": "5511.TWO",
+  "name": "德昌",
+  "exchange": "TPEX",
+  "listed": "19981209"
+ },
+ {
+  "yf_ticker": "5512.TWO",
+  "name": "力麒",
+  "exchange": "TPEX",
+  "listed": "19981204"
+ },
+ {
+  "yf_ticker": "5514.TWO",
+  "name": "三豐",
+  "exchange": "TPEX",
+  "listed": "19981229"
+ },
+ {
+  "yf_ticker": "5516.TWO",
+  "name": "雙喜",
+  "exchange": "TPEX",
+  "listed": "19990323"
+ },
+ {
+  "yf_ticker": "5520.TWO",
+  "name": "力泰",
+  "exchange": "TPEX",
+  "listed": "19991027"
+ },
+ {
+  "yf_ticker": "5523.TWO",
+  "name": "豐謙",
+  "exchange": "TPEX",
+  "listed": "19991227"
+ },
+ {
+  "yf_ticker": "5529.TWO",
+  "name": "鉅陞",
+  "exchange": "TPEX",
+  "listed": "19960112"
+ },
+ {
+  "yf_ticker": "5530.TWO",
+  "name": "龍巖",
+  "exchange": "TPEX",
+  "listed": "20001004"
+ },
+ {
+  "yf_ticker": "5536.TWO",
+  "name": "聖暉*",
+  "exchange": "TPEX",
+  "listed": "20101110"
+ },
+ {
+  "yf_ticker": "5543.TWO",
+  "name": "桓鼎-KY",
+  "exchange": "TPEX",
+  "listed": "20160509"
+ },
+ {
+  "yf_ticker": "5547.TWO",
+  "name": "久舜",
+  "exchange": "TPEX",
+  "listed": "20260203"
+ },
+ {
+  "yf_ticker": "5548.TWO",
+  "name": "安倉",
+  "exchange": "TPEX",
+  "listed": "20240318"
+ },
+ {
+  "yf_ticker": "5601.TWO",
+  "name": "台聯櫃",
+  "exchange": "TPEX",
+  "listed": "19941124"
+ },
+ {
+  "yf_ticker": "5603.TWO",
+  "name": "陸海",
+  "exchange": "TPEX",
+  "listed": "19970125"
+ },
+ {
+  "yf_ticker": "5604.TWO",
+  "name": "中連",
+  "exchange": "TPEX",
+  "listed": "19970522"
+ },
+ {
+  "yf_ticker": "5609.TWO",
+  "name": "中菲行",
+  "exchange": "TPEX",
+  "listed": "20011015"
+ },
+ {
+  "yf_ticker": "5701.TWO",
+  "name": "劍湖山",
+  "exchange": "TPEX",
+  "listed": "19980312"
+ },
+ {
+  "yf_ticker": "5703.TWO",
+  "name": "亞都麗緻",
+  "exchange": "TPEX",
+  "listed": "19990615"
+ },
+ {
+  "yf_ticker": "5704.TWO",
+  "name": "老爺知",
+  "exchange": "TPEX",
+  "listed": "19991221"
+ },
+ {
+  "yf_ticker": "5864.TWO",
+  "name": "致和證",
+  "exchange": "TPEX",
+  "listed": "20180402"
+ },
+ {
+  "yf_ticker": "5878.TWO",
+  "name": "台名",
+  "exchange": "TPEX",
+  "listed": "20141028"
+ },
+ {
+  "yf_ticker": "5902.TWO",
+  "name": "德記",
+  "exchange": "TPEX",
+  "listed": "19980207"
+ },
+ {
+  "yf_ticker": "5903.TWO",
+  "name": "全家",
+  "exchange": "TPEX",
+  "listed": "20020225"
+ },
+ {
+  "yf_ticker": "5904.TWO",
+  "name": "寶雅*",
+  "exchange": "TPEX",
+  "listed": "20020906"
+ },
+ {
+  "yf_ticker": "5905.TWO",
+  "name": "南仁湖",
+  "exchange": "TPEX",
+  "listed": "20030617"
+ },
+ {
+  "yf_ticker": "6015.TWO",
+  "name": "宏遠證",
+  "exchange": "TPEX",
+  "listed": "19960725"
+ },
+ {
+  "yf_ticker": "6016.TWO",
+  "name": "康和證",
+  "exchange": "TPEX",
+  "listed": "19961204"
+ },
+ {
+  "yf_ticker": "6020.TWO",
+  "name": "大展證",
+  "exchange": "TPEX",
+  "listed": "20030123"
+ },
+ {
+  "yf_ticker": "6021.TWO",
+  "name": "美好證",
+  "exchange": "TPEX",
+  "listed": "20030421"
+ },
+ {
+  "yf_ticker": "6023.TWO",
+  "name": "元大期貨",
+  "exchange": "TPEX",
+  "listed": "20071128"
+ },
+ {
+  "yf_ticker": "6026.TWO",
+  "name": "福邦證",
+  "exchange": "TPEX",
+  "listed": "20160127"
+ },
+ {
+  "yf_ticker": "6028.TWO",
+  "name": "公勝保經",
+  "exchange": "TPEX",
+  "listed": "20260330"
+ },
+ {
+  "yf_ticker": "6101.TWO",
+  "name": "寬魚國際",
+  "exchange": "TPEX",
+  "listed": "20010329"
+ },
+ {
+  "yf_ticker": "6103.TWO",
+  "name": "合邦",
+  "exchange": "TPEX",
+  "listed": "20010507"
+ },
+ {
+  "yf_ticker": "6104.TWO",
+  "name": "創惟",
+  "exchange": "TPEX",
+  "listed": "20010522"
+ },
+ {
+  "yf_ticker": "6109.TWO",
+  "name": "亞元",
+  "exchange": "TPEX",
+  "listed": "20010726"
+ },
+ {
+  "yf_ticker": "6111.TWO",
+  "name": "光聚晶電",
+  "exchange": "TPEX",
+  "listed": "20010808"
+ },
+ {
+  "yf_ticker": "6113.TWO",
+  "name": "亞矽",
+  "exchange": "TPEX",
+  "listed": "20010810"
+ },
+ {
+  "yf_ticker": "6114.TWO",
+  "name": "久威",
+  "exchange": "TPEX",
+  "listed": "20010927"
+ },
+ {
+  "yf_ticker": "6118.TWO",
+  "name": "建達",
+  "exchange": "TPEX",
+  "listed": "20011025"
+ },
+ {
+  "yf_ticker": "6121.TWO",
+  "name": "新普",
+  "exchange": "TPEX",
+  "listed": "20011127"
+ },
+ {
+  "yf_ticker": "6122.TWO",
+  "name": "擎邦",
+  "exchange": "TPEX",
+  "listed": "20000714"
+ },
+ {
+  "yf_ticker": "6123.TWO",
+  "name": "上奇",
+  "exchange": "TPEX",
+  "listed": "20020123"
+ },
+ {
+  "yf_ticker": "6124.TWO",
+  "name": "業強",
+  "exchange": "TPEX",
+  "listed": "20020319"
+ },
+ {
+  "yf_ticker": "6125.TWO",
+  "name": "廣運",
+  "exchange": "TPEX",
+  "listed": "20020123"
+ },
+ {
+  "yf_ticker": "6126.TWO",
+  "name": "信音",
+  "exchange": "TPEX",
+  "listed": "20020118"
+ },
+ {
+  "yf_ticker": "6127.TWO",
+  "name": "九豪",
+  "exchange": "TPEX",
+  "listed": "20020110"
+ },
+ {
+  "yf_ticker": "6129.TWO",
+  "name": "普誠",
+  "exchange": "TPEX",
+  "listed": "20011225"
+ },
+ {
+  "yf_ticker": "6130.TWO",
+  "name": "上亞科技",
+  "exchange": "TPEX",
+  "listed": "20020326"
+ },
+ {
+  "yf_ticker": "6134.TWO",
+  "name": "萬旭",
+  "exchange": "TPEX",
+  "listed": "20020108"
+ },
+ {
+  "yf_ticker": "6138.TWO",
+  "name": "茂達",
+  "exchange": "TPEX",
+  "listed": "20020118"
+ },
+ {
+  "yf_ticker": "6140.TWO",
+  "name": "訊達電腦",
+  "exchange": "TPEX",
+  "listed": "20020204"
+ },
+ {
+  "yf_ticker": "6143.TWO",
+  "name": "振曜",
+  "exchange": "TPEX",
+  "listed": "20020128"
+ },
+ {
+  "yf_ticker": "6144.TWO",
+  "name": "得利影",
+  "exchange": "TPEX",
+  "listed": "20020123"
+ },
+ {
+  "yf_ticker": "6146.TWO",
+  "name": "耕興",
+  "exchange": "TPEX",
+  "listed": "20020123"
+ },
+ {
+  "yf_ticker": "6147.TWO",
+  "name": "頎邦",
+  "exchange": "TPEX",
+  "listed": "20020131"
+ },
+ {
+  "yf_ticker": "6148.TWO",
+  "name": "驊宏資",
+  "exchange": "TPEX",
+  "listed": "20020201"
+ },
+ {
+  "yf_ticker": "6150.TWO",
+  "name": "撼訊",
+  "exchange": "TPEX",
+  "listed": "20020311"
+ },
+ {
+  "yf_ticker": "6151.TWO",
+  "name": "晉倫",
+  "exchange": "TPEX",
+  "listed": "20020225"
+ },
+ {
+  "yf_ticker": "6154.TWO",
+  "name": "順發",
+  "exchange": "TPEX",
+  "listed": "20020218"
+ },
+ {
+  "yf_ticker": "6156.TWO",
+  "name": "松上",
+  "exchange": "TPEX",
+  "listed": "20020219"
+ },
+ {
+  "yf_ticker": "6158.TWO",
+  "name": "禾昌",
+  "exchange": "TPEX",
+  "listed": "20020219"
+ },
+ {
+  "yf_ticker": "6160.TWO",
+  "name": "欣技",
+  "exchange": "TPEX",
+  "listed": "20020301"
+ },
+ {
+  "yf_ticker": "6161.TWO",
+  "name": "捷波",
+  "exchange": "TPEX",
+  "listed": "20020301"
+ },
+ {
+  "yf_ticker": "6163.TWO",
+  "name": "華電網",
+  "exchange": "TPEX",
+  "listed": "20020319"
+ },
+ {
+  "yf_ticker": "6167.TWO",
+  "name": "久正",
+  "exchange": "TPEX",
+  "listed": "20020326"
+ },
+ {
+  "yf_ticker": "6169.TWO",
+  "name": "昱泉",
+  "exchange": "TPEX",
+  "listed": "20020322"
+ },
+ {
+  "yf_ticker": "6170.TWO",
+  "name": "統振",
+  "exchange": "TPEX",
+  "listed": "20020416"
+ },
+ {
+  "yf_ticker": "6171.TWO",
+  "name": "大城地產",
+  "exchange": "TPEX",
+  "listed": "20020422"
+ },
+ {
+  "yf_ticker": "6173.TWO",
+  "name": "信昌電",
+  "exchange": "TPEX",
+  "listed": "20020419"
+ },
+ {
+  "yf_ticker": "6174.TWO",
+  "name": "安碁",
+  "exchange": "TPEX",
+  "listed": "20020502"
+ },
+ {
+  "yf_ticker": "6175.TWO",
+  "name": "立敦",
+  "exchange": "TPEX",
+  "listed": "20020610"
+ },
+ {
+  "yf_ticker": "6179.TWO",
+  "name": "亞通",
+  "exchange": "TPEX",
+  "listed": "20020517"
+ },
+ {
+  "yf_ticker": "6180.TWO",
+  "name": "橘子",
+  "exchange": "TPEX",
+  "listed": "20020521"
+ },
+ {
+  "yf_ticker": "6182.TWO",
+  "name": "合晶",
+  "exchange": "TPEX",
+  "listed": "20020516"
+ },
+ {
+  "yf_ticker": "6185.TWO",
+  "name": "幃翔",
+  "exchange": "TPEX",
+  "listed": "20020809"
+ },
+ {
+  "yf_ticker": "6186.TWO",
+  "name": "新潤",
+  "exchange": "TPEX",
+  "listed": "20020802"
+ },
+ {
+  "yf_ticker": "6187.TWO",
+  "name": "萬潤",
+  "exchange": "TPEX",
+  "listed": "20020927"
+ },
+ {
+  "yf_ticker": "6188.TWO",
+  "name": "廣明",
+  "exchange": "TPEX",
+  "listed": "20020827"
+ },
+ {
+  "yf_ticker": "6190.TWO",
+  "name": "萬泰科",
+  "exchange": "TPEX",
+  "listed": "19980204"
+ },
+ {
+  "yf_ticker": "6194.TWO",
+  "name": "育富",
+  "exchange": "TPEX",
+  "listed": "20021205"
+ },
+ {
+  "yf_ticker": "6195.TWO",
+  "name": "詩肯",
+  "exchange": "TPEX",
+  "listed": "20021021"
+ },
+ {
+  "yf_ticker": "6198.TWO",
+  "name": "瑞築",
+  "exchange": "TPEX",
+  "listed": "20021226"
+ },
+ {
+  "yf_ticker": "6199.TWO",
+  "name": "天品",
+  "exchange": "TPEX",
+  "listed": "20161007"
+ },
+ {
+  "yf_ticker": "6203.TWO",
+  "name": "海韻電",
+  "exchange": "TPEX",
+  "listed": "20021226"
+ },
+ {
+  "yf_ticker": "6204.TWO",
+  "name": "艾華",
+  "exchange": "TPEX",
+  "listed": "20021113"
+ },
+ {
+  "yf_ticker": "6207.TWO",
+  "name": "雷科",
+  "exchange": "TPEX",
+  "listed": "20021223"
+ },
+ {
+  "yf_ticker": "6208.TWO",
+  "name": "日揚",
+  "exchange": "TPEX",
+  "listed": "20021223"
+ },
+ {
+  "yf_ticker": "6210.TWO",
+  "name": "慶生",
+  "exchange": "TPEX",
+  "listed": "20030214"
+ },
+ {
+  "yf_ticker": "6212.TWO",
+  "name": "理銘",
+  "exchange": "TPEX",
+  "listed": "20021226"
+ },
+ {
+  "yf_ticker": "6217.TWO",
+  "name": "中探針",
+  "exchange": "TPEX",
+  "listed": "20030109"
+ },
+ {
+  "yf_ticker": "6218.TWO",
+  "name": "豪勉",
+  "exchange": "TPEX",
+  "listed": "20030114"
+ },
+ {
+  "yf_ticker": "6219.TWO",
+  "name": "富旺",
+  "exchange": "TPEX",
+  "listed": "20030226"
+ },
+ {
+  "yf_ticker": "6220.TWO",
+  "name": "岳豐",
+  "exchange": "TPEX",
+  "listed": "20030109"
+ },
+ {
+  "yf_ticker": "6221.TWO",
+  "name": "晉泰",
+  "exchange": "TPEX",
+  "listed": "20030106"
+ },
+ {
+  "yf_ticker": "6222.TWO",
+  "name": "立軒",
+  "exchange": "TPEX",
+  "listed": "20030109"
+ },
+ {
+  "yf_ticker": "6223.TWO",
+  "name": "旺矽",
+  "exchange": "TPEX",
+  "listed": "20030106"
+ },
+ {
+  "yf_ticker": "6227.TWO",
+  "name": "茂綸",
+  "exchange": "TPEX",
+  "listed": "20030114"
+ },
+ {
+  "yf_ticker": "6228.TWO",
+  "name": "全譜",
+  "exchange": "TPEX",
+  "listed": "20030121"
+ },
+ {
+  "yf_ticker": "6229.TWO",
+  "name": "研通",
+  "exchange": "TPEX",
+  "listed": "20030114"
+ },
+ {
+  "yf_ticker": "6231.TWO",
+  "name": "系微",
+  "exchange": "TPEX",
+  "listed": "20030123"
+ },
+ {
+  "yf_ticker": "6233.TWO",
+  "name": "旺玖",
+  "exchange": "TPEX",
+  "listed": "20030220"
+ },
+ {
+  "yf_ticker": "6234.TWO",
+  "name": "高僑",
+  "exchange": "TPEX",
+  "listed": "20030312"
+ },
+ {
+  "yf_ticker": "6236.TWO",
+  "name": "中湛",
+  "exchange": "TPEX",
+  "listed": "20030331"
+ },
+ {
+  "yf_ticker": "6237.TWO",
+  "name": "驊訊",
+  "exchange": "TPEX",
+  "listed": "20030421"
+ },
+ {
+  "yf_ticker": "6240.TWO",
+  "name": "松崗",
+  "exchange": "TPEX",
+  "listed": "20030530"
+ },
+ {
+  "yf_ticker": "6241.TWO",
+  "name": "鑫永洋",
+  "exchange": "TPEX",
+  "listed": "20030408"
+ },
+ {
+  "yf_ticker": "6242.TWO",
+  "name": "立康",
+  "exchange": "TPEX",
+  "listed": "20030423"
+ },
+ {
+  "yf_ticker": "6244.TWO",
+  "name": "茂迪",
+  "exchange": "TPEX",
+  "listed": "20030515"
+ },
+ {
+  "yf_ticker": "6245.TWO",
+  "name": "立端",
+  "exchange": "TPEX",
+  "listed": "20030519"
+ },
+ {
+  "yf_ticker": "6246.TWO",
+  "name": "臺龍",
+  "exchange": "TPEX",
+  "listed": "20030618"
+ },
+ {
+  "yf_ticker": "6248.TWO",
+  "name": "沛波",
+  "exchange": "TPEX",
+  "listed": "20030903"
+ },
+ {
+  "yf_ticker": "6259.TWO",
+  "name": "百徽",
+  "exchange": "TPEX",
+  "listed": "20030917"
+ },
+ {
+  "yf_ticker": "6261.TWO",
+  "name": "久元",
+  "exchange": "TPEX",
+  "listed": "20040329"
+ },
+ {
+  "yf_ticker": "6263.TWO",
+  "name": "普萊德",
+  "exchange": "TPEX",
+  "listed": "20030917"
+ },
+ {
+  "yf_ticker": "6264.TWO",
+  "name": "富裔",
+  "exchange": "TPEX",
+  "listed": "20040224"
+ },
+ {
+  "yf_ticker": "6265.TWO",
+  "name": "方土昶",
+  "exchange": "TPEX",
+  "listed": "20031024"
+ },
+ {
+  "yf_ticker": "6266.TWO",
+  "name": "泰詠",
+  "exchange": "TPEX",
+  "listed": "20040429"
+ },
+ {
+  "yf_ticker": "6270.TWO",
+  "name": "倍微",
+  "exchange": "TPEX",
+  "listed": "20030917"
+ },
+ {
+  "yf_ticker": "6274.TWO",
+  "name": "台燿",
+  "exchange": "TPEX",
+  "listed": "20031218"
+ },
+ {
+  "yf_ticker": "6275.TWO",
+  "name": "元山",
+  "exchange": "TPEX",
+  "listed": "20041223"
+ },
+ {
+  "yf_ticker": "6276.TWO",
+  "name": "安鈦克",
+  "exchange": "TPEX",
+  "listed": "20031030"
+ },
+ {
+  "yf_ticker": "6279.TWO",
+  "name": "胡連",
+  "exchange": "TPEX",
+  "listed": "20031126"
+ },
+ {
+  "yf_ticker": "6284.TWO",
+  "name": "佳邦",
+  "exchange": "TPEX",
+  "listed": "20040629"
+ },
+ {
+  "yf_ticker": "6290.TWO",
+  "name": "良維",
+  "exchange": "TPEX",
+  "listed": "20050603"
+ },
+ {
+  "yf_ticker": "6291.TWO",
+  "name": "沛亨",
+  "exchange": "TPEX",
+  "listed": "20040128"
+ },
+ {
+  "yf_ticker": "6292.TWO",
+  "name": "迅德",
+  "exchange": "TPEX",
+  "listed": "20031126"
+ },
+ {
+  "yf_ticker": "6294.TWO",
+  "name": "智基",
+  "exchange": "TPEX",
+  "listed": "20040113"
+ },
+ {
+  "yf_ticker": "6411.TWO",
+  "name": "晶焱",
+  "exchange": "TPEX",
+  "listed": "20140311"
+ },
+ {
+  "yf_ticker": "6417.TWO",
+  "name": "韋僑",
+  "exchange": "TPEX",
+  "listed": "20151008"
+ },
+ {
+  "yf_ticker": "6418.TWO",
+  "name": "詠昇",
+  "exchange": "TPEX",
+  "listed": "20190218"
+ },
+ {
+  "yf_ticker": "6419.TWO",
+  "name": "京晨科",
+  "exchange": "TPEX",
+  "listed": "20141229"
+ },
+ {
+  "yf_ticker": "6423.TWO",
+  "name": "億而得",
+  "exchange": "TPEX",
+  "listed": "20260122"
+ },
+ {
+  "yf_ticker": "6425.TWO",
+  "name": "易發",
+  "exchange": "TPEX",
+  "listed": "20190118"
+ },
+ {
+  "yf_ticker": "6432.TWO",
+  "name": "今展科",
+  "exchange": "TPEX",
+  "listed": "20150520"
+ },
+ {
+  "yf_ticker": "6435.TWO",
+  "name": "大中",
+  "exchange": "TPEX",
+  "listed": "20160107"
+ },
+ {
+  "yf_ticker": "6441.TWO",
+  "name": "廣錠",
+  "exchange": "TPEX",
+  "listed": "20170927"
+ },
+ {
+  "yf_ticker": "6461.TWO",
+  "name": "益得",
+  "exchange": "TPEX",
+  "listed": "20180328"
+ },
+ {
+  "yf_ticker": "6462.TWO",
+  "name": "神盾",
+  "exchange": "TPEX",
+  "listed": "20151223"
+ },
+ {
+  "yf_ticker": "6465.TWO",
+  "name": "威潤",
+  "exchange": "TPEX",
+  "listed": "20151120"
+ },
+ {
+  "yf_ticker": "6469.TWO",
+  "name": "大樹",
+  "exchange": "TPEX",
+  "listed": "20160330"
+ },
+ {
+  "yf_ticker": "6470.TWO",
+  "name": "宇智",
+  "exchange": "TPEX",
+  "listed": "20151103"
+ },
+ {
+  "yf_ticker": "6474.TWO",
+  "name": "華豫寧",
+  "exchange": "TPEX",
+  "listed": "20251125"
+ },
+ {
+  "yf_ticker": "6482.TWO",
+  "name": "弘煜科",
+  "exchange": "TPEX",
+  "listed": "20160613"
+ },
+ {
+  "yf_ticker": "6485.TWO",
+  "name": "點序",
+  "exchange": "TPEX",
+  "listed": "20151117"
+ },
+ {
+  "yf_ticker": "6486.TWO",
+  "name": "互動",
+  "exchange": "TPEX",
+  "listed": "20160913"
+ },
+ {
+  "yf_ticker": "6488.TWO",
+  "name": "環球晶",
+  "exchange": "TPEX",
+  "listed": "20150925"
+ },
+ {
+  "yf_ticker": "6492.TWO",
+  "name": "生華科",
+  "exchange": "TPEX",
+  "listed": "20170424"
+ },
+ {
+  "yf_ticker": "6494.TWO",
+  "name": "九齊",
+  "exchange": "TPEX",
+  "listed": "20160509"
+ },
+ {
+  "yf_ticker": "6496.TWO",
+  "name": "科懋",
+  "exchange": "TPEX",
+  "listed": "20160107"
+ },
+ {
+  "yf_ticker": "6498.TWO",
+  "name": "久禾光",
+  "exchange": "TPEX",
+  "listed": "20250520"
+ },
+ {
+  "yf_ticker": "6499.TWO",
+  "name": "益安",
+  "exchange": "TPEX",
+  "listed": "20160727"
+ },
+ {
+  "yf_ticker": "6506.TWO",
+  "name": "雙邦",
+  "exchange": "TPEX",
+  "listed": "20110503"
+ },
+ {
+  "yf_ticker": "6508.TWO",
+  "name": "惠光",
+  "exchange": "TPEX",
+  "listed": "20040322"
+ },
+ {
+  "yf_ticker": "6509.TWO",
+  "name": "聚和",
+  "exchange": "TPEX",
+  "listed": "20040412"
+ },
+ {
+  "yf_ticker": "6510.TWO",
+  "name": "精測",
+  "exchange": "TPEX",
+  "listed": "20160324"
+ },
+ {
+  "yf_ticker": "6512.TWO",
+  "name": "啟發電",
+  "exchange": "TPEX",
+  "listed": "20160325"
+ },
+ {
+  "yf_ticker": "6516.TWO",
+  "name": "勤崴國際",
+  "exchange": "TPEX",
+  "listed": "20190506"
+ },
+ {
+  "yf_ticker": "6517.TWO",
+  "name": "保勝光學",
+  "exchange": "TPEX",
+  "listed": "20221215"
+ },
+ {
+  "yf_ticker": "6523.TWO",
+  "name": "達爾膚",
+  "exchange": "TPEX",
+  "listed": "20160616"
+ },
+ {
+  "yf_ticker": "6527.TWO",
+  "name": "明達醫",
+  "exchange": "TPEX",
+  "listed": "20191225"
+ },
+ {
+  "yf_ticker": "6530.TWO",
+  "name": "創威",
+  "exchange": "TPEX",
+  "listed": "20180123"
+ },
+ {
+  "yf_ticker": "6532.TWO",
+  "name": "瑞耘",
+  "exchange": "TPEX",
+  "listed": "20160926"
+ },
+ {
+  "yf_ticker": "6535.TWO",
+  "name": "順藥",
+  "exchange": "TPEX",
+  "listed": "20160926"
+ },
+ {
+  "yf_ticker": "6538.TWO",
+  "name": "倉和",
+  "exchange": "TPEX",
+  "listed": "20161021"
+ },
+ {
+  "yf_ticker": "6542.TWO",
+  "name": "隆中",
+  "exchange": "TPEX",
+  "listed": "20160908"
+ },
+ {
+  "yf_ticker": "6546.TWO",
+  "name": "正基",
+  "exchange": "TPEX",
+  "listed": "20220524"
+ },
+ {
+  "yf_ticker": "6547.TWO",
+  "name": "高端疫苗",
+  "exchange": "TPEX",
+  "listed": "20180417"
+ },
+ {
+  "yf_ticker": "6548.TWO",
+  "name": "長科*",
+  "exchange": "TPEX",
+  "listed": "20160913"
+ },
+ {
+  "yf_ticker": "6556.TWO",
+  "name": "勝品",
+  "exchange": "TPEX",
+  "listed": "20171031"
+ },
+ {
+  "yf_ticker": "6560.TWO",
+  "name": "欣普羅",
+  "exchange": "TPEX",
+  "listed": "20170124"
+ },
+ {
+  "yf_ticker": "6561.TWO",
+  "name": "是方",
+  "exchange": "TPEX",
+  "listed": "20180605"
+ },
+ {
+  "yf_ticker": "6568.TWO",
+  "name": "宏觀",
+  "exchange": "TPEX",
+  "listed": "20161228"
+ },
+ {
+  "yf_ticker": "6569.TWO",
+  "name": "醫揚",
+  "exchange": "TPEX",
+  "listed": "20161221"
+ },
+ {
+  "yf_ticker": "6570.TWO",
+  "name": "維田",
+  "exchange": "TPEX",
+  "listed": "20171211"
+ },
+ {
+  "yf_ticker": "6574.TWO",
+  "name": "霈方",
+  "exchange": "TPEX",
+  "listed": "20170904"
+ },
+ {
+  "yf_ticker": "6576.TWO",
+  "name": "逸達",
+  "exchange": "TPEX",
+  "listed": "20180629"
+ },
+ {
+  "yf_ticker": "6577.TWO",
+  "name": "勁豐",
+  "exchange": "TPEX",
+  "listed": "20170321"
+ },
+ {
+  "yf_ticker": "6578.TWO",
+  "name": "達邦蛋白",
+  "exchange": "TPEX",
+  "listed": "20180918"
+ },
+ {
+  "yf_ticker": "6584.TWO",
+  "name": "南俊國際",
+  "exchange": "TPEX",
+  "listed": "20230518"
+ },
+ {
+  "yf_ticker": "6588.TWO",
+  "name": "東典光電",
+  "exchange": "TPEX",
+  "listed": "20200701"
+ },
+ {
+  "yf_ticker": "6590.TWO",
+  "name": "普鴻",
+  "exchange": "TPEX",
+  "listed": "20181224"
+ },
+ {
+  "yf_ticker": "6593.TWO",
+  "name": "台灣銘板",
+  "exchange": "TPEX",
+  "listed": "20171103"
+ },
+ {
+  "yf_ticker": "6596.TWO",
+  "name": "寬宏藝術",
+  "exchange": "TPEX",
+  "listed": "20180104"
+ },
+ {
+  "yf_ticker": "6597.TWO",
+  "name": "立誠",
+  "exchange": "TPEX",
+  "listed": "20250508"
+ },
+ {
+  "yf_ticker": "6603.TWO",
+  "name": "富強鑫",
+  "exchange": "TPEX",
+  "listed": "20040405"
+ },
+ {
+  "yf_ticker": "6604.TWO",
+  "name": "儒億",
+  "exchange": "TPEX",
+  "listed": "20261006"
+ },
+ {
+  "yf_ticker": "6609.TWO",
+  "name": "瀧澤科",
+  "exchange": "TPEX",
+  "listed": "20030923"
+ },
+ {
+  "yf_ticker": "6612.TWO",
+  "name": "奈米醫材",
+  "exchange": "TPEX",
+  "listed": "20180718"
+ },
+ {
+  "yf_ticker": "6613.TWO",
+  "name": "朋億*",
+  "exchange": "TPEX",
+  "listed": "20171228"
+ },
+ {
+  "yf_ticker": "6615.TWO",
+  "name": "慧智",
+  "exchange": "TPEX",
+  "listed": "20180122"
+ },
+ {
+  "yf_ticker": "6616.TWO",
+  "name": "特昇-KY",
+  "exchange": "TPEX",
+  "listed": "20180110"
+ },
+ {
+  "yf_ticker": "6617.TWO",
+  "name": "共信-KY",
+  "exchange": "TPEX",
+  "listed": "20240618"
+ },
+ {
+  "yf_ticker": "6620.TWO",
+  "name": "漢達",
+  "exchange": "TPEX",
+  "listed": "20251223"
+ },
+ {
+  "yf_ticker": "6624.TWO",
+  "name": "萬年清",
+  "exchange": "TPEX",
+  "listed": "20190528"
+ },
+ {
+  "yf_ticker": "6629.TWO",
+  "name": "泰金-KY",
+  "exchange": "TPEX",
+  "listed": "20190606"
+ },
+ {
+  "yf_ticker": "6637.TWO",
+  "name": "醫影",
+  "exchange": "TPEX",
+  "listed": "20240618"
+ },
+ {
+  "yf_ticker": "6640.TWO",
+  "name": "均華",
+  "exchange": "TPEX",
+  "listed": "20181023"
+ },
+ {
+  "yf_ticker": "6642.TWO",
+  "name": "富致",
+  "exchange": "TPEX",
+  "listed": "20190923"
+ },
+ {
+  "yf_ticker": "6643.TWO",
+  "name": "M31",
+  "exchange": "TPEX",
+  "listed": "20190123"
+ },
+ {
+  "yf_ticker": "6649.TWO",
+  "name": "台生材",
+  "exchange": "TPEX",
+  "listed": "20190605"
+ },
+ {
+  "yf_ticker": "6651.TWO",
+  "name": "全宇昕",
+  "exchange": "TPEX",
+  "listed": "20210201"
+ },
+ {
+  "yf_ticker": "6654.TWO",
+  "name": "天正國際",
+  "exchange": "TPEX",
+  "listed": "20181023"
+ },
+ {
+  "yf_ticker": "6661.TWO",
+  "name": "威健生技",
+  "exchange": "TPEX",
+  "listed": "20210127"
+ },
+ {
+  "yf_ticker": "6662.TWO",
+  "name": "樂斯科",
+  "exchange": "TPEX",
+  "listed": "20190326"
+ },
+ {
+  "yf_ticker": "6664.TWO",
+  "name": "群翊",
+  "exchange": "TPEX",
+  "listed": "20180912"
+ },
+ {
+  "yf_ticker": "6667.TWO",
+  "name": "信紘科",
+  "exchange": "TPEX",
+  "listed": "20181113"
+ },
+ {
+  "yf_ticker": "6679.TWO",
+  "name": "鈺太",
+  "exchange": "TPEX",
+  "listed": "20190509"
+ },
+ {
+  "yf_ticker": "6680.TWO",
+  "name": "鑫創電子",
+  "exchange": "TPEX",
+  "listed": "20190916"
+ },
+ {
+  "yf_ticker": "6683.TWO",
+  "name": "雍智科技",
+  "exchange": "TPEX",
+  "listed": "20190423"
+ },
+ {
+  "yf_ticker": "6684.TWO",
+  "name": "安格",
+  "exchange": "TPEX",
+  "listed": "20210811"
+ },
+ {
+  "yf_ticker": "6690.TWO",
+  "name": "安碁資訊",
+  "exchange": "TPEX",
+  "listed": "20191030"
+ },
+ {
+  "yf_ticker": "6692.TWO",
+  "name": "進能服",
+  "exchange": "TPEX",
+  "listed": "20240202"
+ },
+ {
+  "yf_ticker": "6693.TWO",
+  "name": "廣閎科",
+  "exchange": "TPEX",
+  "listed": "20220301"
+ },
+ {
+  "yf_ticker": "6697.TWO",
+  "name": "東捷資訊",
+  "exchange": "TPEX",
+  "listed": "20191226"
+ },
+ {
+  "yf_ticker": "6703.TWO",
+  "name": "軒郁",
+  "exchange": "TPEX",
+  "listed": "20201020"
+ },
+ {
+  "yf_ticker": "6708.TWO",
+  "name": "天擎",
+  "exchange": "TPEX",
+  "listed": "20221229"
+ },
+ {
+  "yf_ticker": "6712.TWO",
+  "name": "長聖",
+  "exchange": "TPEX",
+  "listed": "20210108"
+ },
+ {
+  "yf_ticker": "6716.TWO",
+  "name": "應廣",
+  "exchange": "TPEX",
+  "listed": "20200327"
+ },
+ {
+  "yf_ticker": "6720.TWO",
+  "name": "久昌",
+  "exchange": "TPEX",
+  "listed": "20241204"
+ },
+ {
+  "yf_ticker": "6721.TWO",
+  "name": "信實",
+  "exchange": "TPEX",
+  "listed": "20220429"
+ },
+ {
+  "yf_ticker": "6725.TWO",
+  "name": "矽科宏晟",
+  "exchange": "TPEX",
+  "listed": "20251230"
+ },
+ {
+  "yf_ticker": "6727.TWO",
+  "name": "亞泰金屬",
+  "exchange": "TPEX",
+  "listed": "20201201"
+ },
+ {
+  "yf_ticker": "6728.TWO",
+  "name": "上洋",
+  "exchange": "TPEX",
+  "listed": "20201225"
+ },
+ {
+  "yf_ticker": "6730.TWO",
+  "name": "常廣",
+  "exchange": "TPEX",
+  "listed": "20251210"
+ },
+ {
+  "yf_ticker": "6732.TWO",
+  "name": "昇佳電子",
+  "exchange": "TPEX",
+  "listed": "20200608"
+ },
+ {
+  "yf_ticker": "6733.TWO",
+  "name": "博晟生醫",
+  "exchange": "TPEX",
+  "listed": "20210128"
+ },
+ {
+  "yf_ticker": "6735.TWO",
+  "name": "美達科技",
+  "exchange": "TPEX",
+  "listed": "20220429"
+ },
+ {
+  "yf_ticker": "6739.TWO",
+  "name": "竹陞科技",
+  "exchange": "TPEX",
+  "listed": "20240902"
+ },
+ {
+  "yf_ticker": "6741.TWO",
+  "name": "91APP*-KY",
+  "exchange": "TPEX",
+  "listed": "20210525"
+ },
+ {
+  "yf_ticker": "6751.TWO",
+  "name": "智聯服務",
+  "exchange": "TPEX",
+  "listed": "20201225"
+ },
+ {
+  "yf_ticker": "6752.TWO",
+  "name": "叡揚",
+  "exchange": "TPEX",
+  "listed": "20201210"
+ },
+ {
+  "yf_ticker": "6761.TWO",
+  "name": "穩得",
+  "exchange": "TPEX",
+  "listed": "20211108"
+ },
+ {
+  "yf_ticker": "6762.TWO",
+  "name": "達亞",
+  "exchange": "TPEX",
+  "listed": "20201218"
+ },
+ {
+  "yf_ticker": "6763.TWO",
+  "name": "綠界科技*",
+  "exchange": "TPEX",
+  "listed": "20220315"
+ },
+ {
+  "yf_ticker": "6767.TWO",
+  "name": "台微醫",
+  "exchange": "TPEX",
+  "listed": "20210125"
+ },
+ {
+  "yf_ticker": "6785.TWO",
+  "name": "昱展新藥",
+  "exchange": "TPEX",
+  "listed": "20240124"
+ },
+ {
+  "yf_ticker": "6788.TWO",
+  "name": "華景電",
+  "exchange": "TPEX",
+  "listed": "20210929"
+ },
+ {
+  "yf_ticker": "6791.TWO",
+  "name": "虎門科技",
+  "exchange": "TPEX",
+  "listed": "20221114"
+ },
+ {
+  "yf_ticker": "6803.TWO",
+  "name": "崑鼎",
+  "exchange": "TPEX",
+  "listed": "20100527"
+ },
+ {
+  "yf_ticker": "6804.TWO",
+  "name": "明係",
+  "exchange": "TPEX",
+  "listed": "20220331"
+ },
+ {
+  "yf_ticker": "6811.TWO",
+  "name": "宏碁資訊",
+  "exchange": "TPEX",
+  "listed": "20220809"
+ },
+ {
+  "yf_ticker": "6821.TWO",
+  "name": "聯寶",
+  "exchange": "TPEX",
+  "listed": "20230522"
+ },
+ {
+  "yf_ticker": "6823.TWO",
+  "name": "濾能",
+  "exchange": "TPEX",
+  "listed": "20220630"
+ },
+ {
+  "yf_ticker": "6829.TWO",
+  "name": "千附精密",
+  "exchange": "TPEX",
+  "listed": "20220311"
+ },
+ {
+  "yf_ticker": "6840.TWO",
+  "name": "東研信超",
+  "exchange": "TPEX",
+  "listed": "20230324"
+ },
+ {
+  "yf_ticker": "6841.TWO",
+  "name": "長佳智能",
+  "exchange": "TPEX",
+  "listed": "20230301"
+ },
+ {
+  "yf_ticker": "6843.TWO",
+  "name": "進典",
+  "exchange": "TPEX",
+  "listed": "20221121"
+ },
+ {
+  "yf_ticker": "6844.TWO",
+  "name": "諾貝兒",
+  "exchange": "TPEX",
+  "listed": "20240308"
+ },
+ {
+  "yf_ticker": "6846.TWO",
+  "name": "綠茵",
+  "exchange": "TPEX",
+  "listed": "20230515"
+ },
+ {
+  "yf_ticker": "6855.TWO",
+  "name": "數泓科",
+  "exchange": "TPEX",
+  "listed": "20221006"
+ },
+ {
+  "yf_ticker": "6856.TWO",
+  "name": "鑫傳",
+  "exchange": "TPEX",
+  "listed": "20231027"
+ },
+ {
+  "yf_ticker": "6859.TWO",
+  "name": "伯特光",
+  "exchange": "TPEX",
+  "listed": "20221128"
+ },
+ {
+  "yf_ticker": "6865.TWO",
+  "name": "偉康科技",
+  "exchange": "TPEX",
+  "listed": "20230111"
+ },
+ {
+  "yf_ticker": "6870.TWO",
+  "name": "騰雲",
+  "exchange": "TPEX",
+  "listed": "20230914"
+ },
+ {
+  "yf_ticker": "6872.TWO",
+  "name": "浩宇生醫",
+  "exchange": "TPEX",
+  "listed": "20250307"
+ },
+ {
+  "yf_ticker": "6874.TWO",
+  "name": "倍力",
+  "exchange": "TPEX",
+  "listed": "20221214"
+ },
+ {
+  "yf_ticker": "6875.TWO",
+  "name": "國邑*",
+  "exchange": "TPEX",
+  "listed": "20240326"
+ },
+ {
+  "yf_ticker": "6877.TWO",
+  "name": "鏵友益",
+  "exchange": "TPEX",
+  "listed": "20230616"
+ },
+ {
+  "yf_ticker": "6881.TWO",
+  "name": "潤德",
+  "exchange": "TPEX",
+  "listed": "20240521"
+ },
+ {
+  "yf_ticker": "6884.TWO",
+  "name": "海柏特",
+  "exchange": "TPEX",
+  "listed": "20251217"
+ },
+ {
+  "yf_ticker": "6894.TWO",
+  "name": "衛司特",
+  "exchange": "TPEX",
+  "listed": "20231129"
+ },
+ {
+  "yf_ticker": "6895.TWO",
+  "name": "宏碩系統",
+  "exchange": "TPEX",
+  "listed": "20230822"
+ },
+ {
+  "yf_ticker": "6899.TWO",
+  "name": "創為精密",
+  "exchange": "TPEX",
+  "listed": "20240408"
+ },
+ {
+  "yf_ticker": "6903.TWO",
+  "name": "巨漢",
+  "exchange": "TPEX",
+  "listed": "20240612"
+ },
+ {
+  "yf_ticker": "6904.TWO",
+  "name": "伯鑫",
+  "exchange": "TPEX",
+  "listed": "20231205"
+ },
+ {
+  "yf_ticker": "6907.TWO",
+  "name": "雅特力-KY",
+  "exchange": "TPEX",
+  "listed": "20260129"
+ },
+ {
+  "yf_ticker": "6910.TWO",
+  "name": "德鴻",
+  "exchange": "TPEX",
+  "listed": "20251211"
+ },
+ {
+  "yf_ticker": "6913.TWO",
+  "name": "鴻呈",
+  "exchange": "TPEX",
+  "listed": "20241001"
+ },
+ {
+  "yf_ticker": "6922.TWO",
+  "name": "宸曜",
+  "exchange": "TPEX",
+  "listed": "20231109"
+ },
+ {
+  "yf_ticker": "6925.TWO",
+  "name": "意藍",
+  "exchange": "TPEX",
+  "listed": "20250528"
+ },
+ {
+  "yf_ticker": "6929.TWO",
+  "name": "佑全",
+  "exchange": "TPEX",
+  "listed": "20240328"
+ },
+ {
+  "yf_ticker": "6945.TWO",
+  "name": "圓祥生技",
+  "exchange": "TPEX",
+  "listed": "20260605"
+ },
+ {
+  "yf_ticker": "6953.TWO",
+  "name": "家碩",
+  "exchange": "TPEX",
+  "listed": "20240513"
+ },
+ {
+  "yf_ticker": "6961.TWO",
+  "name": "旅天下",
+  "exchange": "TPEX",
+  "listed": "20260122"
+ },
+ {
+  "yf_ticker": "6967.TWO",
+  "name": "汎瑋材料",
+  "exchange": "TPEX",
+  "listed": "20240925"
+ },
+ {
+  "yf_ticker": "6968.TWO",
+  "name": "萬達寵物",
+  "exchange": "TPEX",
+  "listed": "20240814"
+ },
+ {
+  "yf_ticker": "6971.TWO",
+  "name": "惠民實業",
+  "exchange": "TPEX",
+  "listed": "20251002"
+ },
+ {
+  "yf_ticker": "6982.TWO",
+  "name": "大井泵浦",
+  "exchange": "TPEX",
+  "listed": "20241218"
+ },
+ {
+  "yf_ticker": "6983.TWO",
+  "name": "華洋精機",
+  "exchange": "TPEX",
+  "listed": "20260525"
+ },
+ {
+  "yf_ticker": "6986.TWO",
+  "name": "和迅",
+  "exchange": "TPEX",
+  "listed": "20260626"
+ },
+ {
+  "yf_ticker": "6996.TWO",
+  "name": "力領科技",
+  "exchange": "TPEX",
+  "listed": "20241210"
+ },
+ {
+  "yf_ticker": "6997.TWO",
+  "name": "博弘",
+  "exchange": "TPEX",
+  "listed": "20241216"
+ },
+ {
+  "yf_ticker": "7402.TWO",
+  "name": "邑錡",
+  "exchange": "TPEX",
+  "listed": "20151229"
+ },
+ {
+  "yf_ticker": "7547.TWO",
+  "name": "碩網",
+  "exchange": "TPEX",
+  "listed": "20250729"
+ },
+ {
+  "yf_ticker": "7556.TWO",
+  "name": "意德士科技",
+  "exchange": "TPEX",
+  "listed": "20201030"
+ },
+ {
+  "yf_ticker": "7584.TWO",
+  "name": "樂意",
+  "exchange": "TPEX",
+  "listed": "20240725"
+ },
+ {
+  "yf_ticker": "7642.TWO",
+  "name": "昶瑞機電",
+  "exchange": "TPEX",
+  "listed": "20250522"
+ },
+ {
+  "yf_ticker": "7703.TWO",
+  "name": "銳澤",
+  "exchange": "TPEX",
+  "listed": "20241113"
+ },
+ {
+  "yf_ticker": "7704.TWO",
+  "name": "明遠精密",
+  "exchange": "TPEX",
+  "listed": "20241216"
+ },
+ {
+  "yf_ticker": "7708.TWO",
+  "name": "全家餐飲",
+  "exchange": "TPEX",
+  "listed": "20241115"
+ },
+ {
+  "yf_ticker": "7709.TWO",
+  "name": "榮田",
+  "exchange": "TPEX",
+  "listed": "20250225"
+ },
+ {
+  "yf_ticker": "7712.TWO",
+  "name": "博盛半導體",
+  "exchange": "TPEX",
+  "listed": "20241226"
+ },
+ {
+  "yf_ticker": "7713.TWO",
+  "name": "威力德生醫",
+  "exchange": "TPEX",
+  "listed": "20250224"
+ },
+ {
+  "yf_ticker": "7714.TWO",
+  "name": "創泓科技",
+  "exchange": "TPEX",
+  "listed": "20250115"
+ },
+ {
+  "yf_ticker": "7715.TWO",
+  "name": "裕山",
+  "exchange": "TPEX",
+  "listed": "20250115"
+ },
+ {
+  "yf_ticker": "7716.TWO",
+  "name": "昱臺國際",
+  "exchange": "TPEX",
+  "listed": "20251028"
+ },
+ {
+  "yf_ticker": "7717.TWO",
+  "name": "萊德光電-KY",
+  "exchange": "TPEX",
+  "listed": "20251117"
+ },
+ {
+  "yf_ticker": "7718.TWO",
+  "name": "友鋮",
+  "exchange": "TPEX",
+  "listed": "20250318"
+ },
+ {
+  "yf_ticker": "7723.TWO",
+  "name": "築間",
+  "exchange": "TPEX",
+  "listed": "20250430"
+ },
+ {
+  "yf_ticker": "7728.TWO",
+  "name": "光焱科技",
+  "exchange": "TPEX",
+  "listed": "20250306"
+ },
+ {
+  "yf_ticker": "7734.TWO",
+  "name": "印能科技",
+  "exchange": "TPEX",
+  "listed": "20250226"
+ },
+ {
+  "yf_ticker": "7738.TWO",
+  "name": "東聯互動",
+  "exchange": "TPEX",
+  "listed": "20251016"
+ },
+ {
+  "yf_ticker": "7743.TWO",
+  "name": "金利食安",
+  "exchange": "TPEX",
+  "listed": "20250520"
+ },
+ {
+  "yf_ticker": "7744.TWO",
+  "name": "崴寶",
+  "exchange": "TPEX",
+  "listed": "20251127"
+ },
+ {
+  "yf_ticker": "7747.TWO",
+  "name": "昕奇雲端",
+  "exchange": "TPEX",
+  "listed": "20250711"
+ },
+ {
+  "yf_ticker": "7751.TWO",
+  "name": "竑騰",
+  "exchange": "TPEX",
+  "listed": "20250826"
+ },
+ {
+  "yf_ticker": "7753.TWO",
+  "name": "星亞",
+  "exchange": "TPEX",
+  "listed": "20250811"
+ },
+ {
+  "yf_ticker": "7757.TWO",
+  "name": "金色三麥",
+  "exchange": "TPEX",
+  "listed": "20251020"
+ },
+ {
+  "yf_ticker": "7767.TWO",
+  "name": "仁大資訊",
+  "exchange": "TPEX",
+  "listed": "20251210"
+ },
+ {
+  "yf_ticker": "7770.TWO",
+  "name": "君曜",
+  "exchange": "TPEX",
+  "listed": "20251210"
+ },
+ {
+  "yf_ticker": "7772.TWO",
+  "name": "耀穎",
+  "exchange": "TPEX",
+  "listed": "20260508"
+ },
+ {
+  "yf_ticker": "7777.TWO",
+  "name": "能率亞洲",
+  "exchange": "TPEX",
+  "listed": "20251222"
+ },
+ {
+  "yf_ticker": "7782.TWO",
+  "name": "光速火箭",
+  "exchange": "TPEX",
+  "listed": "20251028"
+ },
+ {
+  "yf_ticker": "7792.TWO",
+  "name": "安葆",
+  "exchange": "TPEX",
+  "listed": "20260128"
+ },
+ {
+  "yf_ticker": "7794.TWO",
+  "name": "宏碁智新",
+  "exchange": "TPEX",
+  "listed": "20260420"
+ },
+ {
+  "yf_ticker": "7805.TWO",
+  "name": "威聯通",
+  "exchange": "TPEX",
+  "listed": "20251222"
+ },
+ {
+  "yf_ticker": "7806.TWO",
+  "name": "精華生醫",
+  "exchange": "TPEX",
+  "listed": "20261015"
+ },
+ {
+  "yf_ticker": "7810.TWO",
+  "name": "捷創科技",
+  "exchange": "TPEX",
+  "listed": "20251223"
+ },
+ {
+  "yf_ticker": "7811.TWO",
+  "name": "民盛",
+  "exchange": "TPEX",
+  "listed": "20260325"
+ },
+ {
+  "yf_ticker": "7814.TWO",
+  "name": "海昌生技",
+  "exchange": "TPEX",
+  "listed": "20260716"
+ },
+ {
+  "yf_ticker": "7819.TWO",
+  "name": "精誠金融",
+  "exchange": "TPEX",
+  "listed": "20260527"
+ },
+ {
+  "yf_ticker": "7820.TWO",
+  "name": "立盈",
+  "exchange": "TPEX",
+  "listed": "20260427"
+ },
+ {
+  "yf_ticker": "7825.TWO",
+  "name": "和亞智慧",
+  "exchange": "TPEX",
+  "listed": "20260910"
+ },
+ {
+  "yf_ticker": "7828.TWO",
+  "name": "創新服務",
+  "exchange": "TPEX",
+  "listed": "20260422"
+ },
+ {
+  "yf_ticker": "7839.TWO",
+  "name": "達人網",
+  "exchange": "TPEX",
+  "listed": "20260615"
+ },
+ {
+  "yf_ticker": "7842.TWO",
+  "name": "天能綠電",
+  "exchange": "TPEX",
+  "listed": "20260511"
+ },
+ {
+  "yf_ticker": "7856.TWO",
+  "name": "漢測",
+  "exchange": "TPEX",
+  "listed": "20260922"
+ },
+ {
+  "yf_ticker": "8024.TWO",
+  "name": "佑華",
+  "exchange": "TPEX",
+  "listed": "20060925"
+ },
+ {
+  "yf_ticker": "8027.TWO",
+  "name": "鈦昇",
+  "exchange": "TPEX",
+  "listed": "20150609"
+ },
+ {
+  "yf_ticker": "8032.TWO",
+  "name": "光菱",
+  "exchange": "TPEX",
+  "listed": "20031002"
+ },
+ {
+  "yf_ticker": "8034.TWO",
+  "name": "榮群",
+  "exchange": "TPEX",
+  "listed": "20040506"
+ },
+ {
+  "yf_ticker": "8038.TWO",
+  "name": "長園科",
+  "exchange": "TPEX",
+  "listed": "20131121"
+ },
+ {
+  "yf_ticker": "8040.TWO",
+  "name": "九暘",
+  "exchange": "TPEX",
+  "listed": "20070430"
+ },
+ {
+  "yf_ticker": "8042.TWO",
+  "name": "金山電",
+  "exchange": "TPEX",
+  "listed": "20040322"
+ },
+ {
+  "yf_ticker": "8043.TWO",
+  "name": "蜜望實",
+  "exchange": "TPEX",
+  "listed": "20031024"
+ },
+ {
+  "yf_ticker": "8044.TWO",
+  "name": "網家",
+  "exchange": "TPEX",
+  "listed": "20050124"
+ },
+ {
+  "yf_ticker": "8047.TWO",
+  "name": "星雲",
+  "exchange": "TPEX",
+  "listed": "20040209"
+ },
+ {
+  "yf_ticker": "8048.TWO",
+  "name": "德勝",
+  "exchange": "TPEX",
+  "listed": "20090908"
+ },
+ {
+  "yf_ticker": "8049.TWO",
+  "name": "晶采",
+  "exchange": "TPEX",
+  "listed": "20040202"
+ },
+ {
+  "yf_ticker": "8050.TWO",
+  "name": "廣積",
+  "exchange": "TPEX",
+  "listed": "20031024"
+ },
+ {
+  "yf_ticker": "8054.TWO",
+  "name": "安國",
+  "exchange": "TPEX",
+  "listed": "20041108"
+ },
+ {
+  "yf_ticker": "8059.TWO",
+  "name": "凱碩",
+  "exchange": "TPEX",
+  "listed": "20100316"
+ },
+ {
+  "yf_ticker": "8064.TWO",
+  "name": "東捷",
+  "exchange": "TPEX",
+  "listed": "20060925"
+ },
+ {
+  "yf_ticker": "8066.TWO",
+  "name": "來思達",
+  "exchange": "TPEX",
+  "listed": "20041224"
+ },
+ {
+  "yf_ticker": "8067.TWO",
+  "name": "志旭",
+  "exchange": "TPEX",
+  "listed": "20040423"
+ },
+ {
+  "yf_ticker": "8068.TWO",
+  "name": "全達",
+  "exchange": "TPEX",
+  "listed": "20040325"
+ },
+ {
+  "yf_ticker": "8069.TWO",
+  "name": "元太",
+  "exchange": "TPEX",
+  "listed": "20040330"
+ },
+ {
+  "yf_ticker": "8071.TWO",
+  "name": "能率網通",
+  "exchange": "TPEX",
+  "listed": "20031229"
+ },
+ {
+  "yf_ticker": "8074.TWO",
+  "name": "鉅橡",
+  "exchange": "TPEX",
+  "listed": "20040127"
+ },
+ {
+  "yf_ticker": "8076.TWO",
+  "name": "伍豐",
+  "exchange": "TPEX",
+  "listed": "20031215"
+ },
+ {
+  "yf_ticker": "8077.TWO",
+  "name": "洛碁",
+  "exchange": "TPEX",
+  "listed": "20041206"
+ },
+ {
+  "yf_ticker": "8080.TWO",
+  "name": "泰霖",
+  "exchange": "TPEX",
+  "listed": "20040510"
+ },
+ {
+  "yf_ticker": "8083.TWO",
+  "name": "瑞穎",
+  "exchange": "TPEX",
+  "listed": "20040923"
+ },
+ {
+  "yf_ticker": "8084.TWO",
+  "name": "巨虹",
+  "exchange": "TPEX",
+  "listed": "20040308"
+ },
+ {
+  "yf_ticker": "8085.TWO",
+  "name": "福華",
+  "exchange": "TPEX",
+  "listed": "20040301"
+ },
+ {
+  "yf_ticker": "8086.TWO",
+  "name": "宏捷科",
+  "exchange": "TPEX",
+  "listed": "20090601"
+ },
+ {
+  "yf_ticker": "8087.TWO",
+  "name": "麗升能源",
+  "exchange": "TPEX",
+  "listed": "20040225"
+ },
+ {
+  "yf_ticker": "8088.TWO",
+  "name": "品安",
+  "exchange": "TPEX",
+  "listed": "20040227"
+ },
+ {
+  "yf_ticker": "8089.TWO",
+  "name": "康全電訊",
+  "exchange": "TPEX",
+  "listed": "20200923"
+ },
+ {
+  "yf_ticker": "8091.TWO",
+  "name": "翔名",
+  "exchange": "TPEX",
+  "listed": "20040624"
+ },
+ {
+  "yf_ticker": "8092.TWO",
+  "name": "建暐",
+  "exchange": "TPEX",
+  "listed": "20040202"
+ },
+ {
+  "yf_ticker": "8093.TWO",
+  "name": "保銳",
+  "exchange": "TPEX",
+  "listed": "20041231"
+ },
+ {
+  "yf_ticker": "8096.TWO",
+  "name": "擎亞",
+  "exchange": "TPEX",
+  "listed": "20040715"
+ },
+ {
+  "yf_ticker": "8097.TWO",
+  "name": "常珵",
+  "exchange": "TPEX",
+  "listed": "20040301"
+ },
+ {
+  "yf_ticker": "8099.TWO",
+  "name": "大世科",
+  "exchange": "TPEX",
+  "listed": "20040329"
+ },
+ {
+  "yf_ticker": "8102.TWO",
+  "name": "傑霖科技",
+  "exchange": "TPEX",
+  "listed": "20251222"
+ },
+ {
+  "yf_ticker": "8107.TWO",
+  "name": "大億金茂",
+  "exchange": "TPEX",
+  "listed": "20051115"
+ },
+ {
+  "yf_ticker": "8109.TWO",
+  "name": "博大",
+  "exchange": "TPEX",
+  "listed": "20050322"
+ },
+ {
+  "yf_ticker": "8111.TWO",
+  "name": "立碁",
+  "exchange": "TPEX",
+  "listed": "20040209"
+ },
+ {
+  "yf_ticker": "8121.TWO",
+  "name": "越峰",
+  "exchange": "TPEX",
+  "listed": "20050217"
+ },
+ {
+  "yf_ticker": "8147.TWO",
+  "name": "正淩",
+  "exchange": "TPEX",
+  "listed": "20130430"
+ },
+ {
+  "yf_ticker": "8155.TWO",
+  "name": "博智",
+  "exchange": "TPEX",
+  "listed": "20121218"
+ },
+ {
+  "yf_ticker": "8171.TWO",
+  "name": "天宇",
+  "exchange": "TPEX",
+  "listed": "20111219"
+ },
+ {
+  "yf_ticker": "8176.TWO",
+  "name": "智捷",
+  "exchange": "TPEX",
+  "listed": "20130625"
+ },
+ {
+  "yf_ticker": "8182.TWO",
+  "name": "加高",
+  "exchange": "TPEX",
+  "listed": "20060525"
+ },
+ {
+  "yf_ticker": "8227.TWO",
+  "name": "巨有科技",
+  "exchange": "TPEX",
+  "listed": "20221220"
+ },
+ {
+  "yf_ticker": "8234.TWO",
+  "name": "新漢",
+  "exchange": "TPEX",
+  "listed": "20070607"
+ },
+ {
+  "yf_ticker": "8240.TWO",
+  "name": "華宏",
+  "exchange": "TPEX",
+  "listed": "20050623"
+ },
+ {
+  "yf_ticker": "8255.TWO",
+  "name": "朋程",
+  "exchange": "TPEX",
+  "listed": "20060425"
+ },
+ {
+  "yf_ticker": "8272.TWO",
+  "name": "全景軟體",
+  "exchange": "TPEX",
+  "listed": "20241023"
+ },
+ {
+  "yf_ticker": "8277.TWO",
+  "name": "商丞",
+  "exchange": "TPEX",
+  "listed": "20041227"
+ },
+ {
+  "yf_ticker": "8279.TWO",
+  "name": "生展",
+  "exchange": "TPEX",
+  "listed": "20160926"
+ },
+ {
+  "yf_ticker": "8284.TWO",
+  "name": "三竹",
+  "exchange": "TPEX",
+  "listed": "20200518"
+ },
+ {
+  "yf_ticker": "8289.TWO",
+  "name": "泰藝",
+  "exchange": "TPEX",
+  "listed": "20080424"
+ },
+ {
+  "yf_ticker": "8291.TWO",
+  "name": "尚茂",
+  "exchange": "TPEX",
+  "listed": "20111129"
+ },
+ {
+  "yf_ticker": "8299.TWO",
+  "name": "群聯",
+  "exchange": "TPEX",
+  "listed": "20041206"
+ },
+ {
+  "yf_ticker": "8342.TWO",
+  "name": "益張",
+  "exchange": "TPEX",
+  "listed": "20171123"
+ },
+ {
+  "yf_ticker": "8349.TWO",
+  "name": "恒耀國際",
+  "exchange": "TPEX",
+  "listed": "20060310"
+ },
+ {
+  "yf_ticker": "8354.TWO",
+  "name": "冠好",
+  "exchange": "TPEX",
+  "listed": "20040415"
+ },
+ {
+  "yf_ticker": "8358.TWO",
+  "name": "金居",
+  "exchange": "TPEX",
+  "listed": "20100927"
+ },
+ {
+  "yf_ticker": "8383.TWO",
+  "name": "千附",
+  "exchange": "TPEX",
+  "listed": "20040910"
+ },
+ {
+  "yf_ticker": "8390.TWO",
+  "name": "金益鼎",
+  "exchange": "TPEX",
+  "listed": "20080521"
+ },
+ {
+  "yf_ticker": "8401.TWO",
+  "name": "白紗科",
+  "exchange": "TPEX",
+  "listed": "20100329"
+ },
+ {
+  "yf_ticker": "8403.TWO",
+  "name": "盛弘",
+  "exchange": "TPEX",
+  "listed": "20110301"
+ },
+ {
+  "yf_ticker": "8409.TWO",
+  "name": "商之器",
+  "exchange": "TPEX",
+  "listed": "20131125"
+ },
+ {
+  "yf_ticker": "8410.TWO",
+  "name": "森田",
+  "exchange": "TPEX",
+  "listed": "20110223"
+ },
+ {
+  "yf_ticker": "8415.TWO",
+  "name": "大國鋼",
+  "exchange": "TPEX",
+  "listed": "20160907"
+ },
+ {
+  "yf_ticker": "8416.TWO",
+  "name": "實威",
+  "exchange": "TPEX",
+  "listed": "20120919"
+ },
+ {
+  "yf_ticker": "8421.TWO",
+  "name": "旭源",
+  "exchange": "TPEX",
+  "listed": "20121123"
+ },
+ {
+  "yf_ticker": "8423.TWO",
+  "name": "保綠-KY",
+  "exchange": "TPEX",
+  "listed": "20120314"
+ },
+ {
+  "yf_ticker": "8424.TWO",
+  "name": "惠普",
+  "exchange": "TPEX",
+  "listed": "20121218"
+ },
+ {
+  "yf_ticker": "8426.TWO",
+  "name": "紅木-KY",
+  "exchange": "TPEX",
+  "listed": "20111213"
+ },
+ {
+  "yf_ticker": "8431.TWO",
+  "name": "匯鑽科",
+  "exchange": "TPEX",
+  "listed": "20150330"
+ },
+ {
+  "yf_ticker": "8432.TWO",
+  "name": "東生華",
+  "exchange": "TPEX",
+  "listed": "20120430"
+ },
+ {
+  "yf_ticker": "8433.TWO",
+  "name": "弘帆",
+  "exchange": "TPEX",
+  "listed": "20121219"
+ },
+ {
+  "yf_ticker": "8435.TWO",
+  "name": "鉅邁",
+  "exchange": "TPEX",
+  "listed": "20121228"
+ },
+ {
+  "yf_ticker": "8436.TWO",
+  "name": "大江",
+  "exchange": "TPEX",
+  "listed": "20130912"
+ },
+ {
+  "yf_ticker": "8437.TWO",
+  "name": "大地-KY",
+  "exchange": "TPEX",
+  "listed": "20150506"
+ },
+ {
+  "yf_ticker": "8440.TWO",
+  "name": "綠電",
+  "exchange": "TPEX",
+  "listed": "20180328"
+ },
+ {
+  "yf_ticker": "8444.TWO",
+  "name": "綠河-KY",
+  "exchange": "TPEX",
+  "listed": "20151027"
+ },
+ {
+  "yf_ticker": "8446.TWO",
+  "name": "華研",
+  "exchange": "TPEX",
+  "listed": "20131219"
+ },
+ {
+  "yf_ticker": "8450.TWO",
+  "name": "霹靂",
+  "exchange": "TPEX",
+  "listed": "20141007"
+ },
+ {
+  "yf_ticker": "8455.TWO",
+  "name": "大拓-KY",
+  "exchange": "TPEX",
+  "listed": "20160108"
+ },
+ {
+  "yf_ticker": "8472.TWO",
+  "name": "納維康",
+  "exchange": "TPEX",
+  "listed": "20160111"
+ },
+ {
+  "yf_ticker": "8477.TWO",
+  "name": "創業家",
+  "exchange": "TPEX",
+  "listed": "20161031"
+ },
+ {
+  "yf_ticker": "8489.TWO",
+  "name": "三貝德",
+  "exchange": "TPEX",
+  "listed": "20170427"
+ },
+ {
+  "yf_ticker": "8905.TWO",
+  "name": "裕國",
+  "exchange": "TPEX",
+  "listed": "19960131"
+ },
+ {
+  "yf_ticker": "8906.TWO",
+  "name": "花王",
+  "exchange": "TPEX",
+  "listed": "19960423"
+ },
+ {
+  "yf_ticker": "8916.TWO",
+  "name": "光隆",
+  "exchange": "TPEX",
+  "listed": "19990420"
+ },
+ {
+  "yf_ticker": "8917.TWO",
+  "name": "欣泰",
+  "exchange": "TPEX",
+  "listed": "19990506"
+ },
+ {
+  "yf_ticker": "8921.TWO",
+  "name": "沈氏",
+  "exchange": "TPEX",
+  "listed": "20000321"
+ },
+ {
+  "yf_ticker": "8923.TWO",
+  "name": "時報",
+  "exchange": "TPEX",
+  "listed": "19991227"
+ },
+ {
+  "yf_ticker": "8924.TWO",
+  "name": "大田",
+  "exchange": "TPEX",
+  "listed": "20000209"
+ },
+ {
+  "yf_ticker": "8927.TWO",
+  "name": "北基",
+  "exchange": "TPEX",
+  "listed": "20001102"
+ },
+ {
+  "yf_ticker": "8928.TWO",
+  "name": "鉅明",
+  "exchange": "TPEX",
+  "listed": "20010202"
+ },
+ {
+  "yf_ticker": "8929.TWO",
+  "name": "富堡",
+  "exchange": "TPEX",
+  "listed": "20001130"
+ },
+ {
+  "yf_ticker": "8930.TWO",
+  "name": "青鋼",
+  "exchange": "TPEX",
+  "listed": "20001206"
+ },
+ {
+  "yf_ticker": "8931.TWO",
+  "name": "大汽電",
+  "exchange": "TPEX",
+  "listed": "20010510"
+ },
+ {
+  "yf_ticker": "8932.TWO",
+  "name": "智通*",
+  "exchange": "TPEX",
+  "listed": "20010329"
+ },
+ {
+  "yf_ticker": "8933.TWO",
+  "name": "愛地雅",
+  "exchange": "TPEX",
+  "listed": "20010328"
+ },
+ {
+  "yf_ticker": "8935.TWO",
+  "name": "邦泰",
+  "exchange": "TPEX",
+  "listed": "20020326"
+ },
+ {
+  "yf_ticker": "8936.TWO",
+  "name": "國統",
+  "exchange": "TPEX",
+  "listed": "20020909"
+ },
+ {
+  "yf_ticker": "8937.TWO",
+  "name": "合騏*",
+  "exchange": "TPEX",
+  "listed": "20021029"
+ },
+ {
+  "yf_ticker": "8938.TWO",
+  "name": "明安",
+  "exchange": "TPEX",
+  "listed": "20021202"
+ },
+ {
+  "yf_ticker": "8941.TWO",
+  "name": "關中",
+  "exchange": "TPEX",
+  "listed": "20030120"
+ },
+ {
+  "yf_ticker": "8942.TWO",
+  "name": "森鉅",
+  "exchange": "TPEX",
+  "listed": "20030516"
+ },
+ {
+  "yf_ticker": "9949.TWO",
+  "name": "琉園",
+  "exchange": "TPEX",
+  "listed": "20031121"
+ },
+ {
+  "yf_ticker": "9950.TWO",
+  "name": "萬國通",
+  "exchange": "TPEX",
+  "listed": "20040217"
+ },
+ {
+  "yf_ticker": "9951.TWO",
+  "name": "皇田",
+  "exchange": "TPEX",
+  "listed": "20031218"
+ },
+ {
+  "yf_ticker": "9960.TWO",
+  "name": "邁達康",
+  "exchange": "TPEX",
+  "listed": "20041206"
+ },
+ {
+  "yf_ticker": "9962.TWO",
+  "name": "有益",
+  "exchange": "TPEX",
+  "listed": "20060710"
+ }
+]
