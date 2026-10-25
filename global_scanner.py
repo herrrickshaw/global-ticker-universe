@@ -277,8 +277,10 @@ def _pct(v):
 # ── Pegu scoring ──────────────────────────────────────────────────────────────
 
 def _score(val, breakpoints):
+    # Missing data earns no points. (It used to return the last bucket, which for
+    # ROE / current ratio / growth is the MAXIMUM, so a blank row graded 'A'.)
     if val is None or (isinstance(val, float) and math.isnan(val)):
-        return breakpoints[-1][1]
+        return 0
     for threshold, score in breakpoints:
         if val < threshold:
             return score
