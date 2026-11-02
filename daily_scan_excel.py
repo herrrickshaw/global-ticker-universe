@@ -18,13 +18,14 @@ Usage:
 """
 
 import argparse
+import logging
 import math
 import os
 import subprocess
 import sys
 import warnings
 from datetime import datetime
-from typing import Dict, List, Optional
+from typing import List, Optional
 
 import numpy as np
 import pandas as pd
@@ -32,13 +33,11 @@ import openpyxl
 from openpyxl.styles import (
     Alignment, Border, Font, PatternFill, Side
 )
-from openpyxl.formatting.rule import ColorScaleRule, CellIsRule
 from openpyxl.utils import get_column_letter
-from openpyxl.chart import BarChart, Reference
-from openpyxl.chart.series import DataPoint
 
 warnings.filterwarnings("ignore")
 
+log = logging.getLogger(__name__)
 TODAY = datetime.now().strftime("%Y-%m-%d")
 TODAY_FMT = datetime.now().strftime("%d %b %Y")
 TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -227,7 +226,8 @@ def fetch_live_nse_data(symbols: List[str]) -> pd.DataFrame:
                                     (data.get("industryInfo") or {}).get("pe")),
                 "fetch_date":   TODAY,
             })
-        except Exception:
+        except Exception as exc:
+            log.debug("quote fetch failed: %s", exc)
             failed += 1
 
     print(f"  [nsepython] ok={len(records)}, skipped={failed}")
@@ -267,7 +267,8 @@ def fetch_live_bse_data(scrip_codes: List[str]) -> pd.DataFrame:
                 "book_value":     _safe_float(q.get("bookValue")),
                 "fetch_date":     TODAY,
             })
-        except Exception:
+        except Exception as exc:
+            log.debug("quote fetch failed: %s", exc)
             failed += 1
 
     print(f"  [bsedata] ok={len(records)}, skipped={failed}")
@@ -358,8 +359,8 @@ def enrich_with_yfinance(df: pd.DataFrame) -> pd.DataFrame:
                 if len(hist) >= 126:
                     rec["return_6m_pct"] = round((close.iloc[-1]/close.iloc[-126]-1)*100, 2)
 
-        except Exception:
-            pass  # keep what nsepython/bsedata already gave us
+        except Exception as exc:  # keep what nsepython/bsedata already gave us
+            log.debug("yfinance enrichment failed: %s", exc)
 
         enriched.append(rec)
 
@@ -1098,7 +1099,7 @@ def main():
     print(f"  Avg Pegu score : {df_final.pegu_score.mean():.1f}")
 
     # ── 3. Build Excel ────────────────────────────────────────
-    print(f"[3/4] Building Excel workbook…")
+    print("[3/4] Building Excel workbook…")
     wb = openpyxl.Workbook()
     wb.remove(wb.active)  # remove default sheet
 
