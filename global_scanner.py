@@ -25,20 +25,22 @@ from __future__ import annotations
 
 import argparse
 import json
-import math
-import os
+import logging
 import sys
 import time
 import warnings
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
 import numpy as np
 import pandas as pd
 
+from scoring import _pct, _score, pegu_score, sarvas_signal  # noqa: F401  (re-exported API)
+
 warnings.filterwarnings("ignore")
+log = logging.getLogger(__name__)
 
 TODAY      = datetime.now().strftime("%Y-%m-%d")
 TIMESTAMP  = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -64,9 +66,9 @@ except Exception:
     _CACHE_SYMS = set()
 
 try:
-    import openpyxl
-    from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
-    from openpyxl.utils import get_column_letter
+    import openpyxl  # noqa: F401
+    from openpyxl.styles import Alignment, Border, Font, PatternFill, Side  # noqa: F401
+    from openpyxl.utils import get_column_letter  # noqa: F401
     _XL = True
 except ImportError:
     _XL = False
@@ -101,7 +103,7 @@ def load_universe() -> pd.DataFrame:
     # ── International: global_tickers.py ────────────────────────────────────
     try:
         sys.path.insert(0, str(REPO_ROOT))
-        from global_tickers import MARKETS, tickers_for
+        from global_tickers import MARKETS, tickers_for  # noqa: F401
         intl_rows = []
         for code, mkt in MARKETS.items():
             if code == "IN":
@@ -162,10 +164,81 @@ def load_universe() -> pd.DataFrame:
 
 # ── Data fetching ─────────────────────────────────────────────────────────────
 
+MIN_HISTORY_BARS = 20     # fewer daily bars than this -> symbol skipped
+TRADING_DAYS_1Y = 252
+
+
+def compute_technicals(df: pd.DataFrame) -> dict:
+    """Technical snapshot from a daily OHLCV frame (needs a ``Close`` column; ``Volume`` optional).
+
+    Returns prices in the quote currency, RSI-14 (0-100), MACD(12,26) value, 20-day volume
+    ratio, and % distances from the 50/200-day averages and the 52-week high.
+    """
+    close = df["Close"]
+    last  = float(close.iloc[-1])
+    dma50  = float(close.rolling(50).mean().iloc[-1])
+    dma200 = float(close.rolling(200).mean().iloc[-1])
+    high52 = float(close.tail(TRADING_DAYS_1Y).max())
+    low52  = float(close.tail(TRADING_DAYS_1Y).min())
+
+    delta = close.diff()
+    gain  = delta.clip(lower=0).rolling(14).mean()
+    loss  = (-delta.clip(upper=0)).rolling(14).mean()
+    rsi   = float((100 - 100 / (1 + gain / loss.replace(0, np.nan))).iloc[-1])
+
+    ema12 = close.ewm(span=12, adjust=False).mean()
+    ema26 = close.ewm(span=26, adjust=False).mean()
+    macd  = float((ema12 - ema26).iloc[-1])
+
+    vol_ratio = None
+    if "Volume" in df.columns:
+        avg = df["Volume"].tail(20).mean()
+        if avg > 0:
+            vol_ratio = float(df["Volume"].iloc[-1] / avg)
+
+    return {
+        "last_price": round(last, 4),
+        "ma50": round(dma50, 4),
+        "ma200": round(dma200, 4),
+        "week52_high": round(high52, 4),
+        "week52_low": round(low52, 4),
+        "rsi_14": round(rsi, 2),
+        "macd": round(macd, 6),
+        "volume_ratio": round(vol_ratio, 3) if vol_ratio else None,
+        "pct_above_50dma":  round((last/dma50-1)*100, 2),
+        "pct_above_200dma": round((last/dma200-1)*100, 2),
+        "pct_from_52w_high":round((last/high52-1)*100, 2),
+    }
+
+
+def fundamentals_from_info(info: dict) -> dict:
+    """Map a yfinance ``Ticker.info`` dict to the scanner's fundamental fields (ratios as %)."""
+    return {
+        "pe_ratio":         info.get("trailingPE"),
+        "pb_ratio":         info.get("priceToBook"),
+        "peg_ratio":        info.get("pegRatio"),
+        "roe":              _pct(info.get("returnOnEquity")),
+        "operating_margins":_pct(info.get("operatingMargins")),
+        "debt_to_equity":   info.get("debtToEquity"),
+        "current_ratio":    info.get("currentRatio"),
+        "eps_trailing":     info.get("trailingEps"),
+        "eps_forward":      info.get("forwardEps"),
+        "revenue_growth":   _pct(info.get("revenueGrowth")),
+        "earnings_growth":  _pct(info.get("earningsGrowth")),
+        "dividend_yield":   _pct(info.get("dividendYield")),
+        "beta":             info.get("beta"),
+        "market_cap":       info.get("marketCap"),
+        "target_price":     info.get("targetMeanPrice"),
+        "sector":           info.get("sector"),
+        "industry":         info.get("industry"),
+        "name":             info.get("longName") or info.get("shortName"),
+    }
+
+
 def fetch_batch(symbols: List[str], period: str = "1y") -> Dict[str, dict]:
     """
     Fetch fundamental + technical snapshot for a batch of yfinance symbols.
-    Returns dict: yf_symbol → data_dict.
+    Returns dict: yf_symbol → data_dict.  Failures are logged at DEBUG and skipped.
     """
     result: Dict[str, dict] = {}
 
@@ -180,206 +253,51 @@ def fetch_batch(symbols: List[str], period: str = "1y") -> Dict[str, dict]:
         if raw.empty:
             return result
 
-        closes = raw["Close"] if isinstance(raw.columns, pd.MultiIndex) else raw[["Close"]]
-
         for sym in symbols:
             try:
-                # OHLC for technicals
                 if isinstance(raw.columns, pd.MultiIndex):
                     df = raw.xs(sym, axis=1, level=1).dropna(how="all")
                 else:
                     df = raw.copy()
 
-                if df.empty or len(df) < 20:
+                if df.empty or len(df) < MIN_HISTORY_BARS:
                     continue
 
-                close = df["Close"]
-                last  = float(close.iloc[-1])
-                dma50  = float(close.rolling(50).mean().iloc[-1])
-                dma200 = float(close.rolling(200).mean().iloc[-1])
-                high52 = float(close.tail(252).max())
-                low52  = float(close.tail(252).min())
+                result[sym] = compute_technicals(df)
 
-                delta = close.diff()
-                gain  = delta.clip(lower=0).rolling(14).mean()
-                loss  = (-delta.clip(upper=0)).rolling(14).mean()
-                rsi   = float((100 - 100 / (1 + gain / loss.replace(0, np.nan))).iloc[-1])
-
-                ema12 = close.ewm(span=12, adjust=False).mean()
-                ema26 = close.ewm(span=26, adjust=False).mean()
-                macd  = float((ema12 - ema26).iloc[-1])
-
-                vol_ratio = None
-                if "Volume" in df.columns:
-                    avg = df["Volume"].tail(20).mean()
-                    if avg > 0:
-                        vol_ratio = float(df["Volume"].iloc[-1] / avg)
-
-                result[sym] = {
-                    "last_price": round(last, 4),
-                    "ma50": round(dma50, 4),
-                    "ma200": round(dma200, 4),
-                    "week52_high": round(high52, 4),
-                    "week52_low": round(low52, 4),
-                    "rsi_14": round(rsi, 2),
-                    "macd": round(macd, 6),
-                    "volume_ratio": round(vol_ratio, 3) if vol_ratio else None,
-                    "pct_above_50dma":  round((last/dma50-1)*100, 2),
-                    "pct_above_200dma": round((last/dma200-1)*100, 2),
-                    "pct_from_52w_high":round((last/high52-1)*100, 2),
-                }
-
-            except Exception:
+            except Exception as exc:
+                log.debug("technicals failed for %s: %s", sym, exc)
                 continue
 
-    except Exception:
-        pass
+    except Exception as exc:
+        log.debug("yf.download failed for batch of %d: %s", len(symbols), exc)
 
     # Fetch fundamentals per ticker (slow but thorough)
     for sym in symbols:
         if sym not in result:
             continue
         try:
-            t = yf.Ticker(sym)
-            info = t.info or {}
-            result[sym].update({
-                "pe_ratio":         info.get("trailingPE"),
-                "pb_ratio":         info.get("priceToBook"),
-                "peg_ratio":        info.get("pegRatio"),
-                "roe":              _pct(info.get("returnOnEquity")),
-                "operating_margins":_pct(info.get("operatingMargins")),
-                "debt_to_equity":   info.get("debtToEquity"),
-                "current_ratio":    info.get("currentRatio"),
-                "eps_trailing":     info.get("trailingEps"),
-                "eps_forward":      info.get("forwardEps"),
-                "revenue_growth":   _pct(info.get("revenueGrowth")),
-                "earnings_growth":  _pct(info.get("earningsGrowth")),
-                "dividend_yield":   _pct(info.get("dividendYield")),
-                "beta":             info.get("beta"),
-                "market_cap":       info.get("marketCap"),
-                "target_price":     info.get("targetMeanPrice"),
-                "sector":           info.get("sector"),
-                "industry":         info.get("industry"),
-                "name":             info.get("longName") or info.get("shortName"),
-            })
-        except Exception:
-            pass
+            info = yf.Ticker(sym).info or {}
+            result[sym].update(fundamentals_from_info(info))
+        except Exception as exc:
+            log.debug("fundamentals failed for %s: %s", sym, exc)
 
     return result
 
 
-def _pct(v):
-    if v is None:
-        return None
-    return round(v * 100, 2) if abs(v) < 2 else round(v, 2)
-
-
-# ── Pegu scoring ──────────────────────────────────────────────────────────────
-
-def _score(val, breakpoints):
-    if val is None or (isinstance(val, float) and math.isnan(val)):
-        return breakpoints[-1][1]
-    for threshold, score in breakpoints:
-        if val < threshold:
-            return score
-    return breakpoints[-1][1]
-
-
-def pegu_score(row: dict) -> Tuple[float, str]:
-    """Compute Pegu score (0-100) and grade for a stock data dict."""
-
-    # Valuation (30 pts)
-    pe  = _score(row.get("pe_ratio"),  [(0,0),(10,4),(15,8),(20,12),(25,10),(35,6),(50,2),(1e9,0)])
-    peg = _score(row.get("peg_ratio"), [(0,0),(0.5,6),(1.0,10),(1.5,8),(2.0,4),(3.0,2),(1e9,0)])
-    pb  = _score(row.get("pb_ratio"),  [(0,0),(1,6),(2,10),(3,8),(5,4),(10,2),(1e9,0)])
-    val = min(pe + peg + pb, 30)
-
-    # Quality (30 pts)
-    roe = _score(row.get("roe"),              [(0,0),(5,3),(10,7),(15,12),(20,18),(25,22),(30,25),(1e9,30)])
-    opm = _score(row.get("operating_margins"),[(0,0),(5,2),(10,5),(15,8),(20,10),(25,12),(30,14),(1e9,16)])
-    de  = row.get("debt_to_equity")
-    de_s= 14 if de is None else (14 if de < 0 else _score(de, [(0,14),(20,12),(40,10),(80,7),(120,4),(200,2),(1e9,0)]))
-    qual = min(roe + opm + de_s, 30)
-
-    # Growth (25 pts)
-    epsg = _score(row.get("earnings_growth"), [(-1e9,0),(0,1),(5,4),(10,8),(15,12),(20,16),(25,20),(30,24),(1e9,25)])
-    revg = _score(row.get("revenue_growth"),  [(-1e9,0),(0,1),(5,2),(10,5),(15,7),(20,9),(25,11),(1e9,13)])
-    fpe  = row.get("pe_ratio"); efwd = row.get("eps_forward"); etr = row.get("eps_trailing")
-    fwd_pe = (row.get("last_price") / efwd) if efwd and efwd > 0 and row.get("last_price") else None
-    fpe_s  = _score(fwd_pe, [(0,0),(10,4),(15,6),(20,5),(25,4),(35,2),(1e9,0)])
-    grw = min(epsg + revg + fpe_s, 25)
-
-    # Safety (15 pts)
-    cr  = _score(row.get("current_ratio"),  [(0,0),(0.5,0),(1.0,4),(1.5,7),(2.0,10),(3.0,12),(1e9,15)])
-    div = _score(row.get("dividend_yield"), [(0,0),(1,2),(2,4),(3,5),(4,5),(6,4),(1e9,3)])
-    beta= row.get("beta")
-    b_s = 5 if beta is None else _score(abs(beta), [(0,0),(0.5,5),(0.8,4),(1.0,3),(1.2,2),(1.5,1),(1e9,0)])
-    saf = min(cr + div + b_s, 15)
-
-    total = val + qual + grw + saf
-    if   total >= 80: grade = "A+"
-    elif total >= 70: grade = "A"
-    elif total >= 60: grade = "B+"
-    elif total >= 50: grade = "B"
-    elif total >= 40: grade = "C"
-    elif total >= 25: grade = "D"
-    else:             grade = "F"
-
-    return round(total, 1), grade
-
-
-# ── Sarvas scan ───────────────────────────────────────────────────────────────
-
-def sarvas_signal(row: dict, pegu: float) -> Tuple[int, str]:
-    """Return (score, signal) for Sarvas scan."""
-    pts = 0
-
-    # Technical (45 pts)
-    ltp    = row.get("last_price", 0) or 0
-    ma50   = row.get("ma50") or 0
-    ma200  = row.get("ma200") or 0
-    rsi    = row.get("rsi_14")
-    macd   = row.get("macd")
-    vr     = row.get("volume_ratio")
-    h52    = row.get("week52_high") or 0
-
-    if ma50  and ltp > ma50:             pts += 8
-    if ma200 and ltp > ma200:            pts += 10
-    if ma50  and ma200 and ma50 > ma200: pts += 10  # golden cross
-    if rsi   and 35 <= rsi <= 68:        pts += 7
-    if macd  and macd > 0:               pts += 5
-    if vr    and vr > 1.5:              pts += 5
-    if h52   and ltp >= 0.9 * h52:      pts += 7
-
-    # Fundamental (55 pts)
-    eps = row.get("eps_trailing")
-    eg  = row.get("earnings_growth")
-    rg  = row.get("revenue_growth")
-    pe  = row.get("pe_ratio")
-    de  = row.get("debt_to_equity")
-    roe = row.get("roe")
-    tp  = row.get("target_price")
-
-    if eps and eps > 0:                  pts += 10
-    if eg  and eg > 10:                  pts += 8
-    if rg  and rg > 5:                   pts += 8
-    if pe  and 5 < pe < 30:             pts += 7
-    if de  is not None and de < 50:      pts += 7
-    if roe and roe > 15:                 pts += 7
-    if tp  and ltp and tp > ltp * 1.1:  pts += 8
-    if pegu >= 60:                       pts += 5  # Pegu bonus
-
-    if   pts >= 80: sig = "STRONG BUY"
-    elif pts >= 65: sig = "BUY"
-    elif pts >= 50: sig = "ACCUMULATE"
-    elif pts >= 35: sig = "HOLD"
-    elif pts >= 20: sig = "REDUCE"
-    else:           sig = "SELL"
-
-    return pts, sig
-
-
 # ── Main scan loop ────────────────────────────────────────────────────────────
+
+def _score_row(d: dict, data_source: str) -> dict:
+    """Add Pegu/Sarvas scores and the data-source label to a row dict (mutates and returns it)."""
+    pg, grade = pegu_score(d)
+    ss, sig   = sarvas_signal(d, pg)
+    d.update({
+        "pegu_score": pg, "pegu_grade": grade,
+        "sarvas_score": ss, "sarvas_signal": sig,
+        "data_source": data_source,
+    })
+    return d
+
 
 def scan_universe(
     universe: pd.DataFrame,
@@ -424,19 +342,10 @@ def scan_universe(
         if mock or not _YF:
             # Use any pre-existing data from the row, score with NaN-safe defaults
             for _, r in grp.iterrows():
-                d = r.to_dict()
-                pg, grade = pegu_score(d)
-                ss, sig   = sarvas_signal(d, pg)
-                d.update({
-                    "pegu_score": pg, "pegu_grade": grade,
-                    "sarvas_score": ss, "sarvas_signal": sig,
-                    "data_source": "local",
-                })
-                rows.append(d)
+                rows.append(_score_row(r.to_dict(), "local"))
         else:
             # Batch fetch via yfinance
             batches = [yf_syms[i:i+batch_size] for i in range(0, len(yf_syms), batch_size)]
-            total_b = len(batches)
 
             def process_batch(batch_idx_syms):
                 idx, batch = batch_idx_syms
@@ -459,14 +368,7 @@ def scan_universe(
                 sym = r.get("yf_symbol", "")
                 d   = r.to_dict()
                 d.update(fetched.get(sym, {}))
-                pg, grade = pegu_score(d)
-                ss, sig   = sarvas_signal(d, pg)
-                d.update({
-                    "pegu_score": pg, "pegu_grade": grade,
-                    "sarvas_score": ss, "sarvas_signal": sig,
-                    "data_source": "live" if sym in fetched else "no_data",
-                })
-                rows.append(d)
+                rows.append(_score_row(d, "live" if sym in fetched else "no_data"))
 
         mkt_df = pd.DataFrame(rows)
         mkt_df["scan_date"] = TODAY
@@ -508,7 +410,6 @@ def export_excel(df: pd.DataFrame, out_dir: Path) -> Path:
     from openpyxl import Workbook
     from openpyxl.styles import Alignment, Font, PatternFill
     from openpyxl.utils import get_column_letter
-    from openpyxl.worksheet.table import Table, TableStyleInfo
 
     xlsx_path = REPORTS / f"Global_Research_{DATE_LABEL}.xlsx"
     wb = Workbook()

@@ -12,22 +12,23 @@ Usage:
 """
 
 from __future__ import annotations
+
 import json
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 _DATA = Path(__file__).parent / "data" / "global_universe.json"
 
 # ── lazy loader ───────────────────────────────────────────────────────────────
 
-_UNIVERSE: Dict[str, dict] | None = None
+_UNIVERSE: Optional[Dict[str, dict]] = None
 
 
 def _load() -> Dict[str, dict]:
     global _UNIVERSE
     if _UNIVERSE is None:
         if _DATA.exists():
-            with open(_DATA) as f:
+            with open(_DATA, encoding="utf-8") as f:
                 _UNIVERSE = json.load(f)
         else:
             # Minimal fallback until universe_builder.py is run
@@ -52,7 +53,7 @@ def tickers_for(*market_codes: str) -> List[str]:
 def all_tickers() -> List[str]:
     """Return all tickers across every market in the universe."""
     universe = _load()
-    out = []
+    out: List[str] = []
     for m in universe.values():
         out.extend(m["yf_symbols"])
     return out
@@ -64,7 +65,7 @@ def market_codes() -> List[str]:
 
 
 def market_summary() -> None:
-    """Print a summary table."""
+    """Print a table of market code, name, exchange and ticker count, with totals."""
     universe = _load()
     total = 0
     print(f"{'Code':<5} {'Market':<35} {'Exchange':<25} {'Tickers':>8}")
