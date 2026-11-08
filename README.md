@@ -12,6 +12,8 @@
 
 # Global Ticker Universe
 
+> **Walkthrough:** [How-to post on masaladeutsch](https://masaladeutsch.blogspot.com/2026/10/how-to-use-global-ticker-universe-look.html) · [Video on YouTube](https://www.youtube.com/watch?v=hnP2Q4nRgdE)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/herrrickshaw/global-ticker-universe/blob/main/notebooks/colab_test.ipynb)
 
 **60,971 validated tickers across 25 markets** — cross-referenced against FinanceDatabase, deduplicated and filtered for active listings.
