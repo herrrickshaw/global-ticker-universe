@@ -1,1 +1,5 @@
 pytest>=8.0
+pytest-cov
+pandas
+numpy
+openpyxl
