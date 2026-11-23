@@ -550,3 +550,51 @@ def test_main_excel_only_reads_existing_csvs(reports, monkeypatch, capsys):
     assert exported == [["B", "A"]]                                        # sorted by Pegu, descending
     printed = capsys.readouterr().out
     assert "Top 20 by Pegu Score" in printed and "B" in printed
+
+
+# ---- boundary cases added after the mutation check ------------------------------------------------
+
+def test_pegu_all_four_component_caps_bind_together():
+    # valuation 12+10+10 = 32 -> 30; quality 30+16+14 -> 30; growth 25+13+0 -> 25; safety 15+3+5 -> 15
+    assert gs.pegu_score({"pe_ratio": 17, "peg_ratio": 0.8, "pb_ratio": 1.5}) == (100.0, "A+")
+
+
+def test_pegu_beta_uses_magnitude():
+    low = {"current_ratio": 0.4, "dividend_yield": 0.5}
+    assert gs.pegu_score(dict(low, beta=-0.9)) == gs.pegu_score(dict(low, beta=0.9))
+    assert gs.pegu_score(dict(low, beta=0.9)) != gs.pegu_score(dict(low, beta=1.6))
+
+
+def test_sarvas_exact_float_boundaries():
+    s = lambda **r: gs.sarvas_signal(r, 0)[0]  # noqa: E731
+    assert s(last_price=90.0, week52_high=100.0) == 7                      # 90 >= 0.9 * 100 exactly
+    assert 1000 * 1.1 == 1100.0
+    assert s(last_price=1000.0, target_price=1100.0) == 0                  # strictly more than +10% is required
+    assert s(last_price=1000.0, target_price=1100.01) == 8
+
+
+def test_fetch_batch_52_week_window_is_252_sessions(yf_installed):
+    closes = [float(i) for i in range(1, 261)]
+    closes[8] = 1000.0                                                      # oldest session still inside tail(252)
+    yf_installed(FakeYF(multi_frame({"AAA": closes})))
+    r = gs.fetch_batch(["AAA"])["AAA"]
+    assert r["week52_high"] == 1000.0
+    closes[8] = 9.0
+    closes[7] = 5000.0                                                      # one session older: outside the window
+    yf_installed(FakeYF(multi_frame({"AAA": closes})))
+    assert gs.fetch_batch(["AAA"])["AAA"]["week52_high"] == 260.0
+
+
+def test_scan_universe_stamps_scan_date(reports):
+    res = gs.scan_universe(universe_df(), mock=True)
+    assert (res["scan_date"] == gs.TODAY).all()
+
+
+def test_by_market_sheet_counts_reduce_and_sell_as_sells(reports):
+    from openpyxl import load_workbook
+    reports.mkdir(parents=True)
+    df = results_df().iloc[:2].copy()
+    df["market"] = "US"
+    df["sarvas_signal"] = ["REDUCE", "SELL"]
+    ws = load_workbook(gs.export_excel(df, reports))["By Market"]
+    assert ws.cell(2, 9).value == 2 and ws.cell(2, 7).value == 0

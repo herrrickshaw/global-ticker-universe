@@ -557,3 +557,19 @@ def test_main_extractor_prerun_unless_mock_or_no_fetch(tmp_path, monkeypatch, ca
     run_main(monkeypatch, "--no-fetch", *base)
     run_main(monkeypatch, "--mock", *base)
     assert len(calls) == 1
+
+
+# ---- boundary cases added after the mutation check ------------------------------------------------
+
+def test_extractor_csv_with_exactly_six_prices_is_used(tmp_path, monkeypatch):
+    pd.DataFrame({"symbol": list("ABCDEF"), "exchange": ["NSE"] * 6, "last_price": [1.0] * 6}).to_csv(
+        tmp_path / "all_stocks_combined.csv", index=False)
+    monkeypatch.setattr(ds, "fetch_live_nse_data", lambda s: pytest.fail("extractor CSV should be used"))
+    assert len(ds.load_or_generate_data(str(tmp_path), use_mock=False)) == 6
+
+
+def test_enrich_with_exactly_fifty_bars_computes_ma50(monkeypatch):
+    closes = [100.0 + i for i in range(50)]
+    monkeypatch.setitem(sys.modules, "yfinance", fake_yf({}, closes))
+    r = ds.enrich_with_yfinance(pd.DataFrame({"symbol": ["A"], "exchange": ["NSE"]})).iloc[0]
+    assert r["ma_50"] == pytest.approx(np.mean(closes))
